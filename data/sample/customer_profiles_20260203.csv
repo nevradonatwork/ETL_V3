@@ -1,0 +1,501 @@
+customer_id,name,email,phone,address,city,state,segment,risk_rating,created_date,status
+CUST000001,Jessica Taylor,jessica.taylor@gmail.com,+1-287-365-3249,6116 Taylor Street,Boston,MA,private,medium,2021-04-02,active
+CUST000002,Mary Taylor,mary.taylor@email.com,+1-847-141-2472,6308 Taylor Street,San Jose,CA,business,low,2025-04-15,active
+CUST000003,Joseph Davis,joseph.davis@yahoo.com,+1-630-164-4236,2646 Davis Street,Fort Worth,TX,private,medium,2025-09-05,inactive
+CUST000004,Ava Anderson,ava.anderson@gmail.com,+1-742-845-7198,504 Anderson Street,San Antonio,TX,private,high,2021-03-28,closed
+CUST000005,Michael Jackson,michael.jackson@outlook.com,+1-313-186-3638,5147 Jackson Street,San Antonio,TX,private,low,2021-05-01,active
+CUST000006,Linda White,linda.white@yahoo.com,+1-991-998-3639,4172 White Street,San Antonio,TX,business,low,2021-03-05,active
+CUST000007,David Johnson,david.johnson@yahoo.com,+1-560-461-4620,7929 Johnson Street,Boston,MA,business,low,2023-04-01,inactive
+CUST000008,Patricia Smith,patricia.smith@outlook.com,+1-731-624-9606,9952 Smith Street,Chicago,IL,retail,medium,2022-02-05,active
+CUST000009,Emma Johnson,emma.johnson@yahoo.com,+1-851-141-7058,9239 Johnson Street,San Antonio,TX,private,medium,2024-10-30,active
+CUST000010,Patricia Davis,patricia.davis@email.com,+1-830-275-9053,9810 Davis Street,Detroit,MI,business,medium,2024-04-22,active
+CUST000011,Charles Gonzalez,charles.gonzalez@gmail.com,+1-872-348-7957,7576 Gonzalez Street,Austin,TX,premium,high,2020-05-12,active
+CUST000012,Karen Moore,karen.moore@gmail.com,+1-668-193-9476,4297 Moore Street,New York,NY,retail,high,2020-06-05,active
+CUST000013,Robert Thomas,robert.thomas@gmail.com,+1-330-170-9756,3655 Thomas Street,Fort Worth,TX,retail,high,2020-09-03,active
+CUST000014,Mary Miller,mary.miller@yahoo.com,+1-510-852-2032,7200 Miller Street,Chicago,IL,business,low,2023-08-02,active
+CUST000015,David Miller,david.miller@email.com,+1-917-659-7473,4142 Miller Street,Portland,OR,retail,medium,2025-08-14,active
+CUST000016,Michael Jackson,michael.jackson@yahoo.com,+1-907-571-8714,2908 Jackson Street,Fort Worth,TX,retail,low,2024-01-31,active
+CUST000017,Richard Martinez,richard.martinez@yahoo.com,+1-693-600-6722,2398 Martinez Street,Philadelphia,PA,retail,high,2025-06-17,active
+CUST000018,John Anderson,john.anderson@email.com,+1-397-660-1792,9630 Anderson Street,Chicago,IL,retail,high,2023-11-13,active
+CUST000019,Ava Hernandez,ava.hernandez@gmail.com,+1-996-908-2699,2139 Hernandez Street,Chicago,IL,premium,low,2021-07-06,active
+CUST000020,Thomas Rodriguez,thomas.rodriguez@yahoo.com,+1-288-300-1008,2207 Rodriguez Street,Dallas,TX,private,low,2023-10-13,active
+CUST000021,Karen Martin,karen.martin@yahoo.com,+1-275-317-2522,8842 Martin Street,Portland,OR,private,low,2022-12-06,closed
+CUST000022,Richard Jackson,richard.jackson@email.com,+1-321-790-9167,951 Jackson Street,Portland,OR,private,low,2022-06-17,active
+CUST000023,Sarah Jackson,sarah.jackson@email.com,+1-768-317-8639,2687 Jackson Street,Jacksonville,FL,private,low,2022-11-20,active
+CUST000024,Joseph Taylor,joseph.taylor@yahoo.com,+1-388-286-4162,1811 Taylor Street,Houston,TX,private,high,2024-08-01,inactive
+CUST000025,Charles Lee,charles.lee@gmail.com,+1-349-897-1798,4496 Lee Street,Denver,CO,retail,low,2023-10-20,closed
+CUST000026,Noah Smith,noah.smith@outlook.com,+1-809-549-1643,9667 Smith Street,New York,NY,retail,high,2021-10-11,closed
+CUST000027,Mary Williams,mary.williams@outlook.com,+1-409-284-4970,4508 Williams Street,Boston,MA,premium,medium,2020-09-13,active
+CUST000028,Jessica Martinez,jessica.martinez@outlook.com,+1-543-595-3859,3674 Martinez Street,Boston,MA,business,high,2022-01-21,active
+CUST000029,Emma White,emma.white@email.com,+1-553-496-8077,2406 White Street,San Diego,CA,premium,medium,2021-08-04,active
+CUST000030,Barbara Hernandez,barbara.hernandez@gmail.com,+1-941-372-2428,4751 Hernandez Street,Austin,TX,private,medium,2023-01-10,active
+CUST000031,Robert Thomas,robert.thomas@yahoo.com,+1-973-757-7996,9853 Thomas Street,San Diego,CA,private,medium,2023-07-19,active
+CUST000032,Susan Jackson,susan.jackson@outlook.com,+1-639-129-3501,8031 Jackson Street,Charlotte,NC,premium,low,2022-01-19,active
+CUST000033,Emma Martin,emma.martin@email.com,+1-613-231-6824,5145 Martin Street,Austin,TX,retail,high,2025-12-17,active
+CUST000034,David Hernandez,david.hernandez@yahoo.com,+1-634-605-8245,4324 Hernandez Street,Dallas,TX,retail,medium,2024-07-01,active
+CUST000035,Oliver Anderson,oliver.anderson@yahoo.com,+1-420-271-6762,7403 Anderson Street,Denver,CO,retail,low,2021-12-19,active
+CUST000036,Emma Wilson,emma.wilson@yahoo.com,+1-686-684-3172,8834 Wilson Street,San Jose,CA,premium,medium,2021-04-05,active
+CUST000037,Robert Anderson,robert.anderson@outlook.com,+1-541-848-4846,4332 Anderson Street,Philadelphia,PA,retail,low,2023-05-30,inactive
+CUST000038,James Jones,james.jones@gmail.com,+1-535-805-1079,1637 Jones Street,Jacksonville,FL,retail,medium,2021-07-02,active
+CUST000039,Joseph Martinez,joseph.martinez@yahoo.com,+1-952-716-1379,5177 Martinez Street,Phoenix,AZ,private,low,2021-01-19,active
+CUST000040,William Gonzalez,william.gonzalez@email.com,+1-315-544-2244,154 Gonzalez Street,Dallas,TX,premium,high,2020-07-19,active
+CUST000041,John Davis,john.davis@gmail.com,+1-321-546-3379,7076 Davis Street,Houston,TX,retail,high,2022-03-19,active
+CUST000042,James Anderson,james.anderson@yahoo.com,+1-959-508-9948,6089 Anderson Street,Seattle,WA,private,high,2022-10-11,active
+CUST000043,Michael Thomas,michael.thomas@email.com,+1-820-887-9835,1289 Thomas Street,Philadelphia,PA,business,low,2022-12-09,active
+CUST000044,Jessica Brown,jessica.brown@yahoo.com,+1-839-341-2032,6279 Brown Street,Denver,CO,retail,high,2022-07-10,active
+CUST000045,Sarah Garcia,sarah.garcia@gmail.com,+1-993-989-3010,721 Garcia Street,Los Angeles,CA,retail,medium,2020-03-23,active
+CUST000046,Robert Lee,robert.lee@email.com,+1-680-580-5778,8338 Lee Street,Boston,MA,retail,medium,2020-07-01,active
+CUST000047,Mary White,mary.white@yahoo.com,+1-258-700-3470,2565 White Street,San Antonio,TX,business,low,2021-11-11,active
+CUST000048,Susan Jones,susan.jones@gmail.com,+1-752-809-9015,8826 Jones Street,Boston,MA,retail,medium,2021-04-12,active
+CUST000049,Barbara Wilson,barbara.wilson@email.com,+1-877-446-4236,2328 Wilson Street,New York,NY,business,medium,2022-09-19,active
+CUST000050,Robert Jackson,robert.jackson@email.com,+1-836-520-9152,6602 Jackson Street,Detroit,MI,business,medium,2022-02-09,active
+CUST000051,Noah Wilson,noah.wilson@gmail.com,+1-654-637-2844,503 Wilson Street,Los Angeles,CA,private,medium,2025-09-10,active
+CUST000052,Robert White,robert.white@email.com,+1-449-230-6392,658 White Street,Philadelphia,PA,premium,low,2020-08-08,active
+CUST000053,Karen Martin,karen.martin@email.com,+1-500-523-7924,3265 Martin Street,Chicago,IL,private,low,2020-09-04,active
+CUST000054,Joseph Williams,joseph.williams@email.com,+1-690-216-8790,3243 Williams Street,Boston,MA,private,low,2022-12-05,active
+CUST000055,Oliver Rodriguez,oliver.rodriguez@email.com,+1-621-519-8658,3088 Rodriguez Street,San Jose,CA,business,high,2024-01-31,inactive
+CUST000056,Jennifer Martin,jennifer.martin@yahoo.com,+1-361-504-3188,592 Martin Street,Phoenix,AZ,private,medium,2025-05-20,active
+CUST000057,Elizabeth Williams,elizabeth.williams@outlook.com,+1-635-495-3717,3493 Williams Street,Boston,MA,premium,high,2023-12-31,active
+CUST000058,William Thompson,william.thompson@yahoo.com,+1-998-742-1781,7970 Thompson Street,Denver,CO,retail,medium,2023-11-17,inactive
+CUST000059,Robert Smith,robert.smith@email.com,+1-822-665-1695,2399 Smith Street,Austin,TX,business,high,2023-08-11,active
+CUST000060,Richard Jackson,richard.jackson@gmail.com,+1-937-607-9007,4264 Jackson Street,Fort Worth,TX,private,high,2024-07-10,active
+CUST000061,Robert Davis,robert.davis@email.com,+1-626-945-8680,5230 Davis Street,Detroit,MI,business,high,2021-10-18,active
+CUST000062,Noah Hernandez,noah.hernandez@yahoo.com,+1-971-541-4090,4006 Hernandez Street,Boston,MA,premium,high,2023-12-12,inactive
+CUST000063,Sarah Thomas,sarah.thomas@email.com,+1-336-514-9422,5308 Thomas Street,Austin,TX,premium,high,2022-12-09,active
+CUST000064,Richard Martin,richard.martin@email.com,+1-402-263-7632,9442 Martin Street,Dallas,TX,private,medium,2024-01-05,active
+CUST000065,David Johnson,david.johnson@yahoo.com,+1-745-833-7089,3036 Johnson Street,Phoenix,AZ,private,low,2021-05-03,active
+CUST000066,Noah Rodriguez,noah.rodriguez@outlook.com,+1-925-427-8982,2477 Rodriguez Street,Detroit,MI,premium,high,2023-01-19,active
+CUST000067,Patricia Gonzalez,patricia.gonzalez@outlook.com,+1-883-160-6726,2637 Gonzalez Street,Houston,TX,private,medium,2021-07-30,inactive
+CUST000068,Robert Thompson,robert.thompson@email.com,+1-731-728-3877,3842 Thompson Street,Dallas,TX,premium,low,2025-09-18,inactive
+CUST000069,William Johnson,william.johnson@email.com,+1-363-465-8212,6257 Johnson Street,San Diego,CA,business,low,2024-02-26,active
+CUST000070,James Wilson,james.wilson@email.com,+1-355-864-6830,9017 Wilson Street,Los Angeles,CA,business,medium,2020-11-25,active
+CUST000071,Jessica Brown,jessica.brown@outlook.com,+1-283-111-7694,2983 Brown Street,Columbus,OH,premium,low,2023-09-01,active
+CUST000072,Joseph Martin,joseph.martin@yahoo.com,+1-828-115-2379,9641 Martin Street,Fort Worth,TX,private,high,2021-12-05,active
+CUST000073,William Miller,william.miller@yahoo.com,+1-895-772-6925,7636 Miller Street,Los Angeles,CA,premium,high,2025-02-07,active
+CUST000074,Ava Miller,ava.miller@outlook.com,+1-564-154-6804,7937 Miller Street,New York,NY,business,medium,2024-09-24,active
+CUST000075,William Wilson,william.wilson@yahoo.com,+1-632-433-5022,5362 Wilson Street,Los Angeles,CA,private,medium,2021-05-27,active
+CUST000076,Richard Hernandez,richard.hernandez@outlook.com,+1-925-391-5202,4553 Hernandez Street,Chicago,IL,private,medium,2022-02-11,active
+CUST000077,James Rodriguez,james.rodriguez@gmail.com,+1-675-857-9479,684 Rodriguez Street,Boston,MA,retail,high,2021-11-29,active
+CUST000078,William Anderson,william.anderson@yahoo.com,+1-642-682-9476,1600 Anderson Street,Chicago,IL,private,high,2020-11-01,active
+CUST000079,Karen Moore,karen.moore@email.com,+1-892-925-2042,1076 Moore Street,Houston,TX,private,medium,2020-07-03,active
+CUST000080,John Taylor,john.taylor@gmail.com,+1-545-693-7385,9884 Taylor Street,Charlotte,NC,business,high,2023-03-17,active
+CUST000081,Ava Wilson,ava.wilson@gmail.com,+1-435-279-5769,6346 Wilson Street,San Antonio,TX,retail,medium,2022-01-03,closed
+CUST000082,John Davis,john.davis@email.com,+1-335-220-1617,258 Davis Street,Portland,OR,retail,high,2025-10-30,closed
+CUST000083,David Thomas,david.thomas@yahoo.com,+1-845-959-5545,3251 Thomas Street,Dallas,TX,retail,high,2022-09-26,active
+CUST000084,Sarah Lee,sarah.lee@yahoo.com,+1-515-775-9130,2466 Lee Street,Portland,OR,retail,medium,2022-08-17,active
+CUST000085,Ava Johnson,ava.johnson@outlook.com,+1-326-324-5880,3262 Johnson Street,Los Angeles,CA,retail,high,2023-06-01,active
+CUST000086,Linda Davis,linda.davis@outlook.com,+1-453-518-4707,5520 Davis Street,Chicago,IL,business,low,2024-11-20,active
+CUST000087,William Martin,william.martin@outlook.com,+1-392-437-3288,8227 Martin Street,New York,NY,business,high,2020-02-02,active
+CUST000088,James Moore,james.moore@outlook.com,+1-207-461-1696,634 Moore Street,San Jose,CA,business,high,2022-07-01,active
+CUST000089,Barbara Brown,barbara.brown@gmail.com,+1-682-290-8166,4649 Brown Street,Philadelphia,PA,business,high,2022-09-11,active
+CUST000090,David White,david.white@email.com,+1-334-385-5353,7223 White Street,Charlotte,NC,retail,low,2021-08-15,active
+CUST000091,Susan Davis,susan.davis@email.com,+1-576-312-2115,780 Davis Street,Chicago,IL,premium,medium,2022-11-13,active
+CUST000092,Sophia Thomas,sophia.thomas@outlook.com,+1-485-823-1792,232 Thomas Street,New York,NY,private,high,2020-12-17,active
+CUST000093,Susan Martinez,susan.martinez@yahoo.com,+1-563-425-7108,600 Martinez Street,Charlotte,NC,retail,medium,2020-11-09,active
+CUST000094,Patricia Moore,patricia.moore@yahoo.com,+1-840-661-9782,2684 Moore Street,San Diego,CA,business,low,2021-04-12,active
+CUST000095,Linda Rodriguez,linda.rodriguez@yahoo.com,+1-967-674-6618,1985 Rodriguez Street,San Jose,CA,retail,medium,2025-03-15,active
+CUST000096,Patricia Anderson,patricia.anderson@email.com,+1-897-780-6614,8907 Anderson Street,Denver,CO,premium,high,2020-05-21,active
+CUST000097,Susan Brown,susan.brown@yahoo.com,+1-692-244-2179,5457 Brown Street,Philadelphia,PA,private,high,2020-07-04,active
+CUST000098,William Moore,william.moore@outlook.com,+1-492-622-3938,8061 Moore Street,Phoenix,AZ,retail,high,2024-02-21,active
+CUST000099,William Hernandez,william.hernandez@email.com,+1-956-698-3160,3927 Hernandez Street,Denver,CO,private,medium,2022-11-19,active
+CUST000100,Barbara Garcia,barbara.garcia@gmail.com,+1-621-596-4774,4194 Garcia Street,Jacksonville,FL,private,medium,2020-05-26,active
+CUST000101,Patricia Anderson,patricia.anderson@outlook.com,+1-521-130-7323,5924 Anderson Street,Los Angeles,CA,business,medium,2025-01-02,active
+CUST000102,Thomas Wilson,thomas.wilson@gmail.com,+1-698-265-6589,8462 Wilson Street,Seattle,WA,business,low,2024-01-24,active
+CUST000103,Richard Jones,richard.jones@yahoo.com,+1-890-719-6573,7873 Jones Street,Austin,TX,business,high,2020-01-01,active
+CUST000104,Patricia Thompson,patricia.thompson@email.com,+1-650-295-7915,4857 Thompson Street,Los Angeles,CA,premium,medium,2021-10-19,active
+CUST000105,William Moore,william.moore@gmail.com,+1-705-520-1875,8655 Moore Street,Dallas,TX,premium,high,2021-11-11,active
+CUST000106,Mary Martinez,mary.martinez@yahoo.com,+1-235-151-5567,2456 Martinez Street,Jacksonville,FL,premium,low,2024-08-05,active
+CUST000107,Linda Thompson,linda.thompson@yahoo.com,+1-475-191-7983,2553 Thompson Street,Charlotte,NC,private,medium,2025-03-13,active
+CUST000108,Ava Martin,ava.martin@email.com,+1-840-782-4816,4249 Martin Street,Philadelphia,PA,private,low,2024-01-04,closed
+CUST000109,Patricia Thomas,patricia.thomas@yahoo.com,+1-764-996-9868,1220 Thomas Street,Chicago,IL,private,low,2023-08-26,active
+CUST000110,Elizabeth Lopez,elizabeth.lopez@outlook.com,+1-812-685-1122,3565 Lopez Street,Houston,TX,retail,medium,2024-06-17,active
+CUST000111,Sarah Garcia,sarah.garcia@email.com,+1-657-685-9367,9328 Garcia Street,San Diego,CA,premium,high,2020-12-26,active
+CUST000112,James Gonzalez,james.gonzalez@email.com,+1-985-534-4812,1254 Gonzalez Street,Jacksonville,FL,private,low,2024-06-30,active
+CUST000113,Sophia Moore,sophia.moore@yahoo.com,+1-664-857-5694,9221 Moore Street,New York,NY,business,medium,2021-12-15,active
+CUST000114,Charles Hernandez,charles.hernandez@outlook.com,+1-983-282-2334,2659 Hernandez Street,San Diego,CA,retail,low,2025-01-23,active
+CUST000115,William Smith,william.smith@gmail.com,+1-804-970-3851,3525 Smith Street,Portland,OR,premium,high,2023-03-01,active
+CUST000116,Barbara Hernandez,barbara.hernandez@yahoo.com,+1-725-219-1437,5004 Hernandez Street,San Antonio,TX,retail,high,2024-10-12,active
+CUST000117,Noah Gonzalez,noah.gonzalez@email.com,+1-592-774-6149,4602 Gonzalez Street,Chicago,IL,private,high,2020-02-18,active
+CUST000118,Michael Lopez,michael.lopez@gmail.com,+1-918-664-1707,4163 Lopez Street,Boston,MA,premium,high,2020-09-27,active
+CUST000119,Elizabeth Martin,elizabeth.martin@gmail.com,+1-828-945-8901,2790 Martin Street,San Jose,CA,retail,medium,2023-04-20,active
+CUST000120,Joseph Anderson,joseph.anderson@gmail.com,+1-876-524-4842,7783 Anderson Street,Seattle,WA,premium,low,2024-01-28,active
+CUST000121,Robert Brown,robert.brown@outlook.com,+1-605-719-1524,2777 Brown Street,Columbus,OH,retail,high,2021-01-06,active
+CUST000122,Sophia Rodriguez,sophia.rodriguez@gmail.com,+1-933-997-9257,5346 Rodriguez Street,Los Angeles,CA,business,medium,2025-03-19,active
+CUST000123,James Taylor,james.taylor@gmail.com,+1-533-955-5846,8234 Taylor Street,New York,NY,premium,high,2025-03-12,active
+CUST000124,Emma Rodriguez,emma.rodriguez@yahoo.com,+1-371-731-9231,3221 Rodriguez Street,Houston,TX,private,high,2025-05-01,active
+CUST000125,Sophia Jones,sophia.jones@gmail.com,+1-787-428-3463,6675 Jones Street,Portland,OR,private,medium,2024-09-26,active
+CUST000126,Oliver White,oliver.white@yahoo.com,+1-712-811-6761,1148 White Street,Seattle,WA,business,medium,2023-08-11,active
+CUST000127,Barbara Jones,barbara.jones@gmail.com,+1-999-767-8160,2819 Jones Street,San Diego,CA,retail,high,2024-02-25,active
+CUST000128,Robert Rodriguez,robert.rodriguez@outlook.com,+1-272-108-7901,7057 Rodriguez Street,Chicago,IL,private,medium,2023-12-05,inactive
+CUST000129,Ava Moore,ava.moore@email.com,+1-733-262-7098,2681 Moore Street,Boston,MA,business,low,2020-03-11,active
+CUST000130,Noah White,noah.white@gmail.com,+1-273-507-4998,2881 White Street,Los Angeles,CA,retail,low,2021-01-01,active
+CUST000131,Robert Smith,robert.smith@outlook.com,+1-302-142-2354,7995 Smith Street,Houston,TX,premium,medium,2021-11-05,active
+CUST000132,Karen Miller,karen.miller@yahoo.com,+1-578-878-5069,4800 Miller Street,San Diego,CA,business,high,2022-04-19,active
+CUST000133,Sarah Miller,sarah.miller@gmail.com,+1-570-269-3749,7916 Miller Street,Boston,MA,business,high,2021-03-06,inactive
+CUST000134,Mary Gonzalez,mary.gonzalez@gmail.com,+1-315-888-6120,2306 Gonzalez Street,Boston,MA,private,low,2025-02-14,active
+CUST000135,Barbara White,barbara.white@outlook.com,+1-511-483-8003,1105 White Street,San Diego,CA,premium,low,2023-07-25,active
+CUST000136,David Davis,david.davis@gmail.com,+1-256-546-3589,8488 Davis Street,Portland,OR,private,low,2022-12-01,active
+CUST000137,Karen Martin,karen.martin@outlook.com,+1-560-204-6787,2785 Martin Street,Columbus,OH,premium,medium,2024-08-03,active
+CUST000138,Emma Moore,emma.moore@email.com,+1-422-776-1421,8153 Moore Street,New York,NY,premium,low,2021-08-26,active
+CUST000139,Barbara Lee,barbara.lee@email.com,+1-941-819-1965,6007 Lee Street,Columbus,OH,business,low,2020-09-23,inactive
+CUST000140,Oliver Garcia,oliver.garcia@yahoo.com,+1-633-134-9986,2748 Garcia Street,Los Angeles,CA,private,low,2021-08-14,inactive
+CUST000141,Susan Johnson,susan.johnson@gmail.com,+1-918-543-7949,7972 Johnson Street,San Antonio,TX,business,low,2020-06-15,active
+CUST000142,Sarah Lopez,sarah.lopez@gmail.com,+1-782-330-6721,2607 Lopez Street,San Antonio,TX,private,high,2022-07-06,active
+CUST000143,Noah White,noah.white@outlook.com,+1-432-323-4211,5874 White Street,Charlotte,NC,retail,medium,2021-07-24,active
+CUST000144,Barbara Martin,barbara.martin@email.com,+1-719-777-6310,4249 Martin Street,Jacksonville,FL,business,high,2024-09-08,active
+CUST000145,William Garcia,william.garcia@outlook.com,+1-372-360-1384,3250 Garcia Street,Chicago,IL,premium,high,2023-07-28,active
+CUST000146,James Thomas,james.thomas@yahoo.com,+1-522-207-4590,8401 Thomas Street,Charlotte,NC,business,low,2023-06-04,active
+CUST000147,Joseph Davis,joseph.davis@outlook.com,+1-247-937-1385,2025 Davis Street,Boston,MA,retail,low,2025-11-28,active
+CUST000148,Emma Thompson,emma.thompson@outlook.com,+1-421-831-2340,4096 Thompson Street,San Antonio,TX,premium,high,2025-12-25,active
+CUST000149,Ava Lee,ava.lee@yahoo.com,+1-440-943-8676,721 Lee Street,Denver,CO,private,high,2023-07-22,active
+CUST000150,John Jackson,john.jackson@yahoo.com,+1-300-145-2944,3176 Jackson Street,Seattle,WA,business,medium,2020-11-06,closed
+CUST000151,Jessica Wilson,jessica.wilson@outlook.com,+1-841-306-6664,177 Wilson Street,Columbus,OH,business,low,2022-09-15,inactive
+CUST000152,Robert Martinez,robert.martinez@email.com,+1-212-856-8623,5212 Martinez Street,Dallas,TX,premium,high,2022-07-15,active
+CUST000153,Karen Hernandez,karen.hernandez@gmail.com,+1-789-699-5989,6193 Hernandez Street,Chicago,IL,business,low,2025-01-06,active
+CUST000154,Patricia Davis,patricia.davis@yahoo.com,+1-941-449-7794,6315 Davis Street,San Diego,CA,retail,high,2025-01-29,active
+CUST000155,Ava Lopez,ava.lopez@email.com,+1-526-309-4203,5600 Lopez Street,Jacksonville,FL,business,low,2025-01-14,active
+CUST000156,Noah Jones,noah.jones@outlook.com,+1-287-863-6497,9962 Jones Street,Boston,MA,business,medium,2024-07-12,active
+CUST000157,Mary Gonzalez,mary.gonzalez@gmail.com,+1-443-882-2285,7505 Gonzalez Street,Boston,MA,business,medium,2024-12-31,inactive
+CUST000158,Karen Gonzalez,karen.gonzalez@email.com,+1-496-730-8514,5576 Gonzalez Street,Dallas,TX,retail,low,2022-04-09,active
+CUST000159,Charles Johnson,charles.johnson@gmail.com,+1-756-854-4767,7426 Johnson Street,Portland,OR,private,low,2024-03-24,active
+CUST000160,Linda Martin,linda.martin@yahoo.com,+1-244-230-7502,302 Martin Street,Houston,TX,private,medium,2022-08-31,active
+CUST000161,William Williams,william.williams@email.com,+1-587-899-9288,7313 Williams Street,Philadelphia,PA,retail,high,2023-12-19,active
+CUST000162,Barbara Lee,barbara.lee@yahoo.com,+1-821-919-3299,1371 Lee Street,New York,NY,premium,low,2022-11-29,active
+CUST000163,Jennifer Wilson,jennifer.wilson@yahoo.com,+1-670-426-8950,5895 Wilson Street,Charlotte,NC,premium,high,2021-11-23,active
+CUST000164,William Lopez,william.lopez@gmail.com,+1-350-521-5853,268 Lopez Street,Los Angeles,CA,premium,medium,2020-01-15,active
+CUST000165,Sarah Gonzalez,sarah.gonzalez@yahoo.com,+1-313-250-4653,311 Gonzalez Street,Chicago,IL,private,high,2022-10-26,active
+CUST000166,Thomas Gonzalez,thomas.gonzalez@email.com,+1-551-493-4456,1137 Gonzalez Street,Los Angeles,CA,premium,low,2022-01-18,active
+CUST000167,Ava Davis,ava.davis@yahoo.com,+1-494-154-2819,7028 Davis Street,Seattle,WA,premium,high,2024-04-05,closed
+CUST000168,James Martinez,james.martinez@email.com,+1-737-549-1122,7536 Martinez Street,Phoenix,AZ,business,low,2024-04-07,active
+CUST000169,Joseph Smith,joseph.smith@gmail.com,+1-212-824-6193,2477 Smith Street,San Diego,CA,retail,medium,2021-05-26,active
+CUST000170,Jennifer Martin,jennifer.martin@outlook.com,+1-576-411-7076,8178 Martin Street,Charlotte,NC,retail,high,2020-12-28,active
+CUST000171,David Brown,david.brown@gmail.com,+1-362-823-8653,3673 Brown Street,Phoenix,AZ,private,high,2021-02-05,active
+CUST000172,Charles Smith,charles.smith@gmail.com,+1-963-651-5844,9491 Smith Street,Charlotte,NC,business,high,2025-07-24,active
+CUST000173,Jessica Gonzalez,jessica.gonzalez@gmail.com,+1-330-643-4529,3460 Gonzalez Street,Boston,MA,premium,high,2024-06-05,inactive
+CUST000174,Oliver Garcia,oliver.garcia@yahoo.com,+1-716-965-2102,3163 Garcia Street,Seattle,WA,retail,medium,2023-02-26,active
+CUST000175,Joseph White,joseph.white@gmail.com,+1-382-598-1384,1622 White Street,Chicago,IL,business,low,2024-10-31,active
+CUST000176,Oliver Miller,oliver.miller@yahoo.com,+1-975-838-7399,793 Miller Street,San Jose,CA,premium,low,2020-01-23,active
+CUST000177,Sarah Williams,sarah.williams@email.com,+1-792-250-9679,2715 Williams Street,Jacksonville,FL,premium,low,2025-11-28,active
+CUST000178,Sarah Jackson,sarah.jackson@yahoo.com,+1-342-557-9512,4382 Jackson Street,Houston,TX,retail,medium,2023-07-26,inactive
+CUST000179,Jessica Thomas,jessica.thomas@yahoo.com,+1-349-381-9793,2898 Thomas Street,Charlotte,NC,private,low,2023-07-06,inactive
+CUST000180,Charles Davis,charles.davis@gmail.com,+1-966-407-5344,6974 Davis Street,Portland,OR,premium,medium,2020-02-08,active
+CUST000181,Emma Miller,emma.miller@yahoo.com,+1-783-363-8163,4095 Miller Street,San Antonio,TX,business,low,2021-05-24,inactive
+CUST000182,Linda Garcia,linda.garcia@yahoo.com,+1-597-339-7599,7359 Garcia Street,Dallas,TX,private,low,2020-08-14,active
+CUST000183,David Thomas,david.thomas@email.com,+1-643-372-8609,6100 Thomas Street,Fort Worth,TX,premium,low,2024-01-09,active
+CUST000184,Richard Moore,richard.moore@yahoo.com,+1-846-411-7589,973 Moore Street,Houston,TX,business,medium,2020-11-17,active
+CUST000185,John Lopez,john.lopez@email.com,+1-213-652-8144,4528 Lopez Street,Chicago,IL,private,high,2025-04-11,active
+CUST000186,Barbara Johnson,barbara.johnson@outlook.com,+1-823-275-3011,1034 Johnson Street,Jacksonville,FL,business,medium,2021-06-18,active
+CUST000187,James Gonzalez,james.gonzalez@outlook.com,+1-700-507-5170,1433 Gonzalez Street,Jacksonville,FL,business,medium,2022-10-04,active
+CUST000188,Karen Lopez,karen.lopez@gmail.com,+1-936-802-5958,8641 Lopez Street,Dallas,TX,private,medium,2025-01-15,active
+CUST000189,Sarah White,sarah.white@email.com,+1-777-562-8056,6530 White Street,Dallas,TX,private,high,2024-01-18,active
+CUST000190,Noah Lee,noah.lee@gmail.com,+1-772-592-6231,3075 Lee Street,Detroit,MI,retail,high,2025-05-11,active
+CUST000191,Barbara Thompson,barbara.thompson@outlook.com,+1-503-325-9579,2470 Thompson Street,Los Angeles,CA,private,high,2021-10-08,active
+CUST000192,Oliver Williams,oliver.williams@gmail.com,+1-950-772-5158,5921 Williams Street,Houston,TX,premium,low,2022-12-07,active
+CUST000193,Barbara Davis,barbara.davis@outlook.com,+1-840-509-5667,3888 Davis Street,Fort Worth,TX,retail,high,2022-04-27,active
+CUST000194,Charles Rodriguez,charles.rodriguez@email.com,+1-709-574-2991,6761 Rodriguez Street,Charlotte,NC,retail,low,2024-09-28,active
+CUST000195,Susan Davis,susan.davis@yahoo.com,+1-891-713-6752,3293 Davis Street,Chicago,IL,retail,high,2020-09-21,active
+CUST000196,James Taylor,james.taylor@outlook.com,+1-391-411-1383,1897 Taylor Street,Philadelphia,PA,premium,medium,2022-10-25,inactive
+CUST000197,Linda Moore,linda.moore@gmail.com,+1-237-157-1908,3944 Moore Street,Phoenix,AZ,retail,medium,2021-02-23,active
+CUST000198,Emma Martinez,emma.martinez@email.com,+1-859-907-5309,4784 Martinez Street,San Diego,CA,private,high,2021-04-24,active
+CUST000199,Thomas Garcia,thomas.garcia@outlook.com,+1-600-978-4794,3693 Garcia Street,Boston,MA,private,high,2024-10-20,active
+CUST000200,James Thompson,james.thompson@yahoo.com,+1-816-348-9898,3315 Thompson Street,Fort Worth,TX,retail,low,2023-03-25,active
+CUST000201,Noah Wilson,noah.wilson@outlook.com,+1-614-372-9029,5984 Wilson Street,Columbus,OH,retail,medium,2022-06-17,inactive
+CUST000202,John Jackson,john.jackson@outlook.com,+1-953-738-9201,9598 Jackson Street,Columbus,OH,private,high,2023-05-02,inactive
+CUST000203,Elizabeth Martin,elizabeth.martin@outlook.com,+1-729-971-3950,6958 Martin Street,Los Angeles,CA,retail,high,2023-08-17,active
+CUST000204,Charles Hernandez,charles.hernandez@yahoo.com,+1-329-604-4515,4774 Hernandez Street,Seattle,WA,business,medium,2024-05-30,active
+CUST000205,William Garcia,william.garcia@outlook.com,+1-698-263-6595,1376 Garcia Street,Portland,OR,retail,high,2024-05-29,active
+CUST000206,Linda Rodriguez,linda.rodriguez@yahoo.com,+1-695-967-4597,4382 Rodriguez Street,Denver,CO,business,high,2021-05-14,inactive
+CUST000207,William Hernandez,william.hernandez@email.com,+1-595-538-1234,392 Hernandez Street,Dallas,TX,retail,low,2020-11-17,active
+CUST000208,Sophia Wilson,sophia.wilson@email.com,+1-358-690-4436,9487 Wilson Street,New York,NY,private,medium,2025-12-06,inactive
+CUST000209,Mary Anderson,mary.anderson@gmail.com,+1-808-151-9015,9246 Anderson Street,Austin,TX,premium,medium,2023-11-18,active
+CUST000210,Ava Miller,ava.miller@yahoo.com,+1-926-595-6026,8141 Miller Street,Jacksonville,FL,retail,low,2023-08-29,active
+CUST000211,Joseph Johnson,joseph.johnson@email.com,+1-731-604-1733,9777 Johnson Street,San Jose,CA,premium,medium,2020-03-04,active
+CUST000212,James Thompson,james.thompson@yahoo.com,+1-281-993-8275,3834 Thompson Street,Phoenix,AZ,premium,low,2020-07-24,active
+CUST000213,Michael Miller,michael.miller@yahoo.com,+1-878-669-2588,6272 Miller Street,Denver,CO,private,low,2021-09-07,active
+CUST000214,Barbara Brown,barbara.brown@gmail.com,+1-289-658-9764,8418 Brown Street,Phoenix,AZ,business,low,2021-05-21,active
+CUST000215,David Davis,david.davis@gmail.com,+1-592-865-9538,1795 Davis Street,Jacksonville,FL,premium,medium,2020-10-15,active
+CUST000216,Karen Wilson,karen.wilson@outlook.com,+1-826-675-9214,5036 Wilson Street,Denver,CO,business,high,2020-10-28,active
+CUST000217,Sophia Martin,sophia.martin@gmail.com,+1-592-728-5805,7308 Martin Street,Denver,CO,business,medium,2024-05-18,active
+CUST000218,Joseph Hernandez,joseph.hernandez@outlook.com,+1-552-400-2095,302 Hernandez Street,Los Angeles,CA,private,high,2025-03-10,active
+CUST000219,Susan Lee,susan.lee@yahoo.com,+1-608-213-8226,7440 Lee Street,Austin,TX,retail,high,2020-04-12,active
+CUST000220,John Martinez,john.martinez@gmail.com,+1-732-108-2784,8485 Martinez Street,Houston,TX,premium,low,2024-04-05,active
+CUST000221,Jennifer Miller,jennifer.miller@yahoo.com,+1-634-984-4433,896 Miller Street,Jacksonville,FL,retail,medium,2020-02-14,active
+CUST000222,Jessica Martin,jessica.martin@yahoo.com,+1-894-221-2454,2073 Martin Street,San Antonio,TX,premium,high,2023-05-03,active
+CUST000223,Jennifer Hernandez,jennifer.hernandez@yahoo.com,+1-880-284-1971,8880 Hernandez Street,Houston,TX,premium,low,2024-09-22,active
+CUST000224,James Hernandez,james.hernandez@outlook.com,+1-721-801-3900,2085 Hernandez Street,Jacksonville,FL,business,high,2023-12-24,active
+CUST000225,Ava Jackson,ava.jackson@outlook.com,+1-853-233-7023,5745 Jackson Street,Denver,CO,premium,medium,2021-01-26,active
+CUST000226,Elizabeth Lee,elizabeth.lee@gmail.com,+1-265-681-7107,9865 Lee Street,San Diego,CA,private,low,2021-09-18,active
+CUST000227,Charles Hernandez,charles.hernandez@gmail.com,+1-985-114-2791,3066 Hernandez Street,Fort Worth,TX,premium,high,2025-08-14,active
+CUST000228,Jessica Davis,jessica.davis@outlook.com,+1-575-433-2009,9239 Davis Street,Seattle,WA,retail,low,2024-04-13,active
+CUST000229,Patricia Garcia,patricia.garcia@yahoo.com,+1-666-876-7801,4545 Garcia Street,Portland,OR,private,medium,2020-10-05,active
+CUST000230,Elizabeth Brown,elizabeth.brown@outlook.com,+1-834-309-1380,9217 Brown Street,Denver,CO,premium,low,2022-06-04,active
+CUST000231,James Martinez,james.martinez@email.com,+1-615-473-3587,5614 Martinez Street,Chicago,IL,retail,low,2023-10-19,closed
+CUST000232,Susan Rodriguez,susan.rodriguez@email.com,+1-746-183-2202,2996 Rodriguez Street,Detroit,MI,premium,low,2023-07-07,active
+CUST000233,Sarah Anderson,sarah.anderson@gmail.com,+1-622-547-7437,9817 Anderson Street,Austin,TX,premium,medium,2021-05-24,active
+CUST000234,Jessica Smith,jessica.smith@outlook.com,+1-285-515-4378,9256 Smith Street,New York,NY,retail,medium,2023-06-15,active
+CUST000235,Ava Jackson,ava.jackson@outlook.com,+1-755-696-5460,4499 Jackson Street,Dallas,TX,business,medium,2024-09-26,active
+CUST000236,Barbara Smith,barbara.smith@outlook.com,+1-309-532-3953,1579 Smith Street,Austin,TX,retail,high,2022-03-04,active
+CUST000237,Oliver Davis,oliver.davis@gmail.com,+1-766-221-5966,2094 Davis Street,Dallas,TX,retail,medium,2020-06-06,active
+CUST000238,David Taylor,david.taylor@yahoo.com,+1-896-338-7478,9709 Taylor Street,Portland,OR,private,high,2024-05-08,active
+CUST000239,Richard Brown,richard.brown@gmail.com,+1-336-999-1466,4151 Brown Street,Jacksonville,FL,retail,medium,2021-10-12,inactive
+CUST000240,Emma Miller,emma.miller@gmail.com,+1-386-363-4816,7434 Miller Street,Fort Worth,TX,business,medium,2022-01-17,active
+CUST000241,Karen Johnson,karen.johnson@yahoo.com,+1-878-825-4874,4055 Johnson Street,Chicago,IL,business,high,2020-06-28,active
+CUST000242,William Davis,william.davis@yahoo.com,+1-616-849-5258,968 Davis Street,Columbus,OH,business,high,2025-03-19,inactive
+CUST000243,Patricia Thompson,patricia.thompson@yahoo.com,+1-952-911-3130,9674 Thompson Street,San Antonio,TX,business,low,2023-12-01,active
+CUST000244,Jessica Jones,jessica.jones@gmail.com,+1-263-232-5969,992 Jones Street,Jacksonville,FL,retail,medium,2024-04-09,active
+CUST000245,Jessica Anderson,jessica.anderson@gmail.com,+1-695-533-6798,5419 Anderson Street,San Antonio,TX,retail,medium,2024-08-30,active
+CUST000246,John Lopez,john.lopez@yahoo.com,+1-829-989-2477,7258 Lopez Street,Chicago,IL,premium,high,2021-12-13,active
+CUST000247,David Jones,david.jones@yahoo.com,+1-360-831-1632,3878 Jones Street,Boston,MA,premium,low,2020-10-15,active
+CUST000248,Thomas Jones,thomas.jones@outlook.com,+1-812-405-2186,946 Jones Street,Detroit,MI,premium,high,2024-03-28,closed
+CUST000249,Sophia Hernandez,sophia.hernandez@outlook.com,+1-212-907-1586,8247 Hernandez Street,Denver,CO,private,high,2025-12-09,inactive
+CUST000250,Barbara Martin,barbara.martin@email.com,+1-662-702-2442,5163 Martin Street,New York,NY,business,medium,2023-11-18,active
+CUST000251,Sarah Smith,sarah.smith@gmail.com,+1-234-842-5612,3177 Smith Street,Jacksonville,FL,retail,low,2025-02-08,closed
+CUST000252,Robert Brown,robert.brown@gmail.com,+1-738-777-5186,3916 Brown Street,Fort Worth,TX,private,high,2025-06-26,active
+CUST000253,Elizabeth Thompson,elizabeth.thompson@email.com,+1-428-265-9749,2844 Thompson Street,Houston,TX,business,low,2023-11-05,active
+CUST000254,Karen Thompson,karen.thompson@gmail.com,+1-610-649-8952,203 Thompson Street,Houston,TX,retail,high,2023-04-03,active
+CUST000255,Robert Garcia,robert.garcia@gmail.com,+1-306-663-3298,8562 Garcia Street,Seattle,WA,business,medium,2025-05-04,inactive
+CUST000256,Ava Taylor,ava.taylor@gmail.com,+1-527-126-9533,1603 Taylor Street,Chicago,IL,retail,medium,2024-09-27,active
+CUST000257,Richard Jones,richard.jones@gmail.com,+1-979-328-8768,7123 Jones Street,Dallas,TX,business,low,2023-08-16,active
+CUST000258,Mary Lee,mary.lee@yahoo.com,+1-870-276-6709,3295 Lee Street,Jacksonville,FL,private,high,2020-12-07,active
+CUST000259,Barbara Thomas,barbara.thomas@gmail.com,+1-570-684-5052,1125 Thomas Street,Seattle,WA,private,medium,2025-05-20,closed
+CUST000260,Mary Martinez,mary.martinez@outlook.com,+1-316-425-7374,5580 Martinez Street,Boston,MA,premium,medium,2020-07-06,active
+CUST000261,Patricia Anderson,patricia.anderson@yahoo.com,+1-811-945-5137,3937 Anderson Street,New York,NY,retail,high,2022-06-15,active
+CUST000262,Elizabeth Lopez,elizabeth.lopez@gmail.com,+1-324-305-2097,8439 Lopez Street,Phoenix,AZ,premium,medium,2023-02-08,active
+CUST000263,Richard Thompson,richard.thompson@yahoo.com,+1-697-306-4127,9865 Thompson Street,San Diego,CA,private,high,2021-03-30,active
+CUST000264,Thomas Johnson,thomas.johnson@yahoo.com,+1-707-121-8685,8893 Johnson Street,Charlotte,NC,business,medium,2020-06-04,inactive
+CUST000265,Noah Taylor,noah.taylor@email.com,+1-957-531-3368,4885 Taylor Street,Charlotte,NC,premium,medium,2020-03-16,active
+CUST000266,William Gonzalez,william.gonzalez@gmail.com,+1-551-551-6101,6219 Gonzalez Street,Fort Worth,TX,retail,high,2024-12-30,active
+CUST000267,Robert Anderson,robert.anderson@outlook.com,+1-862-397-6705,7270 Anderson Street,Phoenix,AZ,premium,medium,2021-06-17,active
+CUST000268,Mary Johnson,mary.johnson@email.com,+1-469-138-8519,9247 Johnson Street,San Jose,CA,business,high,2021-10-27,active
+CUST000269,James Garcia,james.garcia@email.com,+1-228-877-4368,3736 Garcia Street,Austin,TX,retail,high,2023-04-26,active
+CUST000270,Joseph Davis,joseph.davis@outlook.com,+1-773-779-5391,2048 Davis Street,Philadelphia,PA,business,high,2024-10-08,active
+CUST000271,Ava Moore,ava.moore@gmail.com,+1-437-785-1308,3757 Moore Street,San Jose,CA,retail,high,2024-04-19,active
+CUST000272,Oliver Jones,oliver.jones@email.com,+1-741-948-2045,4525 Jones Street,Boston,MA,business,medium,2020-05-15,active
+CUST000273,Michael Garcia,michael.garcia@email.com,+1-204-479-6242,2800 Garcia Street,Denver,CO,premium,low,2022-05-07,active
+CUST000274,David Jones,david.jones@yahoo.com,+1-814-718-5358,2160 Jones Street,New York,NY,private,high,2023-06-14,active
+CUST000275,Jessica Lopez,jessica.lopez@email.com,+1-496-728-6681,5518 Lopez Street,Austin,TX,business,high,2024-02-23,active
+CUST000276,Jennifer Jones,jennifer.jones@yahoo.com,+1-334-174-6884,8853 Jones Street,Houston,TX,retail,high,2021-02-05,active
+CUST000277,Linda Lopez,linda.lopez@outlook.com,+1-901-184-9845,8747 Lopez Street,Dallas,TX,retail,high,2024-12-18,active
+CUST000278,William Lee,william.lee@gmail.com,+1-999-824-6436,6602 Lee Street,Philadelphia,PA,retail,low,2023-09-01,closed
+CUST000279,Michael Anderson,michael.anderson@outlook.com,+1-709-192-5029,6821 Anderson Street,San Antonio,TX,private,medium,2020-02-06,active
+CUST000280,Jennifer Jones,jennifer.jones@gmail.com,+1-857-492-3014,6214 Jones Street,San Diego,CA,private,medium,2021-06-19,active
+CUST000281,James Anderson,james.anderson@email.com,+1-420-822-9472,1995 Anderson Street,Portland,OR,premium,low,2025-10-06,active
+CUST000282,Noah Smith,noah.smith@yahoo.com,+1-316-277-5619,300 Smith Street,Boston,MA,premium,medium,2022-03-23,active
+CUST000283,Charles Martin,charles.martin@yahoo.com,+1-900-496-5112,4433 Martin Street,Dallas,TX,retail,low,2025-08-17,active
+CUST000284,David Hernandez,david.hernandez@email.com,+1-384-146-5737,9447 Hernandez Street,Detroit,MI,retail,low,2020-08-08,active
+CUST000285,Noah Taylor,noah.taylor@yahoo.com,+1-733-693-4611,4962 Taylor Street,New York,NY,premium,low,2020-06-21,inactive
+CUST000286,Richard Thomas,richard.thomas@gmail.com,+1-279-739-1227,798 Thomas Street,San Diego,CA,retail,medium,2022-12-31,active
+CUST000287,John Williams,john.williams@yahoo.com,+1-495-671-9175,2425 Williams Street,Houston,TX,business,high,2021-10-20,active
+CUST000288,Joseph Brown,joseph.brown@gmail.com,+1-908-769-6388,7369 Brown Street,Boston,MA,retail,high,2024-12-18,active
+CUST000289,Linda Martinez,linda.martinez@gmail.com,+1-231-268-5868,7383 Martinez Street,Columbus,OH,retail,low,2020-08-24,active
+CUST000290,Barbara Thompson,barbara.thompson@outlook.com,+1-412-867-6534,6807 Thompson Street,Portland,OR,private,low,2022-07-28,active
+CUST000291,Elizabeth Wilson,elizabeth.wilson@email.com,+1-566-321-1098,4085 Wilson Street,Houston,TX,retail,low,2024-03-13,closed
+CUST000292,Emma Thompson,emma.thompson@outlook.com,+1-705-641-2736,3174 Thompson Street,Columbus,OH,private,high,2020-08-16,active
+CUST000293,Mary Thomas,mary.thomas@outlook.com,+1-785-702-9713,1560 Thomas Street,Phoenix,AZ,business,high,2020-05-19,active
+CUST000294,Michael Lopez,michael.lopez@gmail.com,+1-575-765-7173,2172 Lopez Street,Houston,TX,business,low,2021-09-28,active
+CUST000295,Charles Davis,charles.davis@yahoo.com,+1-836-673-6894,5927 Davis Street,Seattle,WA,premium,high,2024-11-21,closed
+CUST000296,Jennifer Thompson,jennifer.thompson@outlook.com,+1-755-309-5151,3835 Thompson Street,Columbus,OH,business,low,2025-04-01,active
+CUST000297,John Moore,john.moore@email.com,+1-842-174-8043,5406 Moore Street,Seattle,WA,private,low,2025-11-05,active
+CUST000298,Emma Lee,emma.lee@email.com,+1-655-566-2030,8377 Lee Street,Philadelphia,PA,private,low,2025-02-23,active
+CUST000299,Charles Gonzalez,charles.gonzalez@gmail.com,+1-272-516-2906,3260 Gonzalez Street,Boston,MA,business,low,2020-12-10,active
+CUST000300,John Williams,john.williams@email.com,+1-575-357-8291,6138 Williams Street,Houston,TX,business,medium,2024-06-23,active
+CUST000301,Karen Rodriguez,karen.rodriguez@outlook.com,+1-748-124-2540,1403 Rodriguez Street,Chicago,IL,retail,high,2020-10-01,active
+CUST000302,Susan Lopez,susan.lopez@outlook.com,+1-799-897-5517,2568 Lopez Street,Portland,OR,private,high,2025-11-20,active
+CUST000303,Linda Garcia,linda.garcia@email.com,+1-484-707-3739,7197 Garcia Street,Columbus,OH,private,medium,2025-12-21,active
+CUST000304,Jessica Lopez,jessica.lopez@yahoo.com,+1-595-178-1640,3571 Lopez Street,Portland,OR,business,high,2021-12-15,active
+CUST000305,Sarah Smith,sarah.smith@outlook.com,+1-571-905-5909,4881 Smith Street,Seattle,WA,business,low,2024-06-15,active
+CUST000306,Mary Davis,mary.davis@email.com,+1-324-466-5519,5752 Davis Street,Columbus,OH,premium,low,2025-08-07,active
+CUST000307,David Miller,david.miller@yahoo.com,+1-563-670-7303,7101 Miller Street,Philadelphia,PA,business,high,2025-05-14,active
+CUST000308,James Smith,james.smith@email.com,+1-448-296-9558,6530 Smith Street,Detroit,MI,business,high,2024-06-03,active
+CUST000309,John Williams,john.williams@gmail.com,+1-784-605-8916,4679 Williams Street,Dallas,TX,premium,high,2025-10-22,inactive
+CUST000310,Sarah Rodriguez,sarah.rodriguez@email.com,+1-315-679-9169,1738 Rodriguez Street,Columbus,OH,business,high,2023-05-14,active
+CUST000311,Barbara Anderson,barbara.anderson@gmail.com,+1-990-593-2395,6510 Anderson Street,San Diego,CA,private,high,2021-08-07,active
+CUST000312,Michael Taylor,michael.taylor@email.com,+1-234-824-5881,662 Taylor Street,New York,NY,retail,medium,2025-12-27,active
+CUST000313,Susan Thomas,susan.thomas@yahoo.com,+1-500-679-9957,429 Thomas Street,Chicago,IL,retail,low,2020-06-22,active
+CUST000314,Charles Lopez,charles.lopez@yahoo.com,+1-428-127-8370,5821 Lopez Street,Charlotte,NC,private,low,2023-12-27,closed
+CUST000315,Emma Wilson,emma.wilson@yahoo.com,+1-959-805-7716,2758 Wilson Street,Boston,MA,private,low,2022-03-26,active
+CUST000316,Linda Moore,linda.moore@yahoo.com,+1-612-201-8372,7796 Moore Street,San Jose,CA,private,medium,2020-04-17,active
+CUST000317,Susan Moore,susan.moore@outlook.com,+1-242-365-2950,7685 Moore Street,Fort Worth,TX,private,high,2021-01-04,inactive
+CUST000318,Jennifer Jones,jennifer.jones@email.com,+1-967-669-1142,1613 Jones Street,Boston,MA,premium,medium,2023-07-14,active
+CUST000319,Sarah Smith,sarah.smith@gmail.com,+1-492-834-2762,2989 Smith Street,Philadelphia,PA,private,low,2023-12-21,active
+CUST000320,Mary Martinez,mary.martinez@outlook.com,+1-378-953-8994,9563 Martinez Street,Seattle,WA,premium,low,2020-01-22,active
+CUST000321,Sophia Lopez,sophia.lopez@outlook.com,+1-804-366-3536,4810 Lopez Street,Detroit,MI,retail,low,2023-10-15,active
+CUST000322,John Thomas,john.thomas@gmail.com,+1-930-561-6235,1332 Thomas Street,Portland,OR,business,low,2025-01-20,inactive
+CUST000323,Ava Wilson,ava.wilson@email.com,+1-572-868-9385,6119 Wilson Street,San Jose,CA,business,low,2025-10-23,active
+CUST000324,Karen Jones,karen.jones@email.com,+1-528-787-1433,7763 Jones Street,Philadelphia,PA,private,high,2020-01-12,active
+CUST000325,David White,david.white@email.com,+1-691-314-7400,5116 White Street,Detroit,MI,premium,medium,2022-04-22,active
+CUST000326,Oliver Davis,oliver.davis@gmail.com,+1-770-855-7704,7453 Davis Street,Philadelphia,PA,business,medium,2023-07-17,active
+CUST000327,Barbara Gonzalez,barbara.gonzalez@yahoo.com,+1-764-511-1911,3523 Gonzalez Street,San Diego,CA,retail,high,2022-11-15,active
+CUST000328,William Thomas,william.thomas@email.com,+1-719-212-7752,145 Thomas Street,Fort Worth,TX,retail,high,2023-03-01,closed
+CUST000329,Joseph Miller,joseph.miller@yahoo.com,+1-875-889-4179,5638 Miller Street,Philadelphia,PA,business,high,2025-02-16,active
+CUST000330,Linda Martinez,linda.martinez@outlook.com,+1-937-379-4647,9796 Martinez Street,Austin,TX,retail,medium,2024-08-05,active
+CUST000331,Noah Wilson,noah.wilson@outlook.com,+1-711-140-4308,2159 Wilson Street,Portland,OR,private,high,2023-11-12,active
+CUST000332,Susan Wilson,susan.wilson@outlook.com,+1-438-702-4632,8108 Wilson Street,San Jose,CA,premium,high,2024-01-30,closed
+CUST000333,James Moore,james.moore@outlook.com,+1-985-201-6884,9943 Moore Street,Phoenix,AZ,business,medium,2021-06-12,inactive
+CUST000334,Sophia Taylor,sophia.taylor@email.com,+1-795-243-2892,8795 Taylor Street,Detroit,MI,retail,low,2022-12-29,active
+CUST000335,Linda Martinez,linda.martinez@outlook.com,+1-851-745-7259,7917 Martinez Street,New York,NY,business,medium,2022-11-02,active
+CUST000336,Sarah Moore,sarah.moore@gmail.com,+1-858-868-8766,2704 Moore Street,Columbus,OH,business,high,2022-06-29,closed
+CUST000337,Barbara Thomas,barbara.thomas@gmail.com,+1-593-367-3447,4695 Thomas Street,Jacksonville,FL,business,low,2023-08-20,active
+CUST000338,Susan Brown,susan.brown@email.com,+1-644-822-9130,3133 Brown Street,Fort Worth,TX,retail,high,2021-11-30,active
+CUST000339,Richard Thomas,richard.thomas@gmail.com,+1-331-445-3226,3488 Thomas Street,San Jose,CA,retail,low,2021-06-13,active
+CUST000340,Noah Anderson,noah.anderson@outlook.com,+1-630-109-6766,9437 Anderson Street,Austin,TX,retail,high,2022-05-19,inactive
+CUST000341,Noah Thomas,noah.thomas@gmail.com,+1-281-403-1823,2235 Thomas Street,Fort Worth,TX,private,high,2023-05-29,active
+CUST000342,Michael White,michael.white@gmail.com,+1-970-428-2000,3749 White Street,San Antonio,TX,business,high,2020-04-24,active
+CUST000343,Susan Wilson,susan.wilson@email.com,+1-520-830-8046,6970 Wilson Street,Phoenix,AZ,retail,high,2022-09-03,closed
+CUST000344,Mary Taylor,mary.taylor@gmail.com,+1-520-269-3551,4042 Taylor Street,Fort Worth,TX,retail,low,2024-02-11,active
+CUST000345,Charles Thomas,charles.thomas@yahoo.com,+1-677-606-9176,6087 Thomas Street,San Antonio,TX,premium,medium,2022-10-31,active
+CUST000346,Emma Lopez,emma.lopez@outlook.com,+1-667-389-4856,3363 Lopez Street,Chicago,IL,private,medium,2023-08-05,active
+CUST000347,James Wilson,james.wilson@outlook.com,+1-772-766-9960,4733 Wilson Street,Phoenix,AZ,private,medium,2024-07-10,active
+CUST000348,Emma Taylor,emma.taylor@gmail.com,+1-888-728-2350,7126 Taylor Street,Austin,TX,private,medium,2022-05-07,active
+CUST000349,Charles Lopez,charles.lopez@email.com,+1-675-727-3293,8999 Lopez Street,Austin,TX,premium,low,2024-08-27,active
+CUST000350,Michael Johnson,michael.johnson@outlook.com,+1-341-740-4599,6060 Johnson Street,Portland,OR,private,high,2022-05-18,active
+CUST000351,Elizabeth Moore,elizabeth.moore@yahoo.com,+1-482-221-9693,107 Moore Street,Fort Worth,TX,premium,medium,2021-02-13,active
+CUST000352,Charles Rodriguez,charles.rodriguez@email.com,+1-547-657-7226,2290 Rodriguez Street,San Jose,CA,business,low,2020-06-27,closed
+CUST000353,David Martin,david.martin@outlook.com,+1-693-595-7061,7931 Martin Street,Jacksonville,FL,retail,high,2021-09-08,active
+CUST000354,Jessica Johnson,jessica.johnson@email.com,+1-953-776-4281,9286 Johnson Street,San Antonio,TX,business,medium,2022-06-04,active
+CUST000355,John Martin,john.martin@outlook.com,+1-932-782-5527,3072 Martin Street,Chicago,IL,retail,high,2020-03-09,active
+CUST000356,Linda Williams,linda.williams@email.com,+1-644-555-1235,2103 Williams Street,Los Angeles,CA,private,medium,2024-04-26,active
+CUST000357,Barbara Thompson,barbara.thompson@gmail.com,+1-490-173-4508,6634 Thompson Street,San Diego,CA,business,high,2022-12-09,inactive
+CUST000358,Jessica Wilson,jessica.wilson@yahoo.com,+1-646-542-7796,4131 Wilson Street,San Antonio,TX,private,low,2022-03-16,active
+CUST000359,William Miller,william.miller@gmail.com,+1-399-203-4238,6067 Miller Street,Denver,CO,private,low,2022-07-15,active
+CUST000360,William Smith,william.smith@gmail.com,+1-505-210-2904,7648 Smith Street,San Jose,CA,private,medium,2024-06-14,active
+CUST000361,Robert Williams,robert.williams@yahoo.com,+1-543-266-1556,477 Williams Street,Philadelphia,PA,premium,low,2021-09-12,active
+CUST000362,Oliver Rodriguez,oliver.rodriguez@email.com,+1-644-625-7589,2566 Rodriguez Street,Philadelphia,PA,retail,medium,2020-09-15,inactive
+CUST000363,Patricia Thompson,patricia.thompson@outlook.com,+1-384-489-2809,3358 Thompson Street,Portland,OR,private,high,2020-09-28,active
+CUST000364,Robert White,robert.white@email.com,+1-799-119-5556,3445 White Street,Portland,OR,business,low,2023-06-21,active
+CUST000365,Robert Hernandez,robert.hernandez@yahoo.com,+1-300-452-7145,6703 Hernandez Street,Dallas,TX,private,medium,2022-12-15,active
+CUST000366,Sophia Brown,sophia.brown@gmail.com,+1-431-999-3317,7940 Brown Street,Los Angeles,CA,premium,high,2022-01-01,active
+CUST000367,Joseph Anderson,joseph.anderson@outlook.com,+1-414-131-6542,9169 Anderson Street,Denver,CO,premium,low,2021-01-15,active
+CUST000368,Jennifer Jackson,jennifer.jackson@yahoo.com,+1-877-227-5573,3546 Jackson Street,Austin,TX,premium,low,2022-11-04,active
+CUST000369,William Martinez,william.martinez@outlook.com,+1-908-573-9260,6758 Martinez Street,Detroit,MI,private,high,2022-07-02,active
+CUST000370,John Miller,john.miller@gmail.com,+1-696-196-3573,7186 Miller Street,Detroit,MI,business,high,2022-05-26,active
+CUST000371,Noah Hernandez,noah.hernandez@outlook.com,+1-693-756-9907,7624 Hernandez Street,Boston,MA,business,high,2022-02-14,active
+CUST000372,Emma Lee,emma.lee@outlook.com,+1-782-144-5199,4699 Lee Street,Charlotte,NC,private,high,2021-08-23,active
+CUST000373,Jennifer Miller,jennifer.miller@yahoo.com,+1-779-511-3526,9226 Miller Street,Denver,CO,retail,high,2020-08-20,closed
+CUST000374,Sophia Smith,sophia.smith@gmail.com,+1-923-243-2679,3258 Smith Street,San Diego,CA,business,high,2024-11-20,active
+CUST000375,Emma Wilson,emma.wilson@gmail.com,+1-907-354-5924,5001 Wilson Street,Los Angeles,CA,private,low,2023-12-24,inactive
+CUST000376,Jessica Garcia,jessica.garcia@outlook.com,+1-365-779-9859,5060 Garcia Street,New York,NY,premium,high,2022-06-13,active
+CUST000377,Karen Lopez,karen.lopez@yahoo.com,+1-804-188-1901,1036 Lopez Street,Philadelphia,PA,private,high,2024-08-24,active
+CUST000378,Emma Wilson,emma.wilson@gmail.com,+1-512-977-6358,5566 Wilson Street,Denver,CO,premium,high,2021-12-31,active
+CUST000379,Michael Davis,michael.davis@gmail.com,+1-980-720-1521,3086 Davis Street,San Jose,CA,private,low,2023-11-21,active
+CUST000380,Jessica Taylor,jessica.taylor@outlook.com,+1-672-525-5855,5764 Taylor Street,Dallas,TX,private,medium,2022-06-20,inactive
+CUST000381,William Thompson,william.thompson@yahoo.com,+1-626-388-7542,3165 Thompson Street,San Jose,CA,premium,low,2022-01-13,active
+CUST000382,Richard Jackson,richard.jackson@email.com,+1-386-921-6014,309 Jackson Street,Detroit,MI,business,high,2020-07-18,active
+CUST000383,Jennifer Martin,jennifer.martin@email.com,+1-829-760-6966,5867 Martin Street,New York,NY,retail,high,2023-07-25,active
+CUST000384,Oliver Moore,oliver.moore@yahoo.com,+1-569-291-6425,2617 Moore Street,Austin,TX,business,high,2024-04-24,active
+CUST000385,Charles Thomas,charles.thomas@gmail.com,+1-908-362-4177,2828 Thomas Street,San Antonio,TX,private,medium,2021-12-04,active
+CUST000386,William Williams,william.williams@outlook.com,+1-698-526-9459,577 Williams Street,Seattle,WA,business,low,2025-02-13,active
+CUST000387,Sarah Hernandez,sarah.hernandez@gmail.com,+1-631-557-8479,3554 Hernandez Street,Chicago,IL,business,high,2020-06-17,active
+CUST000388,Joseph Jones,joseph.jones@yahoo.com,+1-438-981-7458,8182 Jones Street,Fort Worth,TX,private,medium,2022-03-18,active
+CUST000389,Ava Martinez,ava.martinez@email.com,+1-402-499-4139,9166 Martinez Street,Seattle,WA,private,medium,2025-06-29,active
+CUST000390,Jessica Wilson,jessica.wilson@gmail.com,+1-840-548-3954,460 Wilson Street,Columbus,OH,retail,high,2022-08-07,active
+CUST000391,Emma Thomas,emma.thomas@gmail.com,+1-866-390-4223,9654 Thomas Street,San Antonio,TX,private,medium,2021-08-28,active
+CUST000392,Thomas Lopez,thomas.lopez@outlook.com,+1-957-669-7400,5670 Lopez Street,Dallas,TX,private,medium,2022-04-19,active
+CUST000393,John Jackson,john.jackson@email.com,+1-472-464-8153,4968 Jackson Street,San Diego,CA,retail,low,2021-01-03,active
+CUST000394,David Rodriguez,david.rodriguez@outlook.com,+1-592-439-6772,3129 Rodriguez Street,Detroit,MI,private,high,2024-11-24,closed
+CUST000395,John Smith,john.smith@gmail.com,+1-751-679-3286,1099 Smith Street,Austin,TX,private,medium,2025-06-04,active
+CUST000396,Barbara Johnson,barbara.johnson@outlook.com,+1-989-916-4309,7061 Johnson Street,Portland,OR,business,high,2025-01-16,active
+CUST000397,Robert Brown,robert.brown@outlook.com,+1-672-167-1944,9929 Brown Street,Jacksonville,FL,private,high,2021-05-16,active
+CUST000398,Oliver Jones,oliver.jones@gmail.com,+1-228-753-4747,9588 Jones Street,Jacksonville,FL,premium,low,2021-01-14,active
+CUST000399,Jessica Lee,jessica.lee@yahoo.com,+1-360-113-5744,9996 Lee Street,Detroit,MI,retail,low,2022-08-27,active
+CUST000400,John Hernandez,john.hernandez@email.com,+1-700-648-5470,5062 Hernandez Street,Denver,CO,retail,high,2023-02-23,active
+CUST000401,Noah Miller,noah.miller@email.com,+1-399-157-6726,1456 Miller Street,Los Angeles,CA,business,low,2020-01-31,inactive
+CUST000402,Emma Jackson,emma.jackson@yahoo.com,+1-706-642-2875,6975 Jackson Street,Jacksonville,FL,premium,high,2024-12-13,active
+CUST000403,Susan Martinez,susan.martinez@gmail.com,+1-268-512-7515,5122 Martinez Street,Philadelphia,PA,private,low,2020-08-29,active
+CUST000404,Barbara Smith,barbara.smith@email.com,+1-529-482-4112,3616 Smith Street,Boston,MA,retail,high,2020-10-01,active
+CUST000405,Karen Johnson,karen.johnson@gmail.com,+1-579-821-9523,3301 Johnson Street,Denver,CO,premium,medium,2023-11-17,active
+CUST000406,Mary Moore,mary.moore@email.com,+1-786-327-1365,5379 Moore Street,New York,NY,business,medium,2022-03-19,active
+CUST000407,Susan Martinez,susan.martinez@yahoo.com,+1-441-123-8217,7182 Martinez Street,Charlotte,NC,business,high,2025-03-08,active
+CUST000408,Sarah Miller,sarah.miller@outlook.com,+1-543-557-7439,2616 Miller Street,Chicago,IL,business,medium,2024-06-28,active
+CUST000409,Barbara White,barbara.white@email.com,+1-336-195-8257,4879 White Street,Portland,OR,premium,medium,2023-05-12,active
+CUST000410,Karen Moore,karen.moore@gmail.com,+1-240-244-3220,685 Moore Street,Seattle,WA,private,low,2022-09-28,active
+CUST000411,Charles Lopez,charles.lopez@yahoo.com,+1-533-673-8948,2116 Lopez Street,Houston,TX,premium,medium,2023-12-07,active
+CUST000412,Susan Moore,susan.moore@yahoo.com,+1-727-353-4687,5161 Moore Street,Austin,TX,private,low,2023-02-13,active
+CUST000413,John Johnson,john.johnson@outlook.com,+1-644-289-8889,5734 Johnson Street,Philadelphia,PA,business,high,2021-05-11,active
+CUST000414,Emma Lopez,emma.lopez@outlook.com,+1-703-704-3475,3012 Lopez Street,San Diego,CA,retail,high,2025-08-18,active
+CUST000415,Robert Thompson,robert.thompson@email.com,+1-773-504-9691,3071 Thompson Street,Portland,OR,private,high,2020-06-20,active
+CUST000416,Patricia Wilson,patricia.wilson@email.com,+1-761-547-1327,3866 Wilson Street,San Antonio,TX,retail,medium,2024-10-26,active
+CUST000417,Patricia Jones,patricia.jones@yahoo.com,+1-800-529-8808,6352 Jones Street,Portland,OR,premium,low,2024-10-11,inactive
+CUST000418,Patricia Davis,patricia.davis@outlook.com,+1-601-398-2030,862 Davis Street,Seattle,WA,premium,low,2021-08-04,active
+CUST000419,Sophia Rodriguez,sophia.rodriguez@gmail.com,+1-349-597-7380,222 Rodriguez Street,Fort Worth,TX,retail,low,2020-10-19,active
+CUST000420,Jessica Martin,jessica.martin@gmail.com,+1-953-513-4059,7943 Martin Street,Phoenix,AZ,private,high,2024-09-24,active
+CUST000421,Robert Thomas,robert.thomas@yahoo.com,+1-200-892-7564,1480 Thomas Street,Seattle,WA,private,medium,2023-05-06,active
+CUST000422,David Lee,david.lee@yahoo.com,+1-471-185-3807,6285 Lee Street,San Antonio,TX,business,medium,2021-06-08,active
+CUST000423,Ava Thomas,ava.thomas@gmail.com,+1-591-693-1938,5463 Thomas Street,Phoenix,AZ,private,medium,2021-06-16,active
+CUST000424,Oliver Garcia,oliver.garcia@gmail.com,+1-761-497-8152,4189 Garcia Street,Philadelphia,PA,retail,low,2024-06-25,active
+CUST000425,Noah Taylor,noah.taylor@email.com,+1-734-406-3625,5389 Taylor Street,Boston,MA,premium,medium,2022-08-24,active
+CUST000426,Richard Taylor,richard.taylor@gmail.com,+1-739-641-7374,8163 Taylor Street,Philadelphia,PA,retail,low,2020-09-07,active
+CUST000427,Emma Gonzalez,emma.gonzalez@email.com,+1-329-137-3214,8533 Gonzalez Street,Philadelphia,PA,business,high,2025-05-19,active
+CUST000428,Jessica Gonzalez,jessica.gonzalez@yahoo.com,+1-284-664-2606,9736 Gonzalez Street,New York,NY,business,low,2025-02-12,active
+CUST000429,Linda Jackson,linda.jackson@gmail.com,+1-619-929-5013,7987 Jackson Street,Phoenix,AZ,business,medium,2020-04-23,active
+CUST000430,Sarah Williams,sarah.williams@gmail.com,+1-512-991-3380,3887 Williams Street,Dallas,TX,retail,medium,2020-05-24,active
+CUST000431,Elizabeth Jackson,elizabeth.jackson@gmail.com,+1-406-329-7173,2002 Jackson Street,Jacksonville,FL,premium,low,2021-04-28,active
+CUST000432,Linda Anderson,linda.anderson@outlook.com,+1-494-189-3498,4095 Anderson Street,San Antonio,TX,premium,medium,2021-05-08,active
+CUST000433,Jennifer Williams,jennifer.williams@outlook.com,+1-342-912-2741,9058 Williams Street,Boston,MA,private,medium,2025-10-23,active
+CUST000434,Charles Jones,charles.jones@gmail.com,+1-780-699-2775,6757 Jones Street,Charlotte,NC,private,medium,2023-03-18,active
+CUST000435,Mary Hernandez,mary.hernandez@email.com,+1-310-555-6522,1782 Hernandez Street,Houston,TX,premium,high,2022-05-15,active
+CUST000436,Sophia Johnson,sophia.johnson@gmail.com,+1-409-707-8311,1388 Johnson Street,San Antonio,TX,private,high,2024-01-06,active
+CUST000437,Robert Rodriguez,robert.rodriguez@email.com,+1-723-582-9028,786 Rodriguez Street,Boston,MA,premium,low,2020-01-02,inactive
+CUST000438,Oliver Jackson,oliver.jackson@gmail.com,+1-304-649-9663,393 Jackson Street,San Diego,CA,retail,low,2022-11-15,active
+CUST000439,Patricia Lopez,patricia.lopez@outlook.com,+1-425-777-4226,2950 Lopez Street,Los Angeles,CA,retail,low,2021-04-18,closed
+CUST000440,Michael Taylor,michael.taylor@yahoo.com,+1-569-398-1463,5562 Taylor Street,Portland,OR,private,low,2020-09-12,active
+CUST000441,Noah Jones,noah.jones@gmail.com,+1-724-368-9524,5097 Jones Street,San Jose,CA,retail,medium,2022-08-05,active
+CUST000442,Sophia Martin,sophia.martin@outlook.com,+1-308-591-4599,6813 Martin Street,Charlotte,NC,private,high,2025-05-26,active
+CUST000443,Jessica White,jessica.white@yahoo.com,+1-857-383-9944,6842 White Street,Los Angeles,CA,premium,medium,2023-09-16,closed
+CUST000444,Richard Jackson,richard.jackson@email.com,+1-973-501-6297,7207 Jackson Street,Dallas,TX,business,high,2024-04-20,inactive
+CUST000445,Barbara Miller,barbara.miller@gmail.com,+1-858-229-7492,9935 Miller Street,Jacksonville,FL,premium,high,2023-10-15,active
+CUST000446,Jennifer Thomas,jennifer.thomas@gmail.com,+1-851-120-5769,9746 Thomas Street,San Jose,CA,premium,medium,2022-03-23,active
+CUST000447,Ava Thompson,ava.thompson@gmail.com,+1-368-660-4769,7484 Thompson Street,Jacksonville,FL,retail,low,2025-10-31,inactive
+CUST000448,Robert Anderson,robert.anderson@yahoo.com,+1-913-507-5784,8405 Anderson Street,San Antonio,TX,business,low,2020-01-17,active
+CUST000449,David Lopez,david.lopez@outlook.com,+1-758-529-4263,643 Lopez Street,Phoenix,AZ,private,high,2022-06-18,active
+CUST000450,James Gonzalez,james.gonzalez@outlook.com,+1-531-752-8930,1486 Gonzalez Street,Philadelphia,PA,private,high,2022-01-15,active
+CUST000451,Sarah Jones,sarah.jones@yahoo.com,+1-638-996-1746,9442 Jones Street,Dallas,TX,retail,medium,2021-12-06,active
+CUST000452,Thomas Garcia,thomas.garcia@outlook.com,+1-719-408-8823,1305 Garcia Street,Denver,CO,retail,low,2022-05-08,active
+CUST000453,Oliver Wilson,oliver.wilson@email.com,+1-779-671-5474,3665 Wilson Street,Dallas,TX,business,high,2022-08-20,active
+CUST000454,Patricia Anderson,patricia.anderson@email.com,+1-503-400-5166,7483 Anderson Street,Portland,OR,premium,medium,2025-09-26,active
+CUST000455,Jennifer Moore,jennifer.moore@email.com,+1-805-133-5199,4903 Moore Street,Austin,TX,premium,medium,2025-07-19,active
+CUST000456,Karen Jones,karen.jones@email.com,+1-763-966-7265,9253 Jones Street,San Jose,CA,business,medium,2021-12-31,active
+CUST000457,Mary Jackson,mary.jackson@outlook.com,+1-508-939-2342,2465 Jackson Street,Denver,CO,private,high,2023-11-16,active
+CUST000458,Ava Wilson,ava.wilson@outlook.com,+1-695-495-9572,8965 Wilson Street,Philadelphia,PA,business,low,2025-05-10,active
+CUST000459,Sarah Moore,sarah.moore@email.com,+1-697-728-3269,4512 Moore Street,Jacksonville,FL,retail,high,2020-12-29,active
+CUST000460,Noah Johnson,noah.johnson@yahoo.com,+1-577-533-3147,9458 Johnson Street,San Antonio,TX,private,high,2025-10-13,active
+CUST000461,Karen White,karen.white@outlook.com,+1-524-890-8314,4225 White Street,Seattle,WA,premium,low,2025-10-11,active
+CUST000462,Charles Wilson,charles.wilson@email.com,+1-226-746-1358,2306 Wilson Street,Charlotte,NC,premium,low,2022-01-08,active
+CUST000463,David Jones,david.jones@yahoo.com,+1-402-959-7021,9739 Jones Street,Fort Worth,TX,business,medium,2025-09-12,active
+CUST000464,Richard White,richard.white@email.com,+1-240-376-2098,2372 White Street,San Diego,CA,premium,low,2025-03-02,active
+CUST000465,Joseph White,joseph.white@outlook.com,+1-497-265-2373,4108 White Street,San Jose,CA,retail,low,2020-02-16,active
+CUST000466,Ava Jackson,ava.jackson@email.com,+1-336-165-8145,9096 Jackson Street,Charlotte,NC,premium,medium,2021-01-17,active
+CUST000467,Patricia Hernandez,patricia.hernandez@email.com,+1-799-174-9181,9175 Hernandez Street,Denver,CO,premium,medium,2023-02-16,active
+CUST000468,Mary Thompson,mary.thompson@outlook.com,+1-660-474-7665,4926 Thompson Street,Boston,MA,retail,medium,2020-09-27,active
+CUST000469,Charles Martin,charles.martin@gmail.com,+1-552-235-9664,1902 Martin Street,Denver,CO,retail,medium,2022-05-07,active
+CUST000470,Oliver Hernandez,oliver.hernandez@email.com,+1-332-602-3401,8176 Hernandez Street,Fort Worth,TX,premium,high,2025-11-10,active
+CUST000471,Linda Williams,linda.williams@email.com,+1-757-320-9908,3628 Williams Street,Columbus,OH,business,high,2025-11-21,active
+CUST000472,Sophia Lopez,sophia.lopez@email.com,+1-708-429-4219,706 Lopez Street,Fort Worth,TX,premium,high,2022-04-18,active
+CUST000473,Elizabeth Martin,elizabeth.martin@gmail.com,+1-634-552-1425,4302 Martin Street,Columbus,OH,private,medium,2024-02-07,active
+CUST000474,Sarah Lopez,sarah.lopez@email.com,+1-343-383-2583,1764 Lopez Street,Charlotte,NC,retail,high,2021-09-16,closed
+CUST000475,Ava Martinez,ava.martinez@gmail.com,+1-352-313-9407,4389 Martinez Street,Portland,OR,private,high,2023-06-02,active
+CUST000476,David Jackson,david.jackson@gmail.com,+1-938-333-4000,2286 Jackson Street,Denver,CO,business,low,2023-10-01,active
+CUST000477,Ava Moore,ava.moore@yahoo.com,+1-465-154-1139,4213 Moore Street,Charlotte,NC,premium,high,2024-01-08,active
+CUST000478,Emma Lopez,emma.lopez@outlook.com,+1-686-331-1004,315 Lopez Street,Boston,MA,premium,low,2023-04-25,active
+CUST000479,David Williams,david.williams@outlook.com,+1-936-279-2249,5016 Williams Street,Chicago,IL,private,medium,2022-01-30,active
+CUST000480,Michael Jones,michael.jones@gmail.com,+1-207-772-6024,1798 Jones Street,Phoenix,AZ,premium,low,2021-12-15,active
+CUST000481,Susan Wilson,susan.wilson@yahoo.com,+1-370-340-8853,9344 Wilson Street,Denver,CO,premium,low,2020-10-12,active
+CUST000482,Noah Johnson,noah.johnson@gmail.com,+1-961-984-9978,2167 Johnson Street,Seattle,WA,private,low,2025-08-02,active
+CUST000483,Sarah Lee,sarah.lee@outlook.com,+1-395-816-2526,2181 Lee Street,San Diego,CA,private,low,2025-11-08,active
+CUST000484,David Hernandez,david.hernandez@email.com,+1-978-794-9320,2245 Hernandez Street,Fort Worth,TX,business,high,2020-10-14,active
+CUST000485,William Jones,william.jones@outlook.com,+1-243-855-2856,6133 Jones Street,Portland,OR,private,low,2023-12-08,active
+CUST000486,Sarah Brown,sarah.brown@yahoo.com,+1-286-434-4643,5226 Brown Street,Los Angeles,CA,retail,medium,2022-07-07,active
+CUST000487,Richard Jackson,richard.jackson@outlook.com,+1-813-535-5837,4187 Jackson Street,Austin,TX,business,low,2021-08-26,active
+CUST000488,Joseph Lopez,joseph.lopez@email.com,+1-825-496-4354,7750 Lopez Street,Jacksonville,FL,premium,high,2023-03-05,inactive
+CUST000489,Sophia Johnson,sophia.johnson@outlook.com,+1-320-342-3391,150 Johnson Street,Chicago,IL,private,high,2023-11-26,active
+CUST000490,Michael White,michael.white@gmail.com,+1-646-675-5046,2402 White Street,Houston,TX,private,medium,2020-01-30,active
+CUST000491,Robert Jones,robert.jones@gmail.com,+1-691-975-2722,2545 Jones Street,New York,NY,business,low,2024-09-09,active
+CUST000492,Noah Davis,noah.davis@gmail.com,+1-398-244-5942,9996 Davis Street,Charlotte,NC,business,low,2021-02-02,active
+CUST000493,Jennifer Davis,jennifer.davis@gmail.com,+1-450-462-8307,7727 Davis Street,Denver,CO,business,high,2022-09-10,active
+CUST000494,Mary Thompson,mary.thompson@outlook.com,+1-492-226-9358,2351 Thompson Street,New York,NY,retail,high,2025-03-14,active
+CUST000495,Ava Wilson,ava.wilson@yahoo.com,+1-965-433-6693,4316 Wilson Street,San Diego,CA,premium,low,2024-12-06,active
+CUST000496,William Martinez,william.martinez@outlook.com,+1-573-141-1201,7281 Martinez Street,Austin,TX,premium,low,2022-11-16,active
+CUST000497,Emma Taylor,emma.taylor@yahoo.com,+1-855-823-4916,7144 Taylor Street,Boston,MA,retail,medium,2020-07-27,inactive
+CUST000498,Jennifer Rodriguez,jennifer.rodriguez@gmail.com,+1-936-788-8916,7113 Rodriguez Street,New York,NY,business,high,2024-04-20,active
+CUST000499,Richard Williams,richard.williams@yahoo.com,+1-236-595-3700,486 Williams Street,Jacksonville,FL,business,high,2023-06-18,active
+CUST000500,Jessica Williams,jessica.williams@yahoo.com,+1-643-984-6235,9920 Williams Street,Charlotte,NC,private,low,2024-02-24,inactive
