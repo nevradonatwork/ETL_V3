@@ -1,0 +1,13 @@
+{
+  "csv_folder": "data/incoming/",
+  "processed_folder": "data/processed/",
+  "sample_folder": "data/sample/",
+  "filename_pattern": "{base_name}_{date}.csv",
+  "date_format": "YYYYMMDD",
+  "import_settings": {
+    "encoding_attempts": ["utf-8", "latin-1", "iso-8859-1", "cp1252"],
+    "skip_empty_rows": true,
+    "trim_whitespace": true,
+    "lowercase_columns": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_description": "Primary keys for staging table deduplication. Tables with composite keys use all listed columns.",
+
+  "CustomerProfiles": ["customer_id"],
+  "CustomerDocuments": ["document_id"],
+  "CustomerPreferences": ["preference_id"],
+
+  "AccountProducts": ["account_id"],
+  "AccountStatements": ["account_id", "statement_date"],
+  "AccountLimits": ["account_id", "effective_date"],
+  "AccountBeneficiaries": ["beneficiary_id"],
+
+  "PendingTransactions": ["transaction_id"],
+  "FailedTransactions": ["transaction_id"],
+  "RecurringPayments": ["payment_id"],
+  "TransactionDisputes": ["dispute_id"],
+
+  "Loans": ["loan_id"],
+  "CreditCards": ["card_id"],
+  "Investments": ["investment_id"],
+  "SavingsGoals": ["goal_id"],
+
+  "Branches": ["branch_id"],
+  "AtmLocations": ["atm_id"],
+  "Employees": ["employee_id"],
+  "AuditLog": ["log_id"],
+
+  "MonthlyBalances": ["account_id", "month"],
+  "CategorySpending": ["account_id", "category", "month"],
+  "MerchantFrequency": ["account_id", "merchant_name"]
+}

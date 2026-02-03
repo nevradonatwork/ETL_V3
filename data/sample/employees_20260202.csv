@@ -1,0 +1,251 @@
+employee_id,branch_id,name,role,email,phone,hire_date,status
+EMP00001,BR039,Thomas White,Financial Advisor,thomas.white@bank.com,+1-955-956-4859,2016-07-13,active
+EMP00002,BR027,James Johnson,Teller,james.johnson@bank.com,+1-219-844-5242,2022-07-11,terminated
+EMP00003,BR026,John Garcia,Manager,john.garcia@bank.com,+1-820-714-9638,2019-10-09,active
+EMP00004,BR047,Mary Moore,Customer Service,mary.moore@bank.com,+1-617-328-3099,2023-11-29,active
+EMP00005,BR001,Richard Gonzalez,Teller,richard.gonzalez@bank.com,+1-533-858-1661,2022-05-07,active
+EMP00006,BR013,Susan Lee,Customer Service,susan.lee@bank.com,+1-266-162-9041,2022-01-09,active
+EMP00007,BR009,Ava Rodriguez,Customer Service,ava.rodriguez@bank.com,+1-221-736-1006,2016-07-11,active
+EMP00008,BR032,Patricia Wilson,Manager,patricia.wilson@bank.com,+1-974-568-8052,2020-12-12,active
+EMP00009,BR006,Sarah Thomas,Customer Service,sarah.thomas@bank.com,+1-961-828-9946,2019-02-11,active
+EMP00010,BR019,Richard Thompson,Manager,richard.thompson@bank.com,+1-885-975-7393,2019-06-15,active
+EMP00011,BR016,David White,Loan Officer,david.white@bank.com,+1-853-496-5695,2015-08-25,active
+EMP00012,BR019,Elizabeth Jones,Customer Service,elizabeth.jones@bank.com,+1-578-825-8903,2024-04-21,on_leave
+EMP00013,BR026,Noah Jones,Loan Officer,noah.jones@bank.com,+1-474-540-7183,2020-06-05,active
+EMP00014,BR033,Linda Johnson,Loan Officer,linda.johnson@bank.com,+1-862-966-6239,2017-06-25,active
+EMP00015,BR045,Sarah Taylor,Financial Advisor,sarah.taylor@bank.com,+1-729-597-8268,2024-05-12,active
+EMP00016,BR012,William Martin,Financial Advisor,william.martin@bank.com,+1-952-902-1665,2019-11-28,active
+EMP00017,BR003,Oliver Thomas,Customer Service,oliver.thomas@bank.com,+1-693-780-6426,2018-07-02,active
+EMP00018,BR013,Oliver Hernandez,Teller,oliver.hernandez@bank.com,+1-543-510-6483,2018-03-27,active
+EMP00019,BR002,James Thomas,Financial Advisor,james.thomas@bank.com,+1-374-938-9915,2019-11-24,active
+EMP00020,BR021,Charles Brown,Manager,charles.brown@bank.com,+1-970-637-9852,2020-11-13,active
+EMP00021,BR041,Barbara Martinez,Customer Service,barbara.martinez@bank.com,+1-246-277-4644,2019-12-04,active
+EMP00022,BR013,Thomas Hernandez,Teller,thomas.hernandez@bank.com,+1-213-985-4702,2022-05-05,active
+EMP00023,BR003,Elizabeth Moore,Loan Officer,elizabeth.moore@bank.com,+1-758-671-1489,2017-12-17,on_leave
+EMP00024,BR040,Michael Martinez,Teller,michael.martinez@bank.com,+1-884-420-9184,2019-07-19,active
+EMP00025,BR040,William Davis,Manager,william.davis@bank.com,+1-812-388-6256,2023-03-09,active
+EMP00026,BR045,Thomas Thomas,Teller,thomas.thomas@bank.com,+1-852-883-4735,2015-05-14,active
+EMP00027,BR030,Sophia Hernandez,Financial Advisor,sophia.hernandez@bank.com,+1-633-851-9092,2020-05-27,active
+EMP00028,BR017,David White,Loan Officer,david.white@bank.com,+1-815-397-8500,2016-11-16,active
+EMP00029,BR003,Noah Rodriguez,Manager,noah.rodriguez@bank.com,+1-813-150-1143,2016-11-14,active
+EMP00030,BR009,Jennifer Gonzalez,Teller,jennifer.gonzalez@bank.com,+1-802-437-2993,2025-12-14,active
+EMP00031,BR016,Michael Lee,Customer Service,michael.lee@bank.com,+1-465-939-8745,2015-11-16,active
+EMP00032,BR050,Jessica Lopez,Loan Officer,jessica.lopez@bank.com,+1-924-791-8306,2017-08-30,active
+EMP00033,BR013,Sarah Jackson,Customer Service,sarah.jackson@bank.com,+1-703-279-2896,2024-06-12,active
+EMP00034,BR010,Charles Moore,Financial Advisor,charles.moore@bank.com,+1-236-574-4131,2024-02-21,active
+EMP00035,BR035,Mary Martinez,Teller,mary.martinez@bank.com,+1-991-441-2632,2023-09-20,active
+EMP00036,BR021,Patricia Gonzalez,Manager,patricia.gonzalez@bank.com,+1-756-679-3400,2023-10-01,active
+EMP00037,BR048,Jessica Johnson,Teller,jessica.johnson@bank.com,+1-935-705-7320,2024-08-06,active
+EMP00038,BR021,John Davis,Manager,john.davis@bank.com,+1-517-632-8655,2023-03-30,active
+EMP00039,BR014,Barbara Williams,Financial Advisor,barbara.williams@bank.com,+1-774-849-6398,2020-11-15,active
+EMP00040,BR025,Barbara Brown,Customer Service,barbara.brown@bank.com,+1-385-675-2017,2024-07-12,active
+EMP00041,BR034,John Anderson,Financial Advisor,john.anderson@bank.com,+1-403-849-2386,2015-01-09,active
+EMP00042,BR036,Emma Wilson,Financial Advisor,emma.wilson@bank.com,+1-621-480-2459,2017-04-27,active
+EMP00043,BR023,James Jones,Financial Advisor,james.jones@bank.com,+1-922-874-3828,2024-09-10,active
+EMP00044,BR030,Ava White,Customer Service,ava.white@bank.com,+1-590-612-4506,2020-09-14,active
+EMP00045,BR035,Linda Thomas,Loan Officer,linda.thomas@bank.com,+1-776-946-8991,2020-06-13,active
+EMP00046,BR041,Noah Garcia,Teller,noah.garcia@bank.com,+1-776-894-6169,2023-02-24,active
+EMP00047,BR033,Mary Jackson,Manager,mary.jackson@bank.com,+1-624-746-2061,2020-09-04,active
+EMP00048,BR042,Linda Anderson,Customer Service,linda.anderson@bank.com,+1-514-507-9584,2023-08-06,on_leave
+EMP00049,BR007,Jennifer Johnson,Loan Officer,jennifer.johnson@bank.com,+1-249-137-8425,2016-12-13,active
+EMP00050,BR002,James Miller,Manager,james.miller@bank.com,+1-365-130-2220,2025-04-12,active
+EMP00051,BR028,Joseph Davis,Manager,joseph.davis@bank.com,+1-782-540-9706,2022-10-19,active
+EMP00052,BR048,Susan Lee,Financial Advisor,susan.lee@bank.com,+1-673-687-2263,2023-08-17,active
+EMP00053,BR020,Jessica Jackson,Teller,jessica.jackson@bank.com,+1-209-293-9296,2022-08-13,active
+EMP00054,BR014,Barbara Davis,Loan Officer,barbara.davis@bank.com,+1-420-568-4215,2023-07-08,active
+EMP00055,BR029,Susan Rodriguez,Manager,susan.rodriguez@bank.com,+1-295-201-1823,2022-02-05,active
+EMP00056,BR025,David Miller,Manager,david.miller@bank.com,+1-435-403-6807,2021-03-16,active
+EMP00057,BR010,Jessica Davis,Loan Officer,jessica.davis@bank.com,+1-656-612-7112,2015-11-06,active
+EMP00058,BR047,Sophia Miller,Financial Advisor,sophia.miller@bank.com,+1-579-186-2042,2024-08-07,active
+EMP00059,BR032,Mary Johnson,Teller,mary.johnson@bank.com,+1-459-795-6542,2024-04-08,active
+EMP00060,BR041,James Martin,Manager,james.martin@bank.com,+1-507-915-4682,2020-12-08,active
+EMP00061,BR026,Michael Jones,Manager,michael.jones@bank.com,+1-937-652-6139,2018-11-03,active
+EMP00062,BR026,Barbara Garcia,Teller,barbara.garcia@bank.com,+1-902-235-9954,2024-05-14,terminated
+EMP00063,BR003,Noah Thomas,Manager,noah.thomas@bank.com,+1-954-903-5217,2018-04-03,active
+EMP00064,BR040,Mary Taylor,Customer Service,mary.taylor@bank.com,+1-688-198-4415,2021-08-18,active
+EMP00065,BR011,Ava Taylor,Manager,ava.taylor@bank.com,+1-962-821-8015,2017-03-28,active
+EMP00066,BR004,Elizabeth Hernandez,Financial Advisor,elizabeth.hernandez@bank.com,+1-548-901-8388,2019-07-21,active
+EMP00067,BR045,Oliver Smith,Financial Advisor,oliver.smith@bank.com,+1-928-566-9761,2023-04-06,active
+EMP00068,BR037,Patricia Taylor,Teller,patricia.taylor@bank.com,+1-489-621-5735,2015-08-23,on_leave
+EMP00069,BR015,Karen Lee,Teller,karen.lee@bank.com,+1-562-183-4027,2017-10-11,active
+EMP00070,BR001,Joseph Williams,Customer Service,joseph.williams@bank.com,+1-514-137-1665,2016-06-01,active
+EMP00071,BR001,James Garcia,Customer Service,james.garcia@bank.com,+1-723-737-1872,2025-04-09,active
+EMP00072,BR032,Elizabeth Jackson,Teller,elizabeth.jackson@bank.com,+1-873-357-7508,2020-11-07,active
+EMP00073,BR005,Noah Gonzalez,Loan Officer,noah.gonzalez@bank.com,+1-903-812-9250,2018-11-16,active
+EMP00074,BR042,Oliver Miller,Customer Service,oliver.miller@bank.com,+1-352-462-9564,2022-01-23,active
+EMP00075,BR043,David Williams,Manager,david.williams@bank.com,+1-955-235-6028,2020-02-09,active
+EMP00076,BR033,John Rodriguez,Manager,john.rodriguez@bank.com,+1-947-736-2333,2024-10-24,active
+EMP00077,BR043,David Jones,Financial Advisor,david.jones@bank.com,+1-805-627-5595,2017-04-08,active
+EMP00078,BR047,Michael Martinez,Teller,michael.martinez@bank.com,+1-619-558-9503,2025-02-22,on_leave
+EMP00079,BR012,Sophia Lopez,Manager,sophia.lopez@bank.com,+1-573-317-4026,2025-07-04,active
+EMP00080,BR014,Susan Garcia,Teller,susan.garcia@bank.com,+1-788-473-1628,2017-10-24,terminated
+EMP00081,BR049,Michael Jackson,Loan Officer,michael.jackson@bank.com,+1-217-968-7451,2019-10-10,active
+EMP00082,BR004,Joseph Miller,Loan Officer,joseph.miller@bank.com,+1-748-579-5931,2024-05-13,active
+EMP00083,BR044,Charles Anderson,Teller,charles.anderson@bank.com,+1-329-165-2935,2016-03-28,active
+EMP00084,BR030,Jennifer Jackson,Manager,jennifer.jackson@bank.com,+1-463-313-2942,2023-03-28,active
+EMP00085,BR032,Joseph Moore,Loan Officer,joseph.moore@bank.com,+1-748-928-1257,2020-01-03,active
+EMP00086,BR018,Richard Miller,Manager,richard.miller@bank.com,+1-602-203-9570,2018-05-16,active
+EMP00087,BR030,James Taylor,Customer Service,james.taylor@bank.com,+1-735-841-4856,2019-06-10,active
+EMP00088,BR025,William Garcia,Teller,william.garcia@bank.com,+1-206-590-3733,2015-07-01,active
+EMP00089,BR029,Ava Hernandez,Loan Officer,ava.hernandez@bank.com,+1-467-480-9911,2016-02-08,active
+EMP00090,BR022,William Moore,Customer Service,william.moore@bank.com,+1-651-909-2652,2023-06-24,active
+EMP00091,BR035,Sarah Gonzalez,Customer Service,sarah.gonzalez@bank.com,+1-596-621-3347,2016-07-06,active
+EMP00092,BR049,Barbara Gonzalez,Customer Service,barbara.gonzalez@bank.com,+1-276-227-9848,2018-02-28,active
+EMP00093,BR033,Ava Moore,Teller,ava.moore@bank.com,+1-904-604-1452,2016-08-15,active
+EMP00094,BR032,James Taylor,Customer Service,james.taylor@bank.com,+1-969-248-6522,2018-07-08,active
+EMP00095,BR008,Thomas Lee,Customer Service,thomas.lee@bank.com,+1-893-176-9631,2021-10-07,active
+EMP00096,BR028,Noah Williams,Customer Service,noah.williams@bank.com,+1-386-955-4561,2018-11-20,active
+EMP00097,BR023,Emma Moore,Loan Officer,emma.moore@bank.com,+1-210-971-8090,2018-06-27,active
+EMP00098,BR019,David Wilson,Teller,david.wilson@bank.com,+1-616-687-3848,2023-02-22,on_leave
+EMP00099,BR026,Karen Jones,Customer Service,karen.jones@bank.com,+1-490-359-7216,2020-03-20,active
+EMP00100,BR013,Charles Thompson,Manager,charles.thompson@bank.com,+1-689-521-2038,2022-12-25,active
+EMP00101,BR046,David Jones,Customer Service,david.jones@bank.com,+1-483-868-1344,2019-01-19,active
+EMP00102,BR006,Elizabeth Davis,Manager,elizabeth.davis@bank.com,+1-624-990-4691,2018-07-24,active
+EMP00103,BR035,John Jones,Customer Service,john.jones@bank.com,+1-381-769-7420,2021-09-26,on_leave
+EMP00104,BR045,Mary Martin,Teller,mary.martin@bank.com,+1-426-687-5236,2019-02-27,active
+EMP00105,BR040,Sarah Williams,Customer Service,sarah.williams@bank.com,+1-391-990-1724,2023-01-30,active
+EMP00106,BR045,Ava Garcia,Loan Officer,ava.garcia@bank.com,+1-497-880-5367,2025-09-16,active
+EMP00107,BR033,Susan Taylor,Teller,susan.taylor@bank.com,+1-516-264-7163,2024-06-10,active
+EMP00108,BR006,Sarah Moore,Manager,sarah.moore@bank.com,+1-528-774-5173,2017-04-29,active
+EMP00109,BR044,Barbara Johnson,Manager,barbara.johnson@bank.com,+1-454-249-7992,2023-03-05,active
+EMP00110,BR031,David Hernandez,Customer Service,david.hernandez@bank.com,+1-208-483-6894,2020-05-09,active
+EMP00111,BR011,William Garcia,Customer Service,william.garcia@bank.com,+1-574-137-7792,2017-07-08,active
+EMP00112,BR049,Barbara Taylor,Customer Service,barbara.taylor@bank.com,+1-352-114-9436,2020-06-22,active
+EMP00113,BR014,William Johnson,Manager,william.johnson@bank.com,+1-279-904-6546,2023-10-06,active
+EMP00114,BR016,Richard Brown,Loan Officer,richard.brown@bank.com,+1-469-530-1456,2021-12-20,active
+EMP00115,BR027,James Thomas,Teller,james.thomas@bank.com,+1-527-860-5332,2022-01-01,active
+EMP00116,BR005,Patricia Brown,Financial Advisor,patricia.brown@bank.com,+1-200-714-6293,2019-10-19,active
+EMP00117,BR032,Barbara Jackson,Customer Service,barbara.jackson@bank.com,+1-583-698-7682,2025-03-26,active
+EMP00118,BR034,Sarah Martin,Customer Service,sarah.martin@bank.com,+1-550-434-6335,2015-02-05,active
+EMP00119,BR048,Barbara Jones,Teller,barbara.jones@bank.com,+1-727-437-8659,2015-06-19,on_leave
+EMP00120,BR045,Jennifer Johnson,Loan Officer,jennifer.johnson@bank.com,+1-301-281-6531,2017-05-05,active
+EMP00121,BR048,James Anderson,Manager,james.anderson@bank.com,+1-723-542-7784,2024-03-28,active
+EMP00122,BR031,Thomas Rodriguez,Loan Officer,thomas.rodriguez@bank.com,+1-871-432-7662,2023-09-10,active
+EMP00123,BR026,Thomas Miller,Teller,thomas.miller@bank.com,+1-551-664-1402,2019-07-10,active
+EMP00124,BR012,Sarah Johnson,Manager,sarah.johnson@bank.com,+1-260-791-1310,2023-06-25,active
+EMP00125,BR016,David Miller,Teller,david.miller@bank.com,+1-637-658-8043,2022-10-09,active
+EMP00126,BR043,Patricia Rodriguez,Loan Officer,patricia.rodriguez@bank.com,+1-830-907-3779,2019-02-01,active
+EMP00127,BR024,Michael Smith,Customer Service,michael.smith@bank.com,+1-852-395-4738,2018-02-15,active
+EMP00128,BR010,Michael Jones,Financial Advisor,michael.jones@bank.com,+1-807-878-2506,2017-02-17,active
+EMP00129,BR034,David Martinez,Loan Officer,david.martinez@bank.com,+1-659-691-3667,2019-01-01,on_leave
+EMP00130,BR001,James Lopez,Financial Advisor,james.lopez@bank.com,+1-956-852-9100,2023-07-16,active
+EMP00131,BR024,Thomas Anderson,Teller,thomas.anderson@bank.com,+1-636-932-8008,2021-07-25,active
+EMP00132,BR001,Mary Davis,Loan Officer,mary.davis@bank.com,+1-362-834-1797,2021-06-03,active
+EMP00133,BR008,Michael Taylor,Financial Advisor,michael.taylor@bank.com,+1-677-874-6028,2022-03-28,active
+EMP00134,BR023,Thomas Brown,Customer Service,thomas.brown@bank.com,+1-905-815-5429,2017-02-28,active
+EMP00135,BR038,Noah Moore,Manager,noah.moore@bank.com,+1-528-512-9551,2024-04-02,on_leave
+EMP00136,BR024,Jessica Williams,Manager,jessica.williams@bank.com,+1-307-432-6686,2019-10-25,active
+EMP00137,BR031,Emma Williams,Manager,emma.williams@bank.com,+1-839-437-7736,2021-02-03,active
+EMP00138,BR004,Susan Anderson,Loan Officer,susan.anderson@bank.com,+1-243-982-9682,2024-06-11,active
+EMP00139,BR030,Sophia Moore,Loan Officer,sophia.moore@bank.com,+1-773-916-5486,2019-03-21,active
+EMP00140,BR006,Charles Jackson,Manager,charles.jackson@bank.com,+1-372-905-9307,2015-10-08,active
+EMP00141,BR033,Elizabeth Hernandez,Loan Officer,elizabeth.hernandez@bank.com,+1-586-973-5600,2024-05-08,active
+EMP00142,BR050,William Martinez,Financial Advisor,william.martinez@bank.com,+1-534-536-5778,2024-08-30,active
+EMP00143,BR034,Richard Thomas,Financial Advisor,richard.thomas@bank.com,+1-327-355-5135,2022-04-20,on_leave
+EMP00144,BR009,Noah Brown,Loan Officer,noah.brown@bank.com,+1-299-557-6203,2023-04-22,active
+EMP00145,BR009,Oliver Williams,Manager,oliver.williams@bank.com,+1-210-490-2321,2025-08-27,active
+EMP00146,BR005,Robert Lee,Customer Service,robert.lee@bank.com,+1-841-684-4900,2021-06-10,active
+EMP00147,BR044,Emma White,Customer Service,emma.white@bank.com,+1-728-703-6848,2021-03-06,active
+EMP00148,BR016,David Garcia,Financial Advisor,david.garcia@bank.com,+1-533-154-6862,2021-01-22,active
+EMP00149,BR003,William Williams,Financial Advisor,william.williams@bank.com,+1-614-377-8845,2016-05-12,active
+EMP00150,BR035,David Wilson,Financial Advisor,david.wilson@bank.com,+1-297-118-2029,2018-01-14,active
+EMP00151,BR030,John Taylor,Loan Officer,john.taylor@bank.com,+1-208-538-2429,2018-11-27,on_leave
+EMP00152,BR007,Jessica Brown,Teller,jessica.brown@bank.com,+1-580-723-5669,2015-03-23,active
+EMP00153,BR047,Sophia Thomas,Loan Officer,sophia.thomas@bank.com,+1-263-698-4194,2018-04-17,active
+EMP00154,BR005,James Martin,Financial Advisor,james.martin@bank.com,+1-556-753-5832,2025-09-08,active
+EMP00155,BR002,Noah Rodriguez,Customer Service,noah.rodriguez@bank.com,+1-315-941-5256,2024-10-02,active
+EMP00156,BR002,Noah Williams,Customer Service,noah.williams@bank.com,+1-577-606-3165,2019-02-17,active
+EMP00157,BR003,Elizabeth Moore,Teller,elizabeth.moore@bank.com,+1-425-252-7647,2025-03-11,active
+EMP00158,BR010,James Miller,Loan Officer,james.miller@bank.com,+1-264-367-7037,2018-02-18,on_leave
+EMP00159,BR009,Robert Moore,Customer Service,robert.moore@bank.com,+1-386-150-9430,2023-02-03,active
+EMP00160,BR027,Jennifer Rodriguez,Financial Advisor,jennifer.rodriguez@bank.com,+1-902-973-7497,2025-10-25,active
+EMP00161,BR021,Noah Thompson,Financial Advisor,noah.thompson@bank.com,+1-708-735-8552,2021-02-26,on_leave
+EMP00162,BR043,Karen White,Financial Advisor,karen.white@bank.com,+1-477-585-2572,2015-01-31,active
+EMP00163,BR022,John Brown,Teller,john.brown@bank.com,+1-448-947-4129,2016-01-05,active
+EMP00164,BR004,Karen Martin,Loan Officer,karen.martin@bank.com,+1-793-691-8837,2024-06-17,active
+EMP00165,BR035,Elizabeth Jackson,Loan Officer,elizabeth.jackson@bank.com,+1-791-890-4451,2022-05-07,active
+EMP00166,BR009,James Smith,Financial Advisor,james.smith@bank.com,+1-896-692-4292,2024-06-23,active
+EMP00167,BR031,Charles Williams,Loan Officer,charles.williams@bank.com,+1-656-777-3416,2017-01-02,on_leave
+EMP00168,BR015,Susan White,Teller,susan.white@bank.com,+1-217-795-8671,2018-03-02,active
+EMP00169,BR030,Sarah Lee,Financial Advisor,sarah.lee@bank.com,+1-276-285-6881,2019-12-06,active
+EMP00170,BR029,David Smith,Teller,david.smith@bank.com,+1-818-693-8347,2018-07-13,active
+EMP00171,BR047,Noah Miller,Manager,noah.miller@bank.com,+1-406-913-5241,2015-01-26,active
+EMP00172,BR012,Richard Lopez,Customer Service,richard.lopez@bank.com,+1-229-681-4750,2019-07-18,active
+EMP00173,BR047,Ava Jackson,Teller,ava.jackson@bank.com,+1-322-385-6680,2015-05-04,active
+EMP00174,BR005,Susan Taylor,Teller,susan.taylor@bank.com,+1-752-962-7446,2025-03-19,active
+EMP00175,BR015,William Brown,Manager,william.brown@bank.com,+1-319-380-6688,2024-02-29,active
+EMP00176,BR041,Barbara Martinez,Financial Advisor,barbara.martinez@bank.com,+1-550-624-8080,2021-01-24,active
+EMP00177,BR016,Richard Gonzalez,Loan Officer,richard.gonzalez@bank.com,+1-724-336-5642,2022-12-10,active
+EMP00178,BR047,James Lopez,Teller,james.lopez@bank.com,+1-966-141-1700,2022-04-11,active
+EMP00179,BR026,Sophia Anderson,Customer Service,sophia.anderson@bank.com,+1-958-142-5095,2015-03-31,active
+EMP00180,BR033,Patricia Thomas,Loan Officer,patricia.thomas@bank.com,+1-271-186-9809,2015-05-26,active
+EMP00181,BR003,Linda Taylor,Manager,linda.taylor@bank.com,+1-838-771-9121,2025-04-26,active
+EMP00182,BR015,Michael Moore,Teller,michael.moore@bank.com,+1-725-945-1179,2024-08-30,active
+EMP00183,BR003,Patricia Thomas,Financial Advisor,patricia.thomas@bank.com,+1-529-376-5932,2021-09-13,active
+EMP00184,BR002,Michael Davis,Financial Advisor,michael.davis@bank.com,+1-955-691-3629,2015-05-11,active
+EMP00185,BR014,Joseph Jones,Manager,joseph.jones@bank.com,+1-520-186-4276,2019-11-02,active
+EMP00186,BR023,Michael Thomas,Customer Service,michael.thomas@bank.com,+1-954-756-4216,2018-12-15,active
+EMP00187,BR028,Sarah Davis,Loan Officer,sarah.davis@bank.com,+1-752-319-1539,2015-11-30,active
+EMP00188,BR031,Robert Hernandez,Customer Service,robert.hernandez@bank.com,+1-351-584-2461,2024-09-16,active
+EMP00189,BR038,Mary Miller,Financial Advisor,mary.miller@bank.com,+1-374-668-6301,2015-10-02,active
+EMP00190,BR041,Joseph Lee,Financial Advisor,joseph.lee@bank.com,+1-215-155-4219,2025-09-01,active
+EMP00191,BR047,Richard Williams,Loan Officer,richard.williams@bank.com,+1-963-894-8997,2025-05-25,active
+EMP00192,BR029,Jennifer Miller,Loan Officer,jennifer.miller@bank.com,+1-759-372-1553,2022-03-04,active
+EMP00193,BR003,Ava Hernandez,Teller,ava.hernandez@bank.com,+1-473-273-6930,2016-01-03,active
+EMP00194,BR047,Sophia Martinez,Teller,sophia.martinez@bank.com,+1-471-266-1013,2017-08-06,active
+EMP00195,BR036,Charles Gonzalez,Loan Officer,charles.gonzalez@bank.com,+1-799-318-2294,2022-05-15,active
+EMP00196,BR007,Emma Lopez,Customer Service,emma.lopez@bank.com,+1-201-278-2258,2017-03-22,active
+EMP00197,BR040,Charles Lee,Customer Service,charles.lee@bank.com,+1-620-830-6010,2019-05-04,active
+EMP00198,BR040,Elizabeth Jones,Customer Service,elizabeth.jones@bank.com,+1-772-433-2666,2016-05-06,terminated
+EMP00199,BR043,Jessica Martinez,Customer Service,jessica.martinez@bank.com,+1-571-258-7959,2025-06-25,active
+EMP00200,BR003,Linda Thompson,Loan Officer,linda.thompson@bank.com,+1-500-767-4321,2016-09-10,active
+EMP00201,BR042,Noah Jackson,Customer Service,noah.jackson@bank.com,+1-993-713-7636,2020-09-21,active
+EMP00202,BR030,Charles Lopez,Financial Advisor,charles.lopez@bank.com,+1-919-268-8780,2022-01-01,active
+EMP00203,BR041,Joseph Anderson,Manager,joseph.anderson@bank.com,+1-908-211-5770,2020-05-03,active
+EMP00204,BR023,Thomas Anderson,Manager,thomas.anderson@bank.com,+1-203-351-3152,2017-10-21,terminated
+EMP00205,BR046,Mary Martin,Customer Service,mary.martin@bank.com,+1-471-380-4870,2018-07-11,on_leave
+EMP00206,BR004,Emma White,Teller,emma.white@bank.com,+1-405-744-6224,2019-09-15,active
+EMP00207,BR009,James Williams,Teller,james.williams@bank.com,+1-866-322-4253,2023-10-15,active
+EMP00208,BR036,John Rodriguez,Loan Officer,john.rodriguez@bank.com,+1-888-137-3192,2016-08-06,active
+EMP00209,BR012,Susan Wilson,Teller,susan.wilson@bank.com,+1-287-741-5000,2022-11-11,active
+EMP00210,BR002,John Smith,Customer Service,john.smith@bank.com,+1-586-904-4057,2020-07-11,active
+EMP00211,BR033,Patricia Gonzalez,Loan Officer,patricia.gonzalez@bank.com,+1-997-325-4212,2018-09-29,active
+EMP00212,BR030,Oliver Smith,Manager,oliver.smith@bank.com,+1-394-440-6190,2024-04-21,active
+EMP00213,BR044,Robert Thomas,Loan Officer,robert.thomas@bank.com,+1-614-274-1858,2018-06-20,active
+EMP00214,BR008,Patricia Miller,Manager,patricia.miller@bank.com,+1-583-284-3936,2022-01-15,active
+EMP00215,BR021,David Thomas,Financial Advisor,david.thomas@bank.com,+1-515-284-5218,2025-03-29,active
+EMP00216,BR016,John Smith,Customer Service,john.smith@bank.com,+1-797-482-1341,2018-07-31,active
+EMP00217,BR026,Sophia Hernandez,Financial Advisor,sophia.hernandez@bank.com,+1-801-744-5372,2019-10-30,active
+EMP00218,BR047,Linda Garcia,Loan Officer,linda.garcia@bank.com,+1-919-524-4808,2025-01-22,active
+EMP00219,BR002,David Thompson,Loan Officer,david.thompson@bank.com,+1-646-397-3514,2018-09-20,active
+EMP00220,BR022,Sarah Williams,Loan Officer,sarah.williams@bank.com,+1-902-141-9569,2024-06-20,active
+EMP00221,BR050,Elizabeth Lee,Customer Service,elizabeth.lee@bank.com,+1-297-525-9827,2019-09-19,active
+EMP00222,BR023,Noah Garcia,Loan Officer,noah.garcia@bank.com,+1-435-766-2473,2021-01-19,on_leave
+EMP00223,BR009,Joseph Williams,Financial Advisor,joseph.williams@bank.com,+1-481-950-8427,2021-03-27,active
+EMP00224,BR026,Ava Thomas,Teller,ava.thomas@bank.com,+1-831-145-8110,2024-01-11,on_leave
+EMP00225,BR016,Michael Williams,Manager,michael.williams@bank.com,+1-801-690-5389,2016-06-19,active
+EMP00226,BR040,Robert Johnson,Loan Officer,robert.johnson@bank.com,+1-364-450-1603,2020-04-10,active
+EMP00227,BR046,Jessica Moore,Teller,jessica.moore@bank.com,+1-220-765-3150,2016-12-31,active
+EMP00228,BR019,Mary Martin,Loan Officer,mary.martin@bank.com,+1-472-655-2083,2025-02-01,active
+EMP00229,BR031,Oliver Rodriguez,Customer Service,oliver.rodriguez@bank.com,+1-427-646-8276,2016-06-25,active
+EMP00230,BR028,Barbara Moore,Loan Officer,barbara.moore@bank.com,+1-755-148-8183,2021-02-20,active
+EMP00231,BR026,Patricia Lopez,Loan Officer,patricia.lopez@bank.com,+1-671-336-2003,2015-02-17,active
+EMP00232,BR022,James Lee,Teller,james.lee@bank.com,+1-435-246-1932,2024-09-04,active
+EMP00233,BR017,Richard Lopez,Customer Service,richard.lopez@bank.com,+1-872-568-4936,2020-03-04,on_leave
+EMP00234,BR018,Thomas Jones,Teller,thomas.jones@bank.com,+1-932-354-5821,2018-08-21,active
+EMP00235,BR022,William Martinez,Loan Officer,william.martinez@bank.com,+1-864-736-5491,2022-11-22,active
+EMP00236,BR020,Karen Johnson,Manager,karen.johnson@bank.com,+1-477-242-6550,2021-01-02,active
+EMP00237,BR017,David Lee,Manager,david.lee@bank.com,+1-858-567-8991,2022-07-03,terminated
+EMP00238,BR046,William White,Manager,william.white@bank.com,+1-782-994-5168,2023-12-26,active
+EMP00239,BR046,Patricia Thomas,Financial Advisor,patricia.thomas@bank.com,+1-442-825-5493,2018-08-29,active
+EMP00240,BR009,Jessica Lopez,Manager,jessica.lopez@bank.com,+1-887-778-4581,2023-07-08,active
+EMP00241,BR023,Sarah Thompson,Financial Advisor,sarah.thompson@bank.com,+1-410-145-5977,2020-02-13,on_leave
+EMP00242,BR039,Noah Thomas,Financial Advisor,noah.thomas@bank.com,+1-900-716-1081,2019-08-10,active
+EMP00243,BR049,Noah Rodriguez,Manager,noah.rodriguez@bank.com,+1-828-216-1964,2024-07-15,active
+EMP00244,BR006,William Gonzalez,Financial Advisor,william.gonzalez@bank.com,+1-910-935-8757,2021-09-23,active
+EMP00245,BR019,Ava Smith,Manager,ava.smith@bank.com,+1-764-499-9015,2019-06-26,active
+EMP00246,BR023,Charles Williams,Loan Officer,charles.williams@bank.com,+1-608-766-2746,2016-01-01,active
+EMP00247,BR012,Oliver Thomas,Loan Officer,oliver.thomas@bank.com,+1-736-398-6611,2022-04-29,active
+EMP00248,BR015,Charles Lopez,Teller,charles.lopez@bank.com,+1-760-525-5686,2019-08-20,active
+EMP00249,BR032,Susan Lee,Customer Service,susan.lee@bank.com,+1-492-350-3401,2021-10-22,active
+EMP00250,BR009,Mary Lopez,Loan Officer,mary.lopez@bank.com,+1-550-763-6227,2017-12-30,active

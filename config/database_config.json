@@ -1,0 +1,5 @@
+{
+  "database_name": "database/banking.db",
+  "database_type": "sqlite",
+  "description": "Banking ETL Database - Portfolio Project"
+}
