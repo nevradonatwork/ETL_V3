@@ -59,7 +59,7 @@ def get_all_raw_tables(conn):
         SELECT name FROM sqlite_master
         WHERE type='table'
         AND name LIKE 'raw%'
-        AND name NOT LIKE '_%'
+        AND name NOT LIKE '!_%' ESCAPE '!'
         ORDER BY name
     """)
     return [row[0] for row in cursor.fetchall()]
