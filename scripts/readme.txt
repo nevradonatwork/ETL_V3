@@ -4,14 +4,14 @@ python scripts/generate_sample_data.py
 python scripts/run_pipeline.py --import raw CSV data, transform raw to staging, create report tables
 
 
+python -m streamlit run dashboard/app.py — view the dashboard
+
+
 python scripts/csv_importer.py — import raw CSV data
 python scripts/raw_to_stg.py — transform raw to staging
 python scripts/stg_to_rpt.py — create report tables
 
 
-
-
-python -m streamlit run dashboard/app.py — view the dashboard
 
 
 https://sianda5j3sfbroenuz8pnf.streamlit.app/

@@ -70,7 +70,7 @@ def main():
     print(f"\n{'=' * 70}")
     print("PIPELINE COMPLETE - All 3 steps finished successfully")
     print(f"{'=' * 70}")
-    print("\nDashboard ready! Run: streamlit run dashboard/app.py")
+    print("\nDashboard ready! Run: python -m streamlit run dashboard/app.py — view the dashboard")
 
 
 if __name__ == "__main__":
