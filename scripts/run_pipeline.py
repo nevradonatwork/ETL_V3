@@ -23,7 +23,7 @@ def get_project_root():
     return os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 
 
-def run_step(step_number, description, script, args=None):
+def run_step(step_number, description, script, args=None, stdin_input=None):
     """Run a single pipeline step and return True if successful."""
     print(f"\n{'=' * 70}")
     print(f"STEP {step_number}: {description}")
@@ -33,7 +33,8 @@ def run_step(step_number, description, script, args=None):
     if args:
         cmd.extend(args)
 
-    result = subprocess.run(cmd, cwd=get_project_root())
+    result = subprocess.run(cmd, cwd=get_project_root(),
+                            input=stdin_input, text=True if stdin_input else None)
 
     if result.returncode != 0:
         print(f"\n>>> STEP {step_number} FAILED (exit code {result.returncode})")
@@ -49,10 +50,11 @@ def main():
     # Pass --sample flag if provided
     importer_args = ['--sample'] if '--sample' in sys.argv else []
 
+    # stdin_input="no\n" auto-answers the "Move processed files?" prompt
     steps = [
-        (1, "Import CSV Data", os.path.join(root, 'scripts', 'csv_importer.py'), importer_args),
-        (2, "Raw to Staging",  os.path.join(root, 'scripts', 'raw_to_stg.py'),   None),
-        (3, "Staging to Report", os.path.join(root, 'scripts', 'stg_to_rpt.py'), None),
+        (1, "Import CSV Data", os.path.join(root, 'scripts', 'csv_importer.py'), importer_args, "no\n"),
+        (2, "Raw to Staging",  os.path.join(root, 'scripts', 'raw_to_stg.py'),   None, None),
+        (3, "Staging to Report", os.path.join(root, 'scripts', 'stg_to_rpt.py'), None, None),
     ]
 
     print("=" * 70)
@@ -60,8 +62,8 @@ def main():
     print("Banking ETL System")
     print("=" * 70)
 
-    for step_number, description, script, args in steps:
-        if not run_step(step_number, description, script, args):
+    for step_number, description, script, args, stdin_input in steps:
+        if not run_step(step_number, description, script, args, stdin_input):
             print(f"\n{'=' * 70}")
             print(f"PIPELINE STOPPED at Step {step_number}")
             print(f"{'=' * 70}")

@@ -1,0 +1,21 @@
+atm_id,branch_id,address,city,latitude,longitude,available_24h,withdrawal_fee,deposit_enabled,status
+ATM0101,BR009,8809 Chestnut Lane,Minneapolis,34.621362,-109.671384,0,2.5,1,operational
+ATM0102,BR016,2090 Spruce Terrace,Raleigh,31.421254,-73.818318,1,0,1,maintenance
+ATM0103,BR057,5107 Magnolia Street,Baltimore,32.234234,-89.229433,1,2.5,1,operational
+ATM0104,BR027,9026 Magnolia Street,Tampa,28.329382,-114.342714,1,2.5,0,operational
+ATM0105,BR050,1454 Hickory Drive,Raleigh,46.967896,-102.947824,0,3.0,0,operational
+ATM0106,BR032,8143 Chestnut Lane,Sacramento,29.693766,-109.468765,1,0,0,offline
+ATM0107,BR011,1448 Cedar Lane,Raleigh,33.221023,-92.657568,0,0,1,operational
+ATM0108,BR045,1519 Poplar Road,Tampa,43.60001,-93.999382,1,2.5,1,operational
+ATM0109,BR056,5134 Pine Road,Minneapolis,27.465544,-96.820341,0,3.5,1,operational
+ATM0110,BR021,6464 Willow Way,Las Vegas,26.706196,-82.465609,0,3.0,0,operational
+ATM0111,BR014,5187 Chestnut Lane,Memphis,47.480858,-112.067088,0,3.0,0,operational
+ATM0112,BR017,461 Maple Drive,Atlanta,29.530302,-83.576025,1,3.0,0,operational
+ATM0113,BR004,3763 Maple Drive,Atlanta,38.756374,-90.943873,0,0,0,operational
+ATM0114,BR044,7432 Pine Road,Richmond,35.179057,-95.620938,0,0,1,operational
+ATM0115,BR020,3452 Redwood Place,Pittsburgh,34.66022,-88.884697,1,3.5,0,operational
+ATM0116,BR002,3232 Elm Boulevard,Louisville,31.377898,-84.140239,1,3.5,0,operational
+ATM0117,BR045,7798 Redwood Place,Raleigh,42.972304,-110.907602,1,3.0,1,operational
+ATM0118,BR004,1624 Elm Boulevard,Louisville,41.980466,-120.063575,1,3.0,0,operational
+ATM0119,BR021,1696 Maple Drive,Richmond,28.224693,-90.848251,1,2.5,0,operational
+ATM0120,BR013,787 Aspen Circle,Tampa,39.845958,-101.022301,1,3.0,1,operational

@@ -1,0 +1,11 @@
+branch_id,branch_name,address,city,state,postal_code,phone,hours,services
+BR051,Minneapolis Branch 51,1815 Oak Avenue,Minneapolis,MN,61404,+1-782-258-1543,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR052,Kansas City Branch 52,7237 Pine Road,Kansas City,MO,14313,+1-577-278-7331,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR053,Tampa Branch 53,6603 Aspen Circle,Tampa,FL,66839,+1-328-928-9348,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR054,Minneapolis Branch 54,320 Aspen Circle,Minneapolis,MN,51771,+1-983-260-4232,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR055,Memphis Branch 55,3401 Magnolia Street,Memphis,TN,88305,+1-831-836-3857,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR056,Memphis Branch 56,7321 Spruce Terrace,Memphis,TN,52180,+1-974-804-1417,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR057,Raleigh Branch 57,9769 Aspen Circle,Raleigh,NC,77294,+1-947-783-6670,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR058,Pittsburgh Branch 58,1649 Maple Drive,Pittsburgh,PA,96370,+1-942-751-6185,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR059,Richmond Branch 59,9171 Spruce Terrace,Richmond,VA,27945,+1-772-451-3131,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR060,Sacramento Branch 60,9723 Willow Way,Sacramento,CA,12298,+1-550-291-2507,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
