@@ -51,7 +51,7 @@ def load_baby_names():
         return [
             'Aisha', 'Yuki', 'Priya', 'Liam', 'Fatima', 'Carlos', 'Mei',
             'Zara', 'Kenji', 'Omar', 'Chloe', 'Elena', 'Luna', 'Mateo',
-            'Felix', 'Anya', 'Rafael', 'Marco', 'Nora', 'Leo'
+            'Felix', 'Anya', 'Rafael', 'Marco', 'Nora', 'Leo','Nevra'
         ]
 
     names = set()
