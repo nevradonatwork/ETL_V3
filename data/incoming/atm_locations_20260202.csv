@@ -1,0 +1,101 @@
+atm_id,branch_id,address,city,latitude,longitude,available_24h,withdrawal_fee,deposit_enabled,status
+ATM0001,BR036,1851 Johnson Ave,Jacksonville,36.494953,-115.427381,1,3.0,1,operational
+ATM0002,BR007,6068 White Ave,Columbus,25.602013,-77.067006,1,3.5,0,operational
+ATM0003,BR047,927 Martin Ave,Austin,45.594939,-75.526839,0,3.5,1,operational
+ATM0004,,5078 Garcia Ave,Chicago,33.521152,-85.080795,0,3.0,1,operational
+ATM0005,BR029,6758 Hernandez Ave,Chicago,36.108734,-90.955541,0,3.0,1,maintenance
+ATM0006,BR034,6529 Lopez Ave,Phoenix,32.059139,-76.099911,1,3.5,0,operational
+ATM0007,BR009,4920 Garcia Ave,Austin,34.73161,-117.531883,0,0,1,operational
+ATM0008,,7012 Jones Ave,Philadelphia,45.540589,-71.252652,0,3.5,0,operational
+ATM0009,BR021,285 Martin Ave,New York,28.339543,-84.451558,0,0,0,operational
+ATM0010,BR006,4453 Taylor Ave,San Diego,41.647295,-72.022556,0,0,1,operational
+ATM0011,,6501 Gonzalez Ave,Dallas,33.063884,-86.952903,0,2.5,1,operational
+ATM0012,BR008,8621 Gonzalez Ave,Charlotte,37.047007,-118.957448,0,3.5,0,operational
+ATM0013,BR037,838 Garcia Ave,Charlotte,29.338812,-84.690987,0,2.5,0,operational
+ATM0014,BR006,5655 Martinez Ave,San Jose,44.722332,-104.864563,0,3.0,1,maintenance
+ATM0015,BR048,5747 Moore Ave,New York,47.93306,-96.523439,1,3.5,0,operational
+ATM0016,,9017 Miller Ave,Philadelphia,27.642279,-111.940758,0,2.5,0,operational
+ATM0017,,4779 Wilson Ave,Portland,41.526334,-120.817205,0,3.5,1,operational
+ATM0018,BR016,2897 Jackson Ave,Dallas,33.435008,-120.581103,0,3.5,0,operational
+ATM0019,BR011,9895 Brown Ave,Fort Worth,38.644582,-105.555113,0,2.5,1,operational
+ATM0020,BR036,6591 Miller Ave,New York,31.170706,-120.32548,1,3.5,0,operational
+ATM0021,BR047,353 Lee Ave,Jacksonville,38.252301,-119.15928,0,0,1,operational
+ATM0022,BR011,7357 Gonzalez Ave,Fort Worth,46.629585,-77.311841,0,3.5,0,operational
+ATM0023,BR012,4677 Miller Ave,Columbus,39.439953,-86.962162,1,0,0,operational
+ATM0024,,5299 Wilson Ave,Boston,36.596296,-112.469188,1,3.5,0,operational
+ATM0025,BR007,7219 Thomas Ave,San Antonio,30.088891,-114.631899,1,3.5,1,offline
+ATM0026,BR038,5404 Rodriguez Ave,San Jose,41.92895,-74.970694,0,3.0,1,maintenance
+ATM0027,,4645 Wilson Ave,Columbus,28.025487,-110.847067,1,2.5,1,operational
+ATM0028,,6049 Anderson Ave,Chicago,43.621683,-85.447824,1,3.0,1,offline
+ATM0029,,2281 White Ave,Dallas,39.013028,-91.153376,1,2.5,0,operational
+ATM0030,,5172 Brown Ave,Austin,42.741193,-86.345298,0,0,0,operational
+ATM0031,BR026,9935 Smith Ave,Los Angeles,29.88652,-77.48203,0,0,0,operational
+ATM0032,,9556 Lee Ave,San Jose,31.151181,-106.245032,0,3.5,0,operational
+ATM0033,,8550 White Ave,Chicago,35.423591,-119.209017,0,3.0,1,operational
+ATM0034,BR019,3568 Gonzalez Ave,Chicago,32.86142,-83.986866,0,3.5,0,operational
+ATM0035,BR011,9971 Garcia Ave,New York,43.016063,-118.874263,0,0,0,operational
+ATM0036,BR032,8326 Garcia Ave,San Diego,40.869163,-75.644864,1,3.0,1,operational
+ATM0037,BR028,1998 Wilson Ave,Phoenix,33.236002,-72.621423,0,3.0,1,operational
+ATM0038,,3522 Thompson Ave,San Antonio,38.350969,-91.957822,1,2.5,0,maintenance
+ATM0039,BR008,3408 Wilson Ave,Boston,26.388075,-71.940452,0,3.5,1,maintenance
+ATM0040,BR011,3438 Brown Ave,Chicago,44.766604,-104.641258,0,3.0,0,operational
+ATM0041,BR005,7642 Miller Ave,Houston,33.78546,-92.955765,1,3.0,0,maintenance
+ATM0042,BR047,3338 Brown Ave,Detroit,25.240498,-95.688577,0,3.5,0,operational
+ATM0043,BR017,3647 Brown Ave,Dallas,44.145059,-121.366533,1,0,0,operational
+ATM0044,BR022,9343 Lee Ave,Seattle,47.88574,-101.8742,0,3.0,1,operational
+ATM0045,,283 Jones Ave,New York,37.446022,-104.177749,0,2.5,0,operational
+ATM0046,BR009,3361 Thompson Ave,San Jose,46.36495,-117.883151,1,0,0,operational
+ATM0047,,4213 Lopez Ave,New York,39.473563,-84.046199,1,2.5,1,operational
+ATM0048,,359 Hernandez Ave,Boston,44.851618,-74.436372,0,0,1,operational
+ATM0049,BR033,8540 Jackson Ave,Charlotte,29.637722,-121.519476,1,3.0,0,operational
+ATM0050,,2986 Hernandez Ave,Austin,42.902059,-103.503857,0,2.5,0,operational
+ATM0051,BR019,7202 Miller Ave,New York,30.114096,-108.980239,1,0,0,operational
+ATM0052,,7339 Thompson Ave,Philadelphia,36.230863,-73.788087,0,2.5,0,maintenance
+ATM0053,BR011,6080 Johnson Ave,Seattle,33.636103,-77.446134,1,2.5,0,operational
+ATM0054,BR027,9339 Miller Ave,Detroit,39.494268,-78.043076,0,3.0,1,operational
+ATM0055,BR020,2512 Garcia Ave,Denver,46.167878,-118.626722,0,2.5,0,operational
+ATM0056,BR050,7014 Anderson Ave,Detroit,44.381954,-101.477477,0,3.0,1,operational
+ATM0057,BR012,3433 Thompson Ave,New York,32.253276,-100.263187,0,3.5,1,operational
+ATM0058,,3652 Anderson Ave,Charlotte,43.089295,-97.613164,1,3.5,0,operational
+ATM0059,,9415 Brown Ave,Charlotte,42.577774,-110.043353,1,3.0,1,operational
+ATM0060,BR039,8021 Brown Ave,Fort Worth,47.529589,-99.233506,1,2.5,0,operational
+ATM0061,BR025,5640 Taylor Ave,Seattle,47.829677,-104.365652,1,3.0,0,operational
+ATM0062,,5168 Thomas Ave,Detroit,35.674904,-80.603511,1,3.0,0,operational
+ATM0063,BR014,8925 Martinez Ave,Chicago,26.327079,-74.082456,0,0,1,maintenance
+ATM0064,BR011,9051 Thompson Ave,Dallas,38.002535,-79.865838,1,3.0,0,offline
+ATM0065,BR028,4429 Hernandez Ave,Charlotte,35.08083,-75.285327,0,3.5,0,operational
+ATM0066,BR015,465 Lee Ave,Los Angeles,25.70516,-98.069665,1,3.0,1,operational
+ATM0067,BR006,5901 Garcia Ave,Dallas,25.260815,-79.606274,1,3.0,1,operational
+ATM0068,BR026,8300 Miller Ave,Portland,26.857455,-77.496489,1,2.5,1,operational
+ATM0069,,178 Jones Ave,Charlotte,35.73479,-100.5531,1,2.5,1,operational
+ATM0070,,5225 Hernandez Ave,San Jose,39.044681,-116.889773,1,3.0,1,operational
+ATM0071,BR003,5371 Martin Ave,Jacksonville,29.936689,-95.446869,0,2.5,0,operational
+ATM0072,BR040,7302 Wilson Ave,New York,25.300712,-102.838493,0,0,0,operational
+ATM0073,BR003,3926 Lee Ave,Phoenix,36.064501,-117.135846,1,2.5,1,operational
+ATM0074,BR023,4330 Hernandez Ave,Charlotte,39.034791,-93.728644,1,0,0,maintenance
+ATM0075,,6843 Lee Ave,Phoenix,31.444138,-119.76157,1,0,1,operational
+ATM0076,BR041,5723 Hernandez Ave,Denver,40.265764,-119.88485,0,0,1,operational
+ATM0077,BR046,1002 White Ave,Columbus,40.869608,-101.864138,1,0,0,operational
+ATM0078,BR028,8747 Smith Ave,Los Angeles,26.38276,-91.848368,1,0,0,maintenance
+ATM0079,BR026,3888 Martin Ave,San Antonio,32.409687,-87.688817,0,2.5,1,operational
+ATM0080,BR012,2498 Jackson Ave,Columbus,35.064936,-90.358319,0,0,0,operational
+ATM0081,BR014,4569 Taylor Ave,Portland,46.773573,-88.280596,1,3.5,1,operational
+ATM0082,BR011,7914 Jones Ave,Houston,35.129726,-116.676571,0,3.5,0,operational
+ATM0083,BR008,9980 Brown Ave,Phoenix,33.173653,-112.943605,1,3.5,0,operational
+ATM0084,BR050,1891 Lopez Ave,Denver,25.976806,-91.836287,0,2.5,0,operational
+ATM0085,BR026,7768 Anderson Ave,San Diego,40.865159,-79.235559,1,3.5,1,operational
+ATM0086,BR038,7996 Brown Ave,New York,29.053602,-114.299354,1,0,1,operational
+ATM0087,BR001,4134 Hernandez Ave,Portland,39.400705,-107.028523,1,0,1,operational
+ATM0088,BR042,3311 Miller Ave,Houston,40.267429,-95.88218,1,2.5,0,operational
+ATM0089,,1027 Davis Ave,Denver,41.68179,-94.2211,1,0,1,operational
+ATM0090,,5808 Garcia Ave,Fort Worth,44.104219,-71.417083,0,0,1,operational
+ATM0091,BR028,4057 Taylor Ave,San Diego,36.148487,-115.609798,1,0,0,operational
+ATM0092,BR005,2133 Anderson Ave,Portland,35.883606,-105.185488,1,2.5,1,operational
+ATM0093,BR021,1825 Taylor Ave,Seattle,35.004935,-103.632243,1,3.5,1,operational
+ATM0094,BR047,1328 Thompson Ave,Boston,30.789689,-85.485026,1,3.5,1,operational
+ATM0095,,8691 Martin Ave,Dallas,47.244537,-112.731427,0,3.5,1,operational
+ATM0096,BR024,7549 Thomas Ave,Columbus,31.683792,-77.559381,1,3.5,0,operational
+ATM0097,BR016,4383 Thomas Ave,Philadelphia,27.132368,-73.958414,1,2.5,0,operational
+ATM0098,BR042,6448 Johnson Ave,Boston,38.205678,-84.573306,0,3.5,1,operational
+ATM0099,,6584 Hernandez Ave,Houston,33.385185,-117.364902,1,3.0,1,operational
+ATM0100,BR037,906 Smith Ave,Jacksonville,26.414117,-108.554641,1,3.5,0,operational

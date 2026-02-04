@@ -26,18 +26,18 @@ DATE_STR = datetime.now().strftime("%Y%m%d")
 # Random data pools
 FIRST_NAMES = ['James', 'Mary', 'John', 'Patricia', 'Robert', 'Jennifer', 'Michael', 'Linda',
                'William', 'Elizabeth', 'David', 'Barbara', 'Richard', 'Susan', 'Joseph', 'Jessica',
-               'Thomas', 'Sarah', 'Charles', 'Karen', 'Emma', 'Oliver', 'Ava', 'Noah', 'Sophia']
+               'Thomas', 'Sarah', 'Charles', 'Karen', 'Emma', 'Oliver', 'Ava', 'Noah', 'Sophia','Nevra','Kevin','Arel']
 
 LAST_NAMES = ['Smith', 'Johnson', 'Williams', 'Brown', 'Jones', 'Garcia', 'Miller', 'Davis',
               'Rodriguez', 'Martinez', 'Hernandez', 'Lopez', 'Gonzalez', 'Wilson', 'Anderson',
-              'Thomas', 'Taylor', 'Moore', 'Jackson', 'Martin', 'Lee', 'Thompson', 'White']
+              'Thomas', 'Taylor', 'Moore', 'Jackson', 'Martin', 'Lee', 'Thompson', 'White','Donat','Daw','Karem']
 
 CITIES = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix', 'Philadelphia',
           'San Antonio', 'San Diego', 'Dallas', 'San Jose', 'Austin', 'Jacksonville',
-          'Fort Worth', 'Columbus', 'Charlotte', 'Seattle', 'Denver', 'Boston', 'Detroit', 'Portland']
+          'Fort Worth', 'Columbus', 'Charlotte', 'Seattle', 'Denver', 'Boston', 'Detroit', 'Portland','Istanbul','Los Angelas', 'London']
 
 STATES = ['NY', 'CA', 'IL', 'TX', 'AZ', 'PA', 'TX', 'CA', 'TX', 'CA',
-          'TX', 'FL', 'TX', 'OH', 'NC', 'WA', 'CO', 'MA', 'MI', 'OR']
+          'TX', 'FL', 'TX', 'OH', 'NC', 'WA', 'CO', 'MA', 'MI', 'OR','LA','IST','LDN']
 
 SEGMENTS = ['retail', 'premium', 'private', 'business']
 RISK_RATINGS = ['low', 'medium', 'high']
