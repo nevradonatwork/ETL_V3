@@ -1,6 +1,7 @@
 python scripts/database_creator.py
 python scripts/generate_sample_data.py
 
+python scripts/generate_new_data.py      -- Generate new data
 python scripts/run_pipeline.py --import raw CSV data, transform raw to staging, create report tables
 
 
