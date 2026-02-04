@@ -1,201 +1,201 @@
 customer_id,name,email,phone,address,city,state,segment,risk_rating,created_date,status
-CUST000901,Leila Moreau,leila.moreau@icloud.com,+1-861-271-8507,1286 Birch Court,Milwaukee,WI,business,low,2025-01-09,active
-CUST000902,Omar Ivanov,omar.ivanov@icloud.com,+1-433-639-7142,7651 Cedar Lane,Pittsburgh,PA,business,medium,2025-09-23,active
-CUST000903,Aisha Nilsson,aisha.nilsson@outlook.com,+1-810-187-8354,5583 Cedar Lane,Pittsburgh,PA,premium,high,2026-01-24,active
-CUST000904,Anya Moreau,anya.moreau@outlook.com,+1-890-222-4713,6325 Magnolia Street,Tucson,AZ,premium,medium,2024-10-08,active
-CUST000905,Felix Bergstrom,felix.bergstrom@icloud.com,+1-782-253-7298,6838 Cedar Lane,Raleigh,NC,business,high,2025-05-12,inactive
-CUST000906,Fatima Nilsson,fatima.nilsson@yahoo.com,+1-402-634-9347,5127 Cypress Path,Salt Lake City,UT,premium,low,2025-02-03,active
-CUST000907,Nikolai Almeida,nikolai.almeida@protonmail.com,+1-848-633-9482,7849 Aspen Circle,Tucson,AZ,private,low,2025-03-24,active
-CUST000908,Anya Antonov,anya.antonov@gmail.com,+1-848-447-9244,9806 Cedar Lane,Raleigh,NC,premium,high,2026-02-06,active
-CUST000909,Idris Sorokin,idris.sorokin@icloud.com,+1-636-424-5915,6683 Birch Court,Sacramento,CA,premium,medium,2024-04-19,closed
-CUST000910,Leo Sorokin,leo.sorokin@outlook.com,+1-432-845-7073,7952 Pine Road,Kansas City,MO,private,high,2025-03-09,active
-CUST000911,Suki Diallo,suki.diallo@outlook.com,+1-469-116-3814,3191 Maple Drive,Cleveland,OH,premium,medium,2026-06-06,active
-CUST000912,Yara Tanaka,yara.tanaka@yahoo.com,+1-486-499-7739,6429 Birch Court,Salt Lake City,UT,retail,medium,2026-07-07,active
-CUST000913,Idris Ivanov,idris.ivanov@outlook.com,+1-295-619-9722,9253 Willow Way,Atlanta,GA,private,medium,2026-12-07,closed
-CUST000914,Aisha Costa,aisha.costa@outlook.com,+1-403-764-1459,549 Poplar Road,Pittsburgh,PA,private,medium,2024-02-14,active
-CUST000915,Marco Moreau,marco.moreau@yahoo.com,+1-752-340-7635,2489 Cypress Path,Orlando,FL,business,medium,2024-09-06,active
-CUST000916,Elena Kimura,elena.kimura@yahoo.com,+1-389-928-1001,4754 Spruce Terrace,Sacramento,CA,private,low,2025-05-20,active
-CUST000917,Liam Kozlov,liam.kozlov@yahoo.com,+1-418-534-8398,7599 Magnolia Street,Minneapolis,MN,retail,low,2024-04-30,active
-CUST000918,Suki Svensson,suki.svensson@icloud.com,+1-969-269-4093,3336 Pine Road,Las Vegas,NV,retail,low,2025-12-20,active
-CUST000919,Mateo Nakamura,mateo.nakamura@gmail.com,+1-670-716-2952,7654 Redwood Place,Pittsburgh,PA,premium,high,2026-08-23,active
-CUST000920,Omar Fernandez,omar.fernandez@icloud.com,+1-755-188-7289,2111 Hickory Drive,Minneapolis,MN,retail,low,2024-01-24,active
-CUST000921,Nadia Al-Rashid,nadia.al-rashid@gmail.com,+1-518-969-9841,5030 Poplar Road,Minneapolis,MN,retail,high,2026-04-13,active
-CUST000922,Priya Yamamoto,priya.yamamoto@gmail.com,+1-692-395-6062,7357 Maple Drive,Salt Lake City,UT,premium,medium,2026-10-08,active
-CUST000923,Amara Fujimoto,amara.fujimoto@yahoo.com,+1-229-573-5671,8383 Pine Road,Baltimore,MD,private,low,2025-03-22,inactive
-CUST000924,Kofi Mendoza,kofi.mendoza@protonmail.com,+1-876-649-9317,4737 Willow Way,Nashville,TN,premium,medium,2025-08-15,active
-CUST000925,Yuki Adeyemi,yuki.adeyemi@yahoo.com,+1-240-151-2777,4918 Chestnut Lane,Nashville,TN,retail,low,2024-08-04,active
-CUST000926,Camila Watanabe,camila.watanabe@outlook.com,+1-590-879-2212,775 Hickory Drive,Milwaukee,WI,private,high,2025-10-11,active
-CUST000927,Amira Sharma,amira.sharma@gmail.com,+1-525-248-6848,9521 Oak Avenue,Cleveland,OH,business,low,2025-09-01,active
-CUST000928,Kenji Johansson,kenji.johansson@yahoo.com,+1-756-114-1058,890 Spruce Terrace,Minneapolis,MN,business,high,2025-09-06,active
-CUST000929,Hassan Osei,hassan.osei@protonmail.com,+1-859-750-4586,9006 Poplar Road,Orlando,FL,business,high,2025-07-13,active
-CUST000930,Elena Sorokin,elena.sorokin@protonmail.com,+1-672-341-2296,3777 Aspen Circle,Memphis,TN,private,medium,2024-01-18,active
-CUST000931,Kenji Antonov,kenji.antonov@gmail.com,+1-737-762-4104,4199 Cypress Path,Tucson,AZ,private,medium,2026-12-06,inactive
-CUST000932,Leo Takahashi,leo.takahashi@yahoo.com,+1-538-676-8197,6705 Maple Drive,Richmond,VA,premium,low,2026-04-14,active
-CUST000933,Suki Nakamura,suki.nakamura@icloud.com,+1-416-506-6705,530 Aspen Circle,Milwaukee,WI,private,high,2024-02-16,active
-CUST000934,Hassan Fujimoto,hassan.fujimoto@outlook.com,+1-831-100-3579,9617 Aspen Circle,Miami,FL,premium,medium,2026-05-05,active
-CUST000935,Anya Osei,anya.osei@icloud.com,+1-345-935-6670,4507 Elm Boulevard,Louisville,KY,retail,medium,2024-06-09,active
-CUST000936,Andre Kozlov,andre.kozlov@icloud.com,+1-625-167-7306,5233 Willow Way,Miami,FL,business,high,2025-10-20,active
-CUST000937,Suki Diallo,suki.diallo@yahoo.com,+1-612-749-7690,2225 Magnolia Street,Baltimore,MD,business,medium,2024-05-05,active
-CUST000938,Amara Svensson,amara.svensson@gmail.com,+1-727-722-7093,6621 Cypress Path,Raleigh,NC,retail,medium,2025-04-13,active
-CUST000939,Idris Diallo,idris.diallo@yahoo.com,+1-666-659-4646,6252 Cypress Path,Atlanta,GA,business,medium,2024-06-09,inactive
-CUST000940,Henrik Okonkwo,henrik.okonkwo@protonmail.com,+1-666-723-4091,3538 Spruce Terrace,Louisville,KY,premium,low,2025-10-18,active
-CUST000941,Dmitri Gupta,dmitri.gupta@icloud.com,+1-563-721-1618,3755 Redwood Place,Salt Lake City,UT,premium,high,2025-08-08,closed
-CUST000942,Hassan Kowalski,hassan.kowalski@yahoo.com,+1-241-247-5675,2083 Birch Court,Memphis,TN,premium,low,2025-05-13,active
-CUST000943,Zara Okafor,zara.okafor@gmail.com,+1-941-331-7851,2467 Poplar Road,Cleveland,OH,retail,high,2025-08-19,active
-CUST000944,Dmitri Ivanov,dmitri.ivanov@icloud.com,+1-201-138-8320,1738 Pine Road,Sacramento,CA,business,medium,2026-08-31,closed
-CUST000945,Amira Lindqvist,amira.lindqvist@icloud.com,+1-331-476-4333,6514 Willow Way,Milwaukee,WI,private,low,2024-08-27,inactive
-CUST000946,Hassan Volkov,hassan.volkov@protonmail.com,+1-387-787-9427,3001 Cedar Lane,Pittsburgh,PA,premium,medium,2026-09-22,active
-CUST000947,Felix Ivanov,felix.ivanov@gmail.com,+1-499-932-9763,3410 Maple Drive,Raleigh,NC,retail,medium,2025-10-12,inactive
-CUST000948,Aisha Ericsson,aisha.ericsson@icloud.com,+1-730-219-5800,2687 Maple Drive,Atlanta,GA,retail,high,2026-12-02,active
-CUST000949,Mateo Mensah,mateo.mensah@outlook.com,+1-739-988-6329,1863 Elm Boulevard,Orlando,FL,business,low,2026-04-18,active
-CUST000950,Camila Nakamura,camila.nakamura@icloud.com,+1-341-227-7025,8552 Maple Drive,Orlando,FL,retail,low,2025-11-23,active
-CUST000951,Dmitri Nilsson,dmitri.nilsson@yahoo.com,+1-731-719-8222,8865 Chestnut Lane,Memphis,TN,retail,high,2025-12-10,active
-CUST000952,Luna Tanaka,luna.tanaka@yahoo.com,+1-308-957-5687,9703 Elm Boulevard,Milwaukee,WI,premium,medium,2026-01-16,active
-CUST000953,Santiago Johansson,santiago.johansson@protonmail.com,+1-277-754-2718,6033 Poplar Road,Richmond,VA,business,high,2025-05-10,closed
-CUST000954,Axel Dubois,axel.dubois@outlook.com,+1-447-834-2740,6479 Pine Road,Cleveland,OH,private,high,2024-12-28,active
-CUST000955,Fatima Mendoza,fatima.mendoza@yahoo.com,+1-974-265-2386,3458 Hickory Drive,Tampa,FL,business,high,2026-09-29,closed
-CUST000956,Mateo Santos,mateo.santos@protonmail.com,+1-929-204-3895,5015 Oak Avenue,Memphis,TN,private,high,2026-06-14,inactive
-CUST000957,Kofi Osei,kofi.osei@yahoo.com,+1-454-810-2636,7609 Willow Way,Salt Lake City,UT,business,low,2024-10-12,active
-CUST000958,Kofi Petrov,kofi.petrov@protonmail.com,+1-357-731-6347,1826 Hickory Drive,Minneapolis,MN,private,low,2024-06-17,active
-CUST000959,Andre Khatri,andre.khatri@icloud.com,+1-490-490-3441,5327 Redwood Place,Minneapolis,MN,private,medium,2025-03-15,active
-CUST000960,Felix Yamamoto,felix.yamamoto@gmail.com,+1-235-821-5335,7379 Redwood Place,Richmond,VA,retail,high,2024-05-01,active
-CUST000961,Idris Gupta,idris.gupta@yahoo.com,+1-412-429-3658,1677 Oak Avenue,Nashville,TN,retail,high,2025-03-16,active
-CUST000962,Luna Tanaka,luna.tanaka@gmail.com,+1-747-958-5479,7732 Poplar Road,Orlando,FL,premium,high,2025-08-26,closed
-CUST000963,Aisha Kowalski,aisha.kowalski@yahoo.com,+1-798-194-3734,4353 Chestnut Lane,Sacramento,CA,business,low,2024-08-20,inactive
-CUST000964,Rosa Al-Rashid,rosa.al-rashid@protonmail.com,+1-667-687-1793,4397 Poplar Road,Cleveland,OH,private,low,2024-08-26,inactive
-CUST000965,Nora Moreau,nora.moreau@icloud.com,+1-216-216-3497,6521 Spruce Terrace,Minneapolis,MN,premium,medium,2025-11-27,active
-CUST000966,Mei Takahashi,mei.takahashi@protonmail.com,+1-478-747-6628,2438 Spruce Terrace,Cleveland,OH,retail,high,2026-10-04,active
-CUST000967,Fatima Lindqvist,fatima.lindqvist@yahoo.com,+1-619-420-2277,3684 Chestnut Lane,Memphis,TN,business,medium,2024-11-29,active
-CUST000968,Andre Larsson,andre.larsson@protonmail.com,+1-370-914-8308,2252 Aspen Circle,Orlando,FL,retail,medium,2024-03-14,active
-CUST000969,Luna Khatri,luna.khatri@outlook.com,+1-857-510-1986,5820 Pine Road,Milwaukee,WI,business,medium,2024-06-17,active
-CUST000970,Omar Watanabe,omar.watanabe@protonmail.com,+1-461-455-5982,4045 Birch Court,Miami,FL,private,high,2025-06-10,active
-CUST000971,Yara Adeyemi,yara.adeyemi@yahoo.com,+1-501-937-2446,5089 Cypress Path,Salt Lake City,UT,private,high,2024-07-13,active
-CUST000972,Dmitri Watanabe,dmitri.watanabe@protonmail.com,+1-573-258-2668,2857 Birch Court,Orlando,FL,retail,medium,2026-08-26,active
-CUST000973,Anya Dubois,anya.dubois@protonmail.com,+1-360-236-5837,6109 Maple Drive,Minneapolis,MN,retail,low,2024-12-12,active
-CUST000974,Rafael Larsson,rafael.larsson@gmail.com,+1-515-880-7201,4391 Birch Court,Baltimore,MD,business,medium,2024-12-24,active
-CUST000975,Fatima Ibrahim,fatima.ibrahim@yahoo.com,+1-386-556-2417,5750 Pine Road,Las Vegas,NV,retail,medium,2024-11-22,active
-CUST000976,Elena Lindqvist,elena.lindqvist@outlook.com,+1-230-420-4118,7568 Magnolia Street,Minneapolis,MN,business,high,2025-06-16,active
-CUST000977,Carlos Volkov,carlos.volkov@outlook.com,+1-312-705-9129,6487 Redwood Place,Baltimore,MD,private,high,2024-09-02,active
-CUST000978,Axel Watanabe,axel.watanabe@icloud.com,+1-312-605-3803,8236 Hickory Drive,Tucson,AZ,retail,low,2025-11-20,active
-CUST000979,Kenji Nakamura,kenji.nakamura@outlook.com,+1-531-788-3553,1771 Pine Road,Richmond,VA,private,medium,2026-09-01,active
-CUST000980,Nadia Almeida,nadia.almeida@protonmail.com,+1-689-906-2465,2351 Elm Boulevard,Atlanta,GA,premium,high,2024-06-13,active
-CUST000981,Andre Yamamoto,andre.yamamoto@gmail.com,+1-580-750-8613,3401 Birch Court,Baltimore,MD,retail,high,2024-02-10,active
-CUST000982,Amara Kowalski,amara.kowalski@protonmail.com,+1-746-693-8848,9613 Elm Boulevard,Miami,FL,private,low,2026-12-08,active
-CUST000983,Nadia Singh,nadia.singh@icloud.com,+1-635-804-7510,1319 Redwood Place,Atlanta,GA,premium,medium,2026-12-07,active
-CUST000984,Lucia Osei,lucia.osei@protonmail.com,+1-872-234-5385,3458 Maple Drive,Salt Lake City,UT,private,high,2026-02-03,active
-CUST000985,Elena Okonkwo,elena.okonkwo@outlook.com,+1-254-998-3814,3700 Oak Avenue,Salt Lake City,UT,retail,medium,2025-01-01,active
-CUST000986,Rosa Mendoza,rosa.mendoza@gmail.com,+1-202-735-1275,5032 Pine Road,Tucson,AZ,premium,low,2024-03-15,active
-CUST000987,Rosa Fernandez,rosa.fernandez@yahoo.com,+1-454-691-6439,2119 Magnolia Street,Raleigh,NC,business,low,2024-11-17,active
-CUST000988,Ayla Antonov,ayla.antonov@protonmail.com,+1-494-709-9413,710 Redwood Place,Nashville,TN,private,low,2026-01-01,closed
-CUST000989,Kira Ibrahim,kira.ibrahim@yahoo.com,+1-353-284-3896,2996 Willow Way,Kansas City,MO,business,medium,2026-08-10,active
-CUST000990,Zara Santos,zara.santos@gmail.com,+1-441-592-4472,9918 Birch Court,Nashville,TN,private,medium,2026-08-01,active
-CUST000991,Leo Antonov,leo.antonov@icloud.com,+1-379-298-8543,1752 Hickory Drive,Kansas City,MO,private,low,2025-01-15,active
-CUST000992,Anya Petrov,anya.petrov@protonmail.com,+1-493-343-6363,5004 Cedar Lane,Memphis,TN,business,medium,2024-08-09,active
-CUST000993,Anya Okonkwo,anya.okonkwo@protonmail.com,+1-670-241-2541,1385 Poplar Road,Raleigh,NC,private,high,2025-06-19,active
-CUST000994,Nadia Khatri,nadia.khatri@outlook.com,+1-710-702-9333,1019 Oak Avenue,Raleigh,NC,retail,medium,2024-07-30,closed
-CUST000995,Zara Kimura,zara.kimura@icloud.com,+1-762-895-5008,2172 Birch Court,Tampa,FL,retail,medium,2025-03-25,active
-CUST000996,Hassan Sorokin,hassan.sorokin@protonmail.com,+1-704-744-6385,8447 Pine Road,Memphis,TN,retail,high,2025-11-23,active
-CUST000997,Omar Fernandez,omar.fernandez@protonmail.com,+1-877-722-6218,2081 Hickory Drive,Tampa,FL,private,medium,2026-07-26,active
-CUST000998,Carlos Okafor,carlos.okafor@icloud.com,+1-552-798-3704,627 Hickory Drive,Tucson,AZ,retail,high,2026-12-22,active
-CUST000999,Marco Larsson,marco.larsson@gmail.com,+1-890-917-3381,122 Magnolia Street,Minneapolis,MN,private,high,2024-03-09,active
-CUST001000,Ines Fernandez,ines.fernandez@outlook.com,+1-560-195-8573,9324 Cypress Path,Orlando,FL,premium,medium,2025-08-27,active
-CUST001001,Axel Sharma,axel.sharma@yahoo.com,+1-592-882-3900,6968 Cedar Lane,Atlanta,GA,private,medium,2025-10-06,active
-CUST001002,Ines Lindqvist,ines.lindqvist@icloud.com,+1-699-129-8462,1922 Elm Boulevard,Las Vegas,NV,premium,medium,2026-10-24,closed
-CUST001003,Kofi Lindqvist,kofi.lindqvist@icloud.com,+1-826-438-9396,1538 Cedar Lane,Milwaukee,WI,premium,medium,2025-10-29,active
-CUST001004,Ines Santos,ines.santos@protonmail.com,+1-844-998-7953,3413 Birch Court,Raleigh,NC,business,high,2025-03-01,active
-CUST001005,Leila Fernandez,leila.fernandez@outlook.com,+1-765-124-7516,2046 Hickory Drive,Kansas City,MO,business,low,2024-04-25,active
-CUST001006,Anya Okafor,anya.okafor@yahoo.com,+1-338-598-3473,7618 Maple Drive,Atlanta,GA,business,high,2025-01-13,active
-CUST001007,Mila Lindqvist,mila.lindqvist@protonmail.com,+1-543-561-1124,6070 Chestnut Lane,Sacramento,CA,business,medium,2026-11-30,active
-CUST001008,Viktor Sharma,viktor.sharma@outlook.com,+1-871-760-2540,9478 Maple Drive,Milwaukee,WI,private,medium,2025-11-12,inactive
-CUST001009,Nadia Tanaka,nadia.tanaka@icloud.com,+1-775-567-6301,6644 Spruce Terrace,Sacramento,CA,business,medium,2026-08-08,inactive
-CUST001010,Anya Ericsson,anya.ericsson@gmail.com,+1-288-526-3903,4078 Oak Avenue,Orlando,FL,business,medium,2025-10-04,active
-CUST001011,Suki Petrov,suki.petrov@icloud.com,+1-219-891-7615,1671 Birch Court,Pittsburgh,PA,premium,medium,2026-09-26,inactive
-CUST001012,Fatima Kimura,fatima.kimura@protonmail.com,+1-548-762-8065,6320 Pine Road,Raleigh,NC,private,medium,2026-04-16,active
-CUST001013,Santiago Ivanov,santiago.ivanov@gmail.com,+1-619-793-8076,1037 Magnolia Street,Pittsburgh,PA,premium,low,2024-09-08,active
-CUST001014,Nora Petrov,nora.petrov@gmail.com,+1-821-909-3399,675 Maple Drive,Salt Lake City,UT,retail,low,2024-01-01,active
-CUST001015,Chloe Costa,chloe.costa@outlook.com,+1-936-595-2494,8613 Poplar Road,Minneapolis,MN,premium,medium,2026-05-25,active
-CUST001016,Yara Kimura,yara.kimura@protonmail.com,+1-452-599-1194,4890 Poplar Road,Richmond,VA,premium,low,2024-10-31,active
-CUST001017,Tariq Osei,tariq.osei@icloud.com,+1-779-395-2129,4432 Chestnut Lane,Cleveland,OH,business,high,2024-02-16,active
-CUST001018,Dante Costa,dante.costa@gmail.com,+1-305-772-2409,1124 Hickory Drive,Tampa,FL,private,low,2024-07-23,active
-CUST001019,Elias Johansson,elias.johansson@yahoo.com,+1-918-469-8980,4406 Cedar Lane,Cleveland,OH,retail,high,2024-10-01,active
-CUST001020,Ines Al-Rashid,ines.al-rashid@gmail.com,+1-921-713-2985,9683 Spruce Terrace,Salt Lake City,UT,business,medium,2025-07-22,active
-CUST001021,Tariq Almeida,tariq.almeida@gmail.com,+1-475-331-3069,3922 Cypress Path,Sacramento,CA,retail,medium,2026-04-03,active
-CUST001022,Dante Santos,dante.santos@gmail.com,+1-303-970-1960,4338 Cypress Path,Las Vegas,NV,premium,high,2026-02-02,active
-CUST001023,Santiago Osei,santiago.osei@gmail.com,+1-785-915-1192,1020 Pine Road,Las Vegas,NV,retail,high,2025-01-11,active
-CUST001024,Leo Moreau,leo.moreau@icloud.com,+1-766-178-3402,9430 Elm Boulevard,Kansas City,MO,premium,high,2025-09-29,active
-CUST001025,Viktor Tanaka,viktor.tanaka@yahoo.com,+1-661-628-2652,3100 Willow Way,Cleveland,OH,private,high,2024-07-17,inactive
-CUST001026,Camila Ivanov,camila.ivanov@icloud.com,+1-442-274-9186,3212 Pine Road,Orlando,FL,premium,medium,2026-12-10,active
-CUST001027,Santiago Diallo,santiago.diallo@yahoo.com,+1-269-381-5738,4554 Cedar Lane,Pittsburgh,PA,business,low,2024-06-11,active
-CUST001028,Leila Dubois,leila.dubois@gmail.com,+1-438-648-4719,5123 Oak Avenue,Memphis,TN,retail,medium,2026-05-22,active
-CUST001029,Marco Bergstrom,marco.bergstrom@protonmail.com,+1-367-891-7898,9107 Cedar Lane,Louisville,KY,retail,high,2026-12-31,active
-CUST001030,Lucia Moreau,lucia.moreau@yahoo.com,+1-223-669-5044,4883 Hickory Drive,Raleigh,NC,premium,low,2024-12-19,active
-CUST001031,Henrik Ericsson,henrik.ericsson@yahoo.com,+1-575-969-9938,9487 Redwood Place,Minneapolis,MN,private,high,2026-06-05,active
-CUST001032,Tariq Costa,tariq.costa@yahoo.com,+1-953-952-2239,755 Spruce Terrace,Raleigh,NC,business,high,2025-05-08,active
-CUST001033,Amira Bergstrom,amira.bergstrom@yahoo.com,+1-265-605-2179,7802 Elm Boulevard,Milwaukee,WI,business,medium,2026-11-18,active
-CUST001034,Carlos Sorokin,carlos.sorokin@protonmail.com,+1-273-721-6517,3644 Pine Road,Orlando,FL,business,low,2026-12-15,active
-CUST001035,Henrik Mensah,henrik.mensah@icloud.com,+1-230-927-5965,9282 Poplar Road,Memphis,TN,retail,medium,2024-05-10,active
-CUST001036,Yuki Ibrahim,yuki.ibrahim@protonmail.com,+1-556-856-2785,4012 Redwood Place,Nashville,TN,premium,low,2026-04-20,active
-CUST001037,Yuki Khatri,yuki.khatri@outlook.com,+1-507-396-5160,6986 Cypress Path,Atlanta,GA,premium,high,2026-02-12,active
-CUST001038,Anya Okonkwo,anya.okonkwo@outlook.com,+1-696-332-9838,7099 Pine Road,Miami,FL,private,high,2024-04-12,active
-CUST001039,Nikolai Khatri,nikolai.khatri@protonmail.com,+1-948-902-8348,8514 Maple Drive,Salt Lake City,UT,business,medium,2024-09-17,closed
-CUST001040,Tariq Khatri,tariq.khatri@gmail.com,+1-631-711-7177,7407 Poplar Road,Memphis,TN,business,low,2026-02-24,active
-CUST001041,Luna Watanabe,luna.watanabe@icloud.com,+1-850-733-8248,4319 Oak Avenue,Raleigh,NC,business,low,2025-09-19,active
-CUST001042,Anya Johansson,anya.johansson@protonmail.com,+1-791-894-9843,6111 Elm Boulevard,Tampa,FL,business,low,2024-12-04,inactive
-CUST001043,Omar Fernandez,omar.fernandez@protonmail.com,+1-992-213-2386,4121 Hickory Drive,Nashville,TN,premium,low,2024-05-03,active
-CUST001044,Svetlana Nakamura,svetlana.nakamura@outlook.com,+1-262-732-9796,8007 Elm Boulevard,Minneapolis,MN,retail,high,2024-08-28,active
-CUST001045,Kira Johansson,kira.johansson@outlook.com,+1-638-560-7214,8424 Maple Drive,Orlando,FL,business,high,2025-09-19,active
-CUST001046,Suki Kowalski,suki.kowalski@protonmail.com,+1-619-249-1849,7915 Aspen Circle,Baltimore,MD,private,low,2026-01-23,active
-CUST001047,Rafael Castellano,rafael.castellano@gmail.com,+1-246-505-7308,4901 Cedar Lane,Salt Lake City,UT,business,medium,2025-08-02,active
-CUST001048,Dmitri Takahashi,dmitri.takahashi@protonmail.com,+1-731-519-6139,2691 Redwood Place,Miami,FL,business,medium,2025-03-07,active
-CUST001049,Nikolai Kozlov,nikolai.kozlov@outlook.com,+1-960-613-7279,5291 Spruce Terrace,Orlando,FL,business,medium,2026-08-23,inactive
-CUST001050,Dmitri Moreau,dmitri.moreau@outlook.com,+1-336-512-9772,7828 Birch Court,Sacramento,CA,business,medium,2025-11-05,active
-CUST001051,Viktor Al-Rashid,viktor.al-rashid@outlook.com,+1-302-661-1708,4189 Magnolia Street,Richmond,VA,retail,low,2026-07-18,active
-CUST001052,Elias Takahashi,elias.takahashi@gmail.com,+1-541-337-5512,9015 Redwood Place,Minneapolis,MN,private,medium,2026-05-28,active
-CUST001053,Svetlana Bergstrom,svetlana.bergstrom@protonmail.com,+1-849-156-4946,6301 Maple Drive,Miami,FL,retail,medium,2025-12-17,active
-CUST001054,Kenji Yamamoto,kenji.yamamoto@gmail.com,+1-512-461-8319,6519 Cedar Lane,Louisville,KY,private,high,2024-11-19,active
-CUST001055,Elias Petrov,elias.petrov@gmail.com,+1-732-782-3741,9274 Willow Way,Pittsburgh,PA,private,high,2024-03-20,active
-CUST001056,Axel Dubois,axel.dubois@outlook.com,+1-761-311-2561,4839 Elm Boulevard,Sacramento,CA,private,low,2024-08-28,active
-CUST001057,Mila Castellano,mila.castellano@protonmail.com,+1-537-182-9944,8117 Cypress Path,Tucson,AZ,retail,medium,2025-10-10,active
-CUST001058,Liam Gupta,liam.gupta@gmail.com,+1-370-429-1890,7058 Poplar Road,Pittsburgh,PA,private,high,2025-03-20,active
-CUST001059,Jin Moreau,jin.moreau@gmail.com,+1-955-752-7116,2879 Aspen Circle,Pittsburgh,PA,premium,low,2026-12-31,active
-CUST001060,Andre Lindqvist,andre.lindqvist@icloud.com,+1-212-315-9631,3134 Magnolia Street,Kansas City,MO,retail,low,2024-01-02,active
-CUST001061,Anya Takahashi,anya.takahashi@outlook.com,+1-628-208-1226,5969 Willow Way,Raleigh,NC,premium,low,2025-06-29,active
-CUST001062,Rafael Al-Rashid,rafael.al-rashid@protonmail.com,+1-980-932-3279,1692 Elm Boulevard,Tucson,AZ,premium,high,2025-06-12,active
-CUST001063,Camila Kozlov,camila.kozlov@protonmail.com,+1-858-449-3872,1767 Cypress Path,Atlanta,GA,business,low,2026-06-27,active
-CUST001064,Lucia Volkov,lucia.volkov@protonmail.com,+1-792-177-3089,4500 Aspen Circle,Sacramento,CA,premium,high,2025-05-31,inactive
-CUST001065,Aisha Larsson,aisha.larsson@icloud.com,+1-438-122-1584,1407 Spruce Terrace,Cleveland,OH,premium,medium,2026-07-01,inactive
-CUST001066,Elias Ibrahim,elias.ibrahim@protonmail.com,+1-464-349-4370,5162 Poplar Road,Cleveland,OH,business,low,2026-05-27,active
-CUST001067,Svetlana Okonkwo,svetlana.okonkwo@icloud.com,+1-994-670-8880,9682 Elm Boulevard,Milwaukee,WI,private,low,2025-05-02,active
-CUST001068,Leila Costa,leila.costa@protonmail.com,+1-903-683-1294,7963 Poplar Road,Cleveland,OH,business,medium,2024-07-21,active
-CUST001069,Kira Kowalski,kira.kowalski@protonmail.com,+1-548-557-9761,7987 Pine Road,Tampa,FL,private,high,2024-06-18,active
-CUST001070,Leila Antonov,leila.antonov@protonmail.com,+1-822-165-9637,1803 Aspen Circle,Atlanta,GA,premium,high,2025-02-24,closed
-CUST001071,Lucia Mendoza,lucia.mendoza@protonmail.com,+1-423-503-7085,7862 Cedar Lane,Atlanta,GA,premium,high,2024-04-05,active
-CUST001072,Zara Lindqvist,zara.lindqvist@icloud.com,+1-381-415-6095,5886 Magnolia Street,Baltimore,MD,retail,high,2026-04-30,active
-CUST001073,Amira Ivanov,amira.ivanov@outlook.com,+1-271-768-5476,9535 Pine Road,Sacramento,CA,retail,high,2025-07-02,closed
-CUST001074,Mateo Lindqvist,mateo.lindqvist@gmail.com,+1-398-406-9284,6560 Cedar Lane,Raleigh,NC,retail,medium,2025-01-06,active
-CUST001075,Omar Diallo,omar.diallo@outlook.com,+1-990-899-6023,4779 Pine Road,Las Vegas,NV,private,high,2025-05-23,active
-CUST001076,Chloe Fernandez,chloe.fernandez@gmail.com,+1-429-575-4174,8359 Birch Court,Louisville,KY,private,medium,2024-07-30,active
-CUST001077,Elias Castellano,elias.castellano@protonmail.com,+1-893-221-8667,4613 Cypress Path,Tucson,AZ,retail,low,2026-06-02,active
-CUST001078,Mila Takahashi,mila.takahashi@gmail.com,+1-468-736-4115,7021 Poplar Road,Memphis,TN,private,low,2024-10-02,active
-CUST001079,Leila Khatri,leila.khatri@yahoo.com,+1-576-704-4824,4243 Birch Court,Milwaukee,WI,private,medium,2026-04-13,active
-CUST001080,Amara Yamamoto,amara.yamamoto@icloud.com,+1-592-621-7647,6711 Aspen Circle,Memphis,TN,private,low,2026-02-23,active
-CUST001081,Rafael Kowalski,rafael.kowalski@outlook.com,+1-997-402-6890,892 Willow Way,Memphis,TN,premium,low,2026-09-12,active
-CUST001082,Amira Mendoza,amira.mendoza@outlook.com,+1-210-698-8285,4729 Redwood Place,Raleigh,NC,private,high,2025-03-04,active
-CUST001083,Ayla Okonkwo,ayla.okonkwo@protonmail.com,+1-595-614-2244,4897 Redwood Place,Sacramento,CA,private,low,2026-05-07,inactive
-CUST001084,Lucia Nakamura,lucia.nakamura@protonmail.com,+1-210-138-6008,5686 Willow Way,Kansas City,MO,private,medium,2024-03-01,active
-CUST001085,Kofi Bergstrom,kofi.bergstrom@outlook.com,+1-237-117-9601,9402 Aspen Circle,Pittsburgh,PA,premium,medium,2025-10-31,active
-CUST001086,Nora Al-Rashid,nora.al-rashid@protonmail.com,+1-506-612-6886,2022 Spruce Terrace,Raleigh,NC,business,high,2025-01-17,active
-CUST001087,Kira Diallo,kira.diallo@protonmail.com,+1-955-462-6592,2589 Cypress Path,Milwaukee,WI,private,low,2026-05-03,inactive
-CUST001088,Mateo Yamamoto,mateo.yamamoto@outlook.com,+1-731-895-9719,6134 Elm Boulevard,Tucson,AZ,premium,low,2025-06-03,active
-CUST001089,Amira Fujimoto,amira.fujimoto@outlook.com,+1-645-803-9583,1794 Poplar Road,Richmond,VA,premium,low,2026-08-15,inactive
-CUST001090,Leila Ibrahim,leila.ibrahim@gmail.com,+1-314-133-8442,2687 Oak Avenue,Tampa,FL,retail,low,2026-07-07,active
-CUST001091,Leo Kozlov,leo.kozlov@protonmail.com,+1-367-796-6062,8813 Hickory Drive,Louisville,KY,business,medium,2024-05-31,active
-CUST001092,Idris Johansson,idris.johansson@gmail.com,+1-320-644-3752,3363 Poplar Road,Atlanta,GA,business,medium,2026-06-11,active
-CUST001093,Svetlana Larsson,svetlana.larsson@icloud.com,+1-638-891-1598,7282 Willow Way,Baltimore,MD,private,low,2025-07-03,active
-CUST001094,Marco Bergstrom,marco.bergstrom@gmail.com,+1-607-735-8154,6594 Magnolia Street,Tucson,AZ,private,high,2024-06-18,closed
-CUST001095,Fatima Khatri,fatima.khatri@icloud.com,+1-527-388-4704,1561 Poplar Road,Raleigh,NC,premium,low,2025-01-27,inactive
-CUST001096,Priya Svensson,priya.svensson@icloud.com,+1-971-535-8882,7145 Spruce Terrace,Atlanta,GA,retail,medium,2026-09-03,active
-CUST001097,Leila Costa,leila.costa@gmail.com,+1-632-788-6842,7672 Aspen Circle,Richmond,VA,private,medium,2024-01-24,active
-CUST001098,Jin Kozlov,jin.kozlov@icloud.com,+1-268-475-9885,9589 Elm Boulevard,Atlanta,GA,retail,medium,2026-12-08,active
-CUST001099,Hassan Gupta,hassan.gupta@protonmail.com,+1-657-842-9613,7979 Redwood Place,Tucson,AZ,premium,medium,2026-08-27,active
-CUST001100,Aisha Fujimoto,aisha.fujimoto@protonmail.com,+1-598-754-7026,7564 Elm Boulevard,Salt Lake City,UT,business,high,2025-08-18,inactive
+CUST001101,Ines Sharma,ines.sharma@icloud.com,+1-999-398-3213,7062 Redwood Place,Nashville,TN,business,low,2026-11-26,active
+CUST001102,Axel Adeyemi,axel.adeyemi@outlook.com,+1-426-860-6122,183 Cedar Lane,Pittsburgh,PA,premium,medium,2024-02-03,active
+CUST001103,Dante Khatri,dante.khatri@icloud.com,+1-204-465-2043,7379 Chestnut Lane,Milwaukee,WI,business,low,2026-09-19,active
+CUST001104,Ravi Singh,ravi.singh@outlook.com,+1-526-523-9356,5316 Cypress Path,Kansas City,MO,premium,medium,2026-06-12,inactive
+CUST001105,Chloe Larsson,chloe.larsson@protonmail.com,+1-855-811-4968,4471 Birch Court,Memphis,TN,business,high,2024-04-18,inactive
+CUST001106,Nikolai Dubois,nikolai.dubois@protonmail.com,+1-879-208-8769,8565 Spruce Terrace,Salt Lake City,UT,premium,medium,2024-12-31,active
+CUST001107,Dmitri Petrov,dmitri.petrov@outlook.com,+1-490-979-4501,950 Chestnut Lane,Orlando,FL,private,high,2025-10-02,active
+CUST001108,Andre Lindqvist,andre.lindqvist@yahoo.com,+1-792-229-8599,1436 Spruce Terrace,Sacramento,CA,business,medium,2026-11-20,active
+CUST001109,Camila Petrov,camila.petrov@protonmail.com,+1-354-390-8703,9718 Maple Drive,Tucson,AZ,premium,medium,2025-10-19,active
+CUST001110,Mateo Adeyemi,mateo.adeyemi@icloud.com,+1-504-311-5413,9772 Spruce Terrace,Baltimore,MD,private,medium,2026-08-18,active
+CUST001111,Rafael Watanabe,rafael.watanabe@outlook.com,+1-334-568-6029,7133 Chestnut Lane,Cincinnati,OH,premium,high,2026-04-07,active
+CUST001112,Fatima Sharma,fatima.sharma@gmail.com,+1-494-161-8614,6096 Chestnut Lane,Orlando,FL,retail,high,2026-01-27,active
+CUST001113,Rosa Dubois,rosa.dubois@outlook.com,+1-584-547-7721,9289 Chestnut Lane,Nashville,TN,premium,high,2025-08-09,inactive
+CUST001114,Elias Al-Rashid,elias.al-rashid@protonmail.com,+1-236-448-4194,2198 Elm Boulevard,Nashville,TN,retail,high,2025-09-27,active
+CUST001115,Rafael Ivanov,rafael.ivanov@icloud.com,+1-453-625-2393,5491 Willow Way,Atlanta,GA,retail,low,2024-06-22,active
+CUST001116,Dmitri Mensah,dmitri.mensah@icloud.com,+1-229-234-1589,5462 Aspen Circle,Minneapolis,MN,business,low,2024-04-28,active
+CUST001117,Aisha Gupta,aisha.gupta@protonmail.com,+1-507-852-1030,7274 Aspen Circle,Minneapolis,MN,premium,low,2025-07-13,active
+CUST001118,Leo Lindqvist,leo.lindqvist@outlook.com,+1-979-424-2215,9603 Redwood Place,Sacramento,CA,premium,high,2026-06-05,active
+CUST001119,Svetlana Mensah,svetlana.mensah@gmail.com,+1-579-590-1866,936 Aspen Circle,Cincinnati,OH,premium,medium,2025-08-10,active
+CUST001120,Andre Fernandez,andre.fernandez@yahoo.com,+1-633-366-5644,8295 Cedar Lane,Atlanta,GA,premium,medium,2026-12-17,active
+CUST001121,Dmitri Mensah,dmitri.mensah@icloud.com,+1-937-468-2081,5919 Birch Court,Louisville,KY,premium,high,2024-06-28,inactive
+CUST001122,Dina Khatri,dina.khatri@outlook.com,+1-284-726-5595,5065 Hickory Drive,Memphis,TN,private,high,2024-08-06,active
+CUST001123,Amira Sorokin,amira.sorokin@icloud.com,+1-560-352-5019,6480 Redwood Place,Kansas City,MO,private,low,2024-10-04,active
+CUST001124,Carlos Volkov,carlos.volkov@gmail.com,+1-602-851-1025,7173 Maple Drive,Las Vegas,NV,premium,high,2025-03-01,active
+CUST001125,Elias Petrov,elias.petrov@icloud.com,+1-519-114-6049,1073 Oak Avenue,Orlando,FL,business,low,2025-01-08,active
+CUST001126,Mila Johansson,mila.johansson@icloud.com,+1-803-481-8200,2732 Redwood Place,Tampa,FL,premium,medium,2025-01-18,active
+CUST001127,Omar Watanabe,omar.watanabe@protonmail.com,+1-655-431-7145,422 Redwood Place,Tampa,FL,business,medium,2024-08-18,closed
+CUST001128,Zara Nilsson,zara.nilsson@yahoo.com,+1-976-650-6219,758 Poplar Road,Raleigh,NC,premium,low,2024-09-05,active
+CUST001129,Felix Petrov,felix.petrov@outlook.com,+1-445-820-7770,5942 Oak Avenue,Miami,FL,retail,medium,2025-12-02,inactive
+CUST001130,Ravi Costa,ravi.costa@gmail.com,+1-718-604-6029,6378 Redwood Place,Atlanta,GA,retail,low,2024-06-09,inactive
+CUST001131,Anya Castellano,anya.castellano@outlook.com,+1-241-162-7620,9990 Magnolia Street,Tucson,AZ,private,low,2024-08-15,active
+CUST001132,Santiago Okafor,santiago.okafor@gmail.com,+1-543-694-1750,6652 Redwood Place,Cincinnati,OH,retail,low,2025-04-25,active
+CUST001133,Chloe Kimura,chloe.kimura@outlook.com,+1-215-435-9369,1407 Magnolia Street,Orlando,FL,business,high,2025-10-06,active
+CUST001134,Amara Adeyemi,amara.adeyemi@icloud.com,+1-396-553-8853,3804 Willow Way,Louisville,KY,premium,high,2026-01-10,active
+CUST001135,Ravi Moreau,ravi.moreau@yahoo.com,+1-408-392-2252,2783 Cedar Lane,Memphis,TN,retail,medium,2025-02-10,active
+CUST001136,Ravi Osei,ravi.osei@icloud.com,+1-319-555-9706,3138 Oak Avenue,Louisville,KY,retail,high,2025-04-02,active
+CUST001137,Camila Khatri,camila.khatri@yahoo.com,+1-659-570-1675,3464 Redwood Place,Nashville,TN,retail,high,2026-07-01,active
+CUST001138,Rafael Sharma,rafael.sharma@gmail.com,+1-816-336-2757,3772 Willow Way,Orlando,FL,business,high,2024-05-16,closed
+CUST001139,Kenji Tanaka,kenji.tanaka@gmail.com,+1-537-619-8800,5559 Willow Way,Sacramento,CA,private,high,2026-05-07,active
+CUST001140,Ayla Osei,ayla.osei@icloud.com,+1-223-707-2147,6764 Spruce Terrace,Memphis,TN,retail,high,2024-04-17,inactive
+CUST001141,Svetlana Ivanov,svetlana.ivanov@outlook.com,+1-785-427-3087,5796 Maple Drive,Raleigh,NC,business,low,2025-01-07,active
+CUST001142,Henrik Sorokin,henrik.sorokin@yahoo.com,+1-642-875-8317,6554 Oak Avenue,Tucson,AZ,premium,medium,2025-05-31,active
+CUST001143,Santiago Mendoza,santiago.mendoza@protonmail.com,+1-476-493-2206,2780 Cedar Lane,Salt Lake City,UT,business,medium,2024-01-02,active
+CUST001144,Svetlana Ivanov,svetlana.ivanov@yahoo.com,+1-876-593-1831,5378 Spruce Terrace,Sacramento,CA,premium,high,2024-12-11,active
+CUST001145,Felix Diallo,felix.diallo@yahoo.com,+1-704-580-4464,2542 Aspen Circle,Cleveland,OH,private,low,2026-04-17,active
+CUST001146,Yara Fujimoto,yara.fujimoto@outlook.com,+1-257-489-2959,1832 Redwood Place,Minneapolis,MN,premium,high,2024-10-07,inactive
+CUST001147,Nadia Svensson,nadia.svensson@icloud.com,+1-584-705-9319,8052 Redwood Place,Kansas City,MO,business,high,2025-06-10,active
+CUST001148,Yuki Fernandez,yuki.fernandez@outlook.com,+1-917-136-8087,2131 Poplar Road,Kansas City,MO,business,low,2025-09-02,active
+CUST001149,Camila Osei,camila.osei@icloud.com,+1-913-689-6596,6697 Willow Way,Baltimore,MD,premium,high,2026-01-16,active
+CUST001150,Tariq Kowalski,tariq.kowalski@icloud.com,+1-661-219-1536,1150 Pine Road,Louisville,KY,retail,low,2025-05-29,active
+CUST001151,Zara Takahashi,zara.takahashi@gmail.com,+1-581-222-8899,3729 Redwood Place,Miami,FL,business,low,2024-10-20,active
+CUST001152,Elena Larsson,elena.larsson@icloud.com,+1-759-293-8067,8584 Spruce Terrace,Orlando,FL,business,medium,2026-12-22,inactive
+CUST001153,Nadia Kimura,nadia.kimura@protonmail.com,+1-946-623-7371,4563 Redwood Place,Louisville,KY,retail,medium,2026-05-30,active
+CUST001154,Yara Costa,yara.costa@yahoo.com,+1-909-989-1570,2363 Pine Road,Cleveland,OH,retail,medium,2026-01-19,active
+CUST001155,Andre Diallo,andre.diallo@gmail.com,+1-420-909-2628,8005 Cedar Lane,Baltimore,MD,retail,low,2024-04-23,active
+CUST001156,Tariq Lindqvist,tariq.lindqvist@gmail.com,+1-777-935-8598,7894 Elm Boulevard,Nashville,TN,private,medium,2024-02-06,active
+CUST001157,Felix Johansson,felix.johansson@yahoo.com,+1-746-688-6277,9058 Cypress Path,Richmond,VA,premium,low,2025-09-28,active
+CUST001158,Ines Nilsson,ines.nilsson@protonmail.com,+1-434-921-9332,415 Birch Court,Cincinnati,OH,business,medium,2026-05-14,active
+CUST001159,Svetlana Diallo,svetlana.diallo@protonmail.com,+1-927-960-6001,3619 Maple Drive,Salt Lake City,UT,retail,low,2024-01-15,active
+CUST001160,Amara Singh,amara.singh@gmail.com,+1-900-839-1388,4347 Aspen Circle,Nashville,TN,business,high,2026-07-16,active
+CUST001161,Ayla Mendoza,ayla.mendoza@gmail.com,+1-368-976-3927,2481 Maple Drive,Salt Lake City,UT,premium,medium,2026-08-05,active
+CUST001162,Priya Adeyemi,priya.adeyemi@gmail.com,+1-616-316-6630,449 Cedar Lane,Richmond,VA,retail,low,2024-03-26,active
+CUST001163,Henrik Osei,henrik.osei@outlook.com,+1-758-637-8028,4161 Birch Court,Memphis,TN,premium,low,2024-01-29,active
+CUST001164,Elias Mendoza,elias.mendoza@yahoo.com,+1-221-587-5186,1810 Magnolia Street,Nashville,TN,premium,medium,2026-09-08,active
+CUST001165,Kenji Ibrahim,kenji.ibrahim@icloud.com,+1-965-729-1198,1935 Chestnut Lane,Tampa,FL,business,medium,2024-11-11,active
+CUST001166,Dante Diallo,dante.diallo@icloud.com,+1-863-732-2448,3387 Chestnut Lane,Memphis,TN,premium,high,2026-03-02,closed
+CUST001167,Nikolai Gupta,nikolai.gupta@icloud.com,+1-562-618-7153,6470 Aspen Circle,Richmond,VA,private,medium,2025-06-22,active
+CUST001168,Fatima Petrov,fatima.petrov@protonmail.com,+1-689-599-6151,3629 Cypress Path,Cleveland,OH,premium,medium,2024-04-29,active
+CUST001169,Kenji Fernandez,kenji.fernandez@gmail.com,+1-335-898-6728,3091 Redwood Place,Orlando,FL,private,high,2026-08-23,active
+CUST001170,Ines Mensah,ines.mensah@icloud.com,+1-619-362-6048,9810 Cedar Lane,Milwaukee,WI,business,high,2026-10-04,active
+CUST001171,Suki Petrov,suki.petrov@icloud.com,+1-256-543-5799,9674 Chestnut Lane,Tucson,AZ,business,low,2026-04-03,active
+CUST001172,Jin Mendoza,jin.mendoza@yahoo.com,+1-669-638-3118,182 Elm Boulevard,Baltimore,MD,private,medium,2026-09-23,active
+CUST001173,Rafael Kowalski,rafael.kowalski@yahoo.com,+1-416-597-4759,4446 Pine Road,Cincinnati,OH,premium,medium,2026-02-18,active
+CUST001174,Luna Petrov,luna.petrov@outlook.com,+1-919-905-5966,9675 Elm Boulevard,Orlando,FL,private,medium,2025-06-01,closed
+CUST001175,Fatima Osei,fatima.osei@protonmail.com,+1-306-317-3702,3772 Cypress Path,Cincinnati,OH,premium,low,2025-06-15,active
+CUST001176,Mei Gupta,mei.gupta@icloud.com,+1-412-701-7899,9842 Poplar Road,Memphis,TN,business,high,2026-09-19,active
+CUST001177,Fatima Diallo,fatima.diallo@protonmail.com,+1-957-405-9589,8823 Poplar Road,Milwaukee,WI,business,medium,2024-03-28,active
+CUST001178,Yuki Larsson,yuki.larsson@outlook.com,+1-473-220-2434,267 Pine Road,Salt Lake City,UT,private,high,2026-03-04,active
+CUST001179,Mila Mendoza,mila.mendoza@icloud.com,+1-965-606-2698,1910 Elm Boulevard,Baltimore,MD,private,high,2024-12-21,active
+CUST001180,Amara Kimura,amara.kimura@protonmail.com,+1-265-297-3733,1255 Poplar Road,Nashville,TN,business,high,2026-12-20,active
+CUST001181,Idris Kimura,idris.kimura@outlook.com,+1-567-660-8643,5968 Willow Way,Tucson,AZ,business,medium,2026-05-06,active
+CUST001182,Marco Nilsson,marco.nilsson@icloud.com,+1-301-899-2992,5836 Spruce Terrace,Tucson,AZ,premium,high,2026-07-12,active
+CUST001183,Elias Johansson,elias.johansson@yahoo.com,+1-788-860-6252,8977 Cedar Lane,Baltimore,MD,retail,low,2024-01-11,active
+CUST001184,Viktor Fernandez,viktor.fernandez@gmail.com,+1-906-809-3636,6029 Birch Court,Cleveland,OH,premium,low,2024-01-19,inactive
+CUST001185,Carlos Volkov,carlos.volkov@yahoo.com,+1-565-756-5399,4902 Aspen Circle,Salt Lake City,UT,private,medium,2026-01-15,inactive
+CUST001186,Zara Osei,zara.osei@icloud.com,+1-407-109-2441,430 Redwood Place,Raleigh,NC,private,medium,2025-07-19,active
+CUST001187,Leo Lindqvist,leo.lindqvist@outlook.com,+1-940-558-5918,7291 Willow Way,Salt Lake City,UT,premium,medium,2024-10-23,active
+CUST001188,Hassan Watanabe,hassan.watanabe@yahoo.com,+1-226-495-7025,5215 Hickory Drive,Richmond,VA,private,low,2026-01-27,active
+CUST001189,Dmitri Costa,dmitri.costa@yahoo.com,+1-537-235-9414,2628 Redwood Place,Louisville,KY,retail,low,2026-07-25,active
+CUST001190,Yuki Gupta,yuki.gupta@protonmail.com,+1-583-432-6610,9149 Poplar Road,Raleigh,NC,private,low,2024-06-05,inactive
+CUST001191,Andre Khatri,andre.khatri@protonmail.com,+1-253-183-7073,9327 Spruce Terrace,Baltimore,MD,retail,medium,2025-08-26,active
+CUST001192,Aisha Castellano,aisha.castellano@protonmail.com,+1-576-918-9998,1877 Birch Court,Atlanta,GA,retail,high,2025-01-11,active
+CUST001193,Suki Larsson,suki.larsson@protonmail.com,+1-882-769-4827,2796 Pine Road,Kansas City,MO,premium,low,2024-07-30,active
+CUST001194,Mateo Singh,mateo.singh@icloud.com,+1-985-884-7783,121 Elm Boulevard,Milwaukee,WI,premium,low,2025-09-13,active
+CUST001195,Zara Almeida,zara.almeida@yahoo.com,+1-635-144-6303,6798 Magnolia Street,Salt Lake City,UT,premium,medium,2026-07-28,active
+CUST001196,Elias Yamamoto,elias.yamamoto@protonmail.com,+1-826-328-1605,7582 Chestnut Lane,Orlando,FL,private,low,2024-05-16,active
+CUST001197,Aisha Lindqvist,aisha.lindqvist@protonmail.com,+1-938-969-4280,3722 Poplar Road,Tampa,FL,premium,medium,2026-06-02,active
+CUST001198,Nora Mendoza,nora.mendoza@gmail.com,+1-363-381-8375,4843 Magnolia Street,Memphis,TN,business,medium,2026-07-07,active
+CUST001199,Marco Antonov,marco.antonov@yahoo.com,+1-865-546-3580,9879 Chestnut Lane,Orlando,FL,private,medium,2026-02-22,active
+CUST001200,Marco Bergstrom,marco.bergstrom@outlook.com,+1-435-980-8980,712 Poplar Road,Milwaukee,WI,business,high,2025-11-30,active
+CUST001201,Hassan Kozlov,hassan.kozlov@outlook.com,+1-922-228-7695,6263 Oak Avenue,Orlando,FL,premium,low,2026-11-22,active
+CUST001202,Liam Moreau,liam.moreau@yahoo.com,+1-795-463-6166,6379 Cedar Lane,Raleigh,NC,private,medium,2025-08-11,active
+CUST001203,Rafael Ibrahim,rafael.ibrahim@yahoo.com,+1-878-852-3802,8995 Elm Boulevard,Minneapolis,MN,business,low,2025-08-11,active
+CUST001204,Ayla Mensah,ayla.mensah@yahoo.com,+1-236-400-6912,8286 Aspen Circle,Cincinnati,OH,premium,low,2026-01-31,active
+CUST001205,Fatima Watanabe,fatima.watanabe@yahoo.com,+1-870-552-5998,1313 Redwood Place,Salt Lake City,UT,private,medium,2024-04-02,active
+CUST001206,Leila Ivanov,leila.ivanov@outlook.com,+1-705-665-4763,6109 Elm Boulevard,Baltimore,MD,private,medium,2024-07-26,active
+CUST001207,Luna Costa,luna.costa@icloud.com,+1-992-200-9376,4046 Willow Way,Salt Lake City,UT,retail,medium,2026-01-20,active
+CUST001208,Viktor Sorokin,viktor.sorokin@yahoo.com,+1-645-582-5733,5446 Aspen Circle,Atlanta,GA,private,low,2024-02-16,active
+CUST001209,Elias Ericsson,elias.ericsson@yahoo.com,+1-520-760-4999,3299 Cypress Path,Miami,FL,business,low,2024-01-03,active
+CUST001210,Hassan Bergstrom,hassan.bergstrom@protonmail.com,+1-966-679-4254,5475 Hickory Drive,Cincinnati,OH,retail,low,2026-10-13,active
+CUST001211,Mei Adeyemi,mei.adeyemi@yahoo.com,+1-932-263-8492,276 Magnolia Street,Salt Lake City,UT,premium,low,2024-04-16,active
+CUST001212,Henrik Diallo,henrik.diallo@yahoo.com,+1-874-915-1011,7845 Magnolia Street,Memphis,TN,private,medium,2026-03-11,active
+CUST001213,Chloe Kimura,chloe.kimura@gmail.com,+1-720-347-3097,6168 Willow Way,Tucson,AZ,premium,low,2026-06-01,active
+CUST001214,Yuki Mendoza,yuki.mendoza@yahoo.com,+1-632-724-6706,3429 Cedar Lane,Richmond,VA,private,high,2024-09-28,active
+CUST001215,Axel Kimura,axel.kimura@gmail.com,+1-618-605-9674,6227 Aspen Circle,Tucson,AZ,business,high,2024-08-13,active
+CUST001216,Hassan Osei,hassan.osei@gmail.com,+1-408-186-8324,278 Magnolia Street,Nashville,TN,retail,high,2025-11-25,active
+CUST001217,Tariq Dubois,tariq.dubois@gmail.com,+1-796-749-9610,4310 Cypress Path,Orlando,FL,retail,high,2026-11-04,active
+CUST001218,Amara Rivera,amara.rivera@protonmail.com,+1-318-732-6470,3940 Spruce Terrace,Tucson,AZ,premium,medium,2025-10-26,active
+CUST001219,Chloe Antonov,chloe.antonov@icloud.com,+1-958-251-8342,2333 Cedar Lane,Kansas City,MO,retail,low,2025-06-28,active
+CUST001220,Dante Santos,dante.santos@gmail.com,+1-685-411-1039,8366 Spruce Terrace,Cincinnati,OH,private,low,2025-09-05,active
+CUST001221,Jin Larsson,jin.larsson@icloud.com,+1-215-130-8305,6289 Chestnut Lane,Las Vegas,NV,retail,medium,2025-04-18,active
+CUST001222,Fatima Adeyemi,fatima.adeyemi@outlook.com,+1-383-804-8667,8956 Magnolia Street,Cincinnati,OH,private,low,2025-01-20,active
+CUST001223,Ayla Dubois,ayla.dubois@gmail.com,+1-407-250-5237,5397 Chestnut Lane,Atlanta,GA,retail,medium,2026-09-20,inactive
+CUST001224,Rafael Adeyemi,rafael.adeyemi@yahoo.com,+1-992-943-1691,5271 Cedar Lane,Pittsburgh,PA,private,high,2026-04-02,active
+CUST001225,Nora Nilsson,nora.nilsson@gmail.com,+1-881-631-3490,1985 Aspen Circle,Memphis,TN,retail,low,2024-09-14,active
+CUST001226,Kira Costa,kira.costa@protonmail.com,+1-689-579-8459,4025 Willow Way,Raleigh,NC,business,low,2026-11-17,closed
+CUST001227,Aisha Sharma,aisha.sharma@gmail.com,+1-720-766-3247,2241 Cypress Path,Nashville,TN,business,low,2026-10-09,active
+CUST001228,Elena Castellano,elena.castellano@gmail.com,+1-732-505-1247,3761 Aspen Circle,Minneapolis,MN,premium,low,2025-02-27,inactive
+CUST001229,Rosa Watanabe,rosa.watanabe@gmail.com,+1-316-183-2235,2249 Birch Court,Louisville,KY,business,high,2026-03-05,active
+CUST001230,Hassan Kowalski,hassan.kowalski@yahoo.com,+1-932-330-3680,5020 Pine Road,Richmond,VA,retail,high,2024-01-30,active
+CUST001231,Mateo Kowalski,mateo.kowalski@outlook.com,+1-678-319-2458,5809 Magnolia Street,Pittsburgh,PA,premium,low,2025-04-26,active
+CUST001232,Leila Almeida,leila.almeida@gmail.com,+1-529-975-8048,6566 Chestnut Lane,Baltimore,MD,retail,medium,2026-01-12,active
+CUST001233,Dina Yamamoto,dina.yamamoto@icloud.com,+1-364-972-8497,3283 Spruce Terrace,Raleigh,NC,business,medium,2026-03-27,active
+CUST001234,Liam Larsson,liam.larsson@outlook.com,+1-989-478-7257,6145 Pine Road,Orlando,FL,private,low,2024-05-07,active
+CUST001235,Elena Osei,elena.osei@gmail.com,+1-290-137-8245,3332 Cypress Path,Baltimore,MD,private,low,2025-11-04,active
+CUST001236,Yuki Tanaka,yuki.tanaka@gmail.com,+1-614-934-7102,913 Cedar Lane,Sacramento,CA,business,medium,2026-12-24,active
+CUST001237,Omar Rivera,omar.rivera@icloud.com,+1-902-885-6019,9229 Birch Court,Milwaukee,WI,premium,medium,2024-11-28,active
+CUST001238,Andre Diallo,andre.diallo@protonmail.com,+1-820-682-1452,2402 Aspen Circle,Raleigh,NC,retail,low,2024-07-06,active
+CUST001239,Suki Svensson,suki.svensson@protonmail.com,+1-986-772-2338,9793 Redwood Place,Miami,FL,private,medium,2025-08-03,active
+CUST001240,Ayla Kowalski,ayla.kowalski@protonmail.com,+1-470-563-6843,9446 Cedar Lane,Atlanta,GA,private,high,2025-05-20,active
+CUST001241,Omar Volkov,omar.volkov@outlook.com,+1-471-552-3440,4220 Chestnut Lane,Miami,FL,private,medium,2025-01-10,inactive
+CUST001242,Tariq Dubois,tariq.dubois@yahoo.com,+1-652-587-2444,7895 Redwood Place,Pittsburgh,PA,private,high,2025-07-01,active
+CUST001243,Andre Okafor,andre.okafor@yahoo.com,+1-241-916-1656,1308 Redwood Place,Tampa,FL,premium,low,2025-04-07,active
+CUST001244,Elias Johansson,elias.johansson@gmail.com,+1-264-507-5119,8627 Hickory Drive,Las Vegas,NV,private,low,2024-11-16,inactive
+CUST001245,Idris Moreau,idris.moreau@outlook.com,+1-608-941-7411,8781 Spruce Terrace,Nashville,TN,business,low,2026-01-11,active
+CUST001246,Yara Antonov,yara.antonov@icloud.com,+1-273-224-2681,9906 Cedar Lane,Miami,FL,private,medium,2024-05-26,active
+CUST001247,Fatima Fujimoto,fatima.fujimoto@gmail.com,+1-666-187-3700,4311 Spruce Terrace,Pittsburgh,PA,private,low,2024-10-12,closed
+CUST001248,Leila Almeida,leila.almeida@gmail.com,+1-216-481-5847,9376 Birch Court,Cleveland,OH,business,high,2025-08-29,active
+CUST001249,Omar Okonkwo,omar.okonkwo@icloud.com,+1-713-850-5767,4997 Willow Way,Richmond,VA,private,low,2025-03-16,active
+CUST001250,Ravi Kozlov,ravi.kozlov@outlook.com,+1-894-534-1486,8435 Maple Drive,Pittsburgh,PA,private,low,2025-11-30,active
+CUST001251,Fatima Castellano,fatima.castellano@yahoo.com,+1-280-918-5735,9071 Maple Drive,Miami,FL,business,low,2024-11-23,active
+CUST001252,Axel Volkov,axel.volkov@protonmail.com,+1-961-749-7860,8069 Maple Drive,Milwaukee,WI,premium,low,2025-12-20,active
+CUST001253,Mateo Sorokin,mateo.sorokin@yahoo.com,+1-263-636-6115,2161 Cypress Path,Kansas City,MO,premium,high,2026-08-05,active
+CUST001254,Chloe Volkov,chloe.volkov@yahoo.com,+1-995-723-4796,278 Maple Drive,Milwaukee,WI,business,medium,2025-08-29,active
+CUST001255,Kira Kowalski,kira.kowalski@gmail.com,+1-548-505-6144,383 Elm Boulevard,Miami,FL,retail,medium,2025-05-10,active
+CUST001256,Mei Adeyemi,mei.adeyemi@yahoo.com,+1-596-546-8489,7328 Maple Drive,Richmond,VA,retail,low,2024-08-06,active
+CUST001257,Kira Diallo,kira.diallo@protonmail.com,+1-343-300-8798,483 Redwood Place,Baltimore,MD,private,medium,2024-05-18,active
+CUST001258,Leo Santos,leo.santos@icloud.com,+1-844-937-9788,9679 Hickory Drive,Raleigh,NC,business,high,2026-05-19,active
+CUST001259,Anya Ivanov,anya.ivanov@icloud.com,+1-505-973-6475,6584 Willow Way,Orlando,FL,private,low,2026-10-12,active
+CUST001260,Omar Osei,omar.osei@yahoo.com,+1-365-978-4867,6269 Elm Boulevard,Miami,FL,private,high,2024-03-22,active
+CUST001261,Lucia Osei,lucia.osei@protonmail.com,+1-534-810-4872,3993 Spruce Terrace,Memphis,TN,private,medium,2026-06-27,active
+CUST001262,Chloe Rivera,chloe.rivera@gmail.com,+1-315-125-3856,6223 Redwood Place,Raleigh,NC,private,medium,2026-01-13,active
+CUST001263,Hassan Sorokin,hassan.sorokin@icloud.com,+1-748-297-2322,963 Magnolia Street,Baltimore,MD,retail,high,2024-07-02,active
+CUST001264,Omar Kozlov,omar.kozlov@protonmail.com,+1-672-251-3896,3422 Poplar Road,Nashville,TN,business,high,2025-05-10,inactive
+CUST001265,Nikolai Tanaka,nikolai.tanaka@yahoo.com,+1-980-851-6449,870 Maple Drive,Orlando,FL,premium,medium,2025-09-26,active
+CUST001266,Kenji Yamamoto,kenji.yamamoto@gmail.com,+1-559-281-2533,2617 Redwood Place,Richmond,VA,private,high,2026-09-11,active
+CUST001267,Viktor Ivanov,viktor.ivanov@outlook.com,+1-276-757-6738,2510 Hickory Drive,Raleigh,NC,business,high,2024-03-18,active
+CUST001268,Felix Rivera,felix.rivera@yahoo.com,+1-251-204-1018,3497 Birch Court,Sacramento,CA,premium,low,2026-04-23,active
+CUST001269,Jin Adeyemi,jin.adeyemi@protonmail.com,+1-482-865-5363,1973 Elm Boulevard,Cincinnati,OH,premium,high,2024-12-15,closed
+CUST001270,Elias Petrov,elias.petrov@yahoo.com,+1-240-740-8032,1067 Redwood Place,Nashville,TN,business,medium,2025-11-10,active
+CUST001271,Mila Mendoza,mila.mendoza@protonmail.com,+1-993-458-8462,1965 Chestnut Lane,Memphis,TN,premium,high,2024-06-28,active
+CUST001272,Jin Santos,jin.santos@outlook.com,+1-654-313-7728,3691 Aspen Circle,Atlanta,GA,business,high,2024-10-02,active
+CUST001273,Tariq Khatri,tariq.khatri@protonmail.com,+1-551-281-6930,6527 Magnolia Street,Salt Lake City,UT,retail,high,2024-06-02,inactive
+CUST001274,Dmitri Yamamoto,dmitri.yamamoto@icloud.com,+1-839-391-2614,8533 Pine Road,Raleigh,NC,premium,low,2026-01-14,inactive
+CUST001275,Luna Johansson,luna.johansson@gmail.com,+1-407-190-8234,5435 Birch Court,Baltimore,MD,retail,high,2025-08-23,active
+CUST001276,Fatima Almeida,fatima.almeida@gmail.com,+1-946-903-8848,5590 Aspen Circle,Atlanta,GA,retail,high,2026-06-07,active
+CUST001277,Aisha Costa,aisha.costa@protonmail.com,+1-948-488-7103,150 Aspen Circle,Pittsburgh,PA,retail,high,2024-09-26,active
+CUST001278,Svetlana Ibrahim,svetlana.ibrahim@outlook.com,+1-482-890-5830,2307 Magnolia Street,Pittsburgh,PA,business,medium,2026-03-14,active
+CUST001279,Yuki Costa,yuki.costa@yahoo.com,+1-838-687-1672,7182 Cedar Lane,Milwaukee,WI,premium,medium,2024-06-05,active
+CUST001280,Camila Kozlov,camila.kozlov@outlook.com,+1-281-982-4322,8394 Redwood Place,Louisville,KY,retail,low,2026-02-09,active
+CUST001281,Andre Johansson,andre.johansson@icloud.com,+1-539-771-8422,7928 Oak Avenue,Sacramento,CA,premium,high,2025-07-09,active
+CUST001282,Amira Nakamura,amira.nakamura@gmail.com,+1-603-665-2248,8426 Cedar Lane,Cincinnati,OH,premium,high,2026-10-04,active
+CUST001283,Dmitri Rivera,dmitri.rivera@icloud.com,+1-246-232-3256,7740 Poplar Road,Tucson,AZ,retail,high,2026-01-23,active
+CUST001284,Elena Tanaka,elena.tanaka@gmail.com,+1-521-874-9003,7270 Aspen Circle,Cleveland,OH,premium,medium,2024-11-05,active
+CUST001285,Henrik Nilsson,henrik.nilsson@icloud.com,+1-591-325-7664,263 Maple Drive,Richmond,VA,business,high,2026-01-28,active
+CUST001286,Leo Al-Rashid,leo.al-rashid@icloud.com,+1-660-891-7945,9673 Poplar Road,Milwaukee,WI,premium,high,2026-02-16,inactive
+CUST001287,Leila Diallo,leila.diallo@icloud.com,+1-713-611-9793,2170 Aspen Circle,Sacramento,CA,private,low,2026-09-20,inactive
+CUST001288,Mei Fernandez,mei.fernandez@icloud.com,+1-691-247-5313,3996 Aspen Circle,Pittsburgh,PA,business,medium,2026-11-23,active
+CUST001289,Carlos Okonkwo,carlos.okonkwo@icloud.com,+1-470-807-5155,334 Cypress Path,Milwaukee,WI,premium,high,2024-11-01,active
+CUST001290,Kira Khatri,kira.khatri@protonmail.com,+1-476-982-1939,8260 Oak Avenue,Tucson,AZ,retail,high,2026-07-22,active
+CUST001291,Leila Tanaka,leila.tanaka@icloud.com,+1-528-377-6675,1731 Poplar Road,Cleveland,OH,business,low,2025-08-09,active
+CUST001292,Elena Kowalski,elena.kowalski@yahoo.com,+1-778-700-9172,7590 Birch Court,Orlando,FL,retail,medium,2024-08-18,active
+CUST001293,Ines Lindqvist,ines.lindqvist@outlook.com,+1-219-775-7418,2629 Pine Road,Tucson,AZ,private,high,2024-07-07,active
+CUST001294,Yara Larsson,yara.larsson@protonmail.com,+1-476-442-3357,6471 Cedar Lane,Cleveland,OH,business,high,2025-06-26,active
+CUST001295,Jin Lindqvist,jin.lindqvist@icloud.com,+1-679-692-5567,6053 Cedar Lane,Miami,FL,business,medium,2024-08-28,active
+CUST001296,Henrik Al-Rashid,henrik.al-rashid@gmail.com,+1-409-806-2286,9042 Oak Avenue,Miami,FL,business,low,2025-07-17,active
+CUST001297,Kenji Kozlov,kenji.kozlov@protonmail.com,+1-841-456-2247,5485 Hickory Drive,Las Vegas,NV,business,low,2026-07-26,active
+CUST001298,Rosa Yamamoto,rosa.yamamoto@yahoo.com,+1-566-962-7411,7581 Cypress Path,Pittsburgh,PA,premium,high,2026-12-29,active
+CUST001299,Aisha Kowalski,aisha.kowalski@gmail.com,+1-888-449-2570,2814 Willow Way,Richmond,VA,premium,low,2024-10-21,active
+CUST001300,Tariq Santos,tariq.santos@outlook.com,+1-801-934-3459,8429 Magnolia Street,Cincinnati,OH,private,medium,2025-05-11,inactive

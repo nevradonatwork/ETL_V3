@@ -1,21 +1,21 @@
 atm_id,branch_id,address,city,latitude,longitude,available_24h,withdrawal_fee,deposit_enabled,status
-ATM0141,BR008,3503 Poplar Road,Cincinnati,30.082058,-111.312886,0,2.5,0,maintenance
-ATM0142,BR061,6754 Poplar Road,Nashville,25.174752,-85.747703,1,0,0,operational
-ATM0143,BR057,5033 Cypress Path,Minneapolis,37.956215,-78.936489,1,3.5,0,operational
-ATM0144,BR018,5048 Maple Drive,Tampa,34.674216,-103.960048,1,0,1,operational
-ATM0145,BR015,977 Oak Avenue,Cincinnati,39.622509,-86.397145,1,3.5,0,offline
-ATM0146,BR029,5338 Aspen Circle,Orlando,35.737922,-87.745033,0,3.0,0,operational
-ATM0147,BR033,5008 Spruce Terrace,Tucson,29.460605,-96.712611,1,3.0,0,maintenance
-ATM0148,BR049,1487 Aspen Circle,Milwaukee,27.638617,-74.414402,1,3.5,0,operational
-ATM0149,BR039,9274 Hickory Drive,Minneapolis,30.730303,-74.220653,1,0,0,offline
-ATM0150,BR010,3865 Birch Court,Pittsburgh,46.017033,-72.06209,0,3.0,1,operational
-ATM0151,BR044,5755 Willow Way,Richmond,39.985396,-107.903508,0,3.0,0,operational
-ATM0152,BR067,6664 Hickory Drive,Milwaukee,32.569753,-110.103788,0,3.0,0,operational
-ATM0153,BR005,3617 Cedar Lane,Orlando,26.264249,-77.279215,0,3.0,1,operational
-ATM0154,BR002,1815 Oak Avenue,Richmond,47.646741,-96.047253,0,3.0,0,operational
-ATM0155,BR009,8586 Spruce Terrace,Sacramento,42.503832,-102.938649,0,3.5,0,operational
-ATM0156,BR080,7740 Poplar Road,Tampa,42.279001,-88.212254,0,3.5,1,operational
-ATM0157,BR026,6665 Poplar Road,Nashville,44.296513,-100.683632,0,2.5,0,maintenance
-ATM0158,BR014,8334 Willow Way,Orlando,28.740085,-76.621207,0,3.5,0,operational
-ATM0159,BR039,5683 Birch Court,Nashville,25.30214,-84.60268,0,3.5,0,operational
-ATM0160,BR016,9727 Spruce Terrace,Tampa,41.862799,-83.682959,1,2.5,1,operational
+ATM0161,BR064,5876 Elm Boulevard,Memphis,38.727652,-75.615261,1,2.5,1,operational
+ATM0162,BR067,9738 Poplar Road,Richmond,36.894103,-92.614154,0,0,0,operational
+ATM0163,BR031,255 Magnolia Street,Baltimore,46.507412,-100.359519,0,3.5,1,offline
+ATM0164,BR047,9874 Maple Drive,Sacramento,36.50362,-92.476909,1,2.5,0,operational
+ATM0165,BR007,7985 Oak Avenue,Orlando,47.509906,-89.654498,0,3.5,0,maintenance
+ATM0166,BR009,1675 Redwood Place,Tampa,40.05857,-77.39291,1,0,0,operational
+ATM0167,BR053,2865 Chestnut Lane,Nashville,37.482461,-110.978548,1,3.0,1,operational
+ATM0168,BR007,2130 Cedar Lane,Milwaukee,42.538512,-112.69347,1,0,0,operational
+ATM0169,BR071,4223 Willow Way,Baltimore,27.187806,-86.13353,1,2.5,0,operational
+ATM0170,BR023,7891 Redwood Place,Cincinnati,33.112611,-80.620175,0,3.5,0,offline
+ATM0171,BR051,3068 Aspen Circle,Richmond,36.998966,-97.292453,1,2.5,0,operational
+ATM0172,BR005,4054 Cypress Path,Memphis,35.926529,-114.235365,0,3.0,1,maintenance
+ATM0173,BR004,6491 Hickory Drive,Louisville,41.362936,-103.083064,0,3.0,0,operational
+ATM0174,BR002,3199 Willow Way,Sacramento,27.225831,-105.539423,1,0,0,operational
+ATM0175,BR036,4307 Magnolia Street,Cincinnati,25.092049,-79.248719,1,3.0,0,operational
+ATM0176,BR037,5864 Pine Road,Milwaukee,34.780375,-98.069409,1,3.5,1,operational
+ATM0177,BR040,1402 Redwood Place,Orlando,46.2461,-104.179239,1,3.0,0,operational
+ATM0178,BR021,8161 Oak Avenue,Miami,39.492785,-114.206191,0,3.5,0,operational
+ATM0179,BR049,5724 Oak Avenue,Kansas City,44.045123,-83.210556,1,3.5,0,operational
+ATM0180,BR060,4489 Magnolia Street,Las Vegas,28.295894,-96.962835,0,3.5,0,operational
