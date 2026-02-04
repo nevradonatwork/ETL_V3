@@ -1,0 +1,11 @@
+branch_id,branch_name,address,city,state,postal_code,phone,hours,services
+BR061,Nashville Branch 61,5267 Chestnut Lane,Nashville,TN,19009,+1-242-956-6687,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR062,Richmond Branch 62,119 Maple Drive,Richmond,VA,10167,+1-446-922-3160,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR063,Atlanta Branch 63,7686 Magnolia Street,Atlanta,GA,37967,+1-440-872-6163,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR064,Kansas City Branch 64,9029 Pine Road,Kansas City,MO,87545,+1-354-347-6847,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR065,Memphis Branch 65,344 Chestnut Lane,Memphis,TN,98762,+1-658-493-8520,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR066,Baltimore Branch 66,3137 Aspen Circle,Baltimore,MD,14342,+1-505-454-3213,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR067,Miami Branch 67,6039 Aspen Circle,Miami,FL,72750,+1-404-837-1932,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR068,Louisville Branch 68,2453 Poplar Road,Louisville,KY,59166,+1-637-134-3212,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR069,Pittsburgh Branch 69,8028 Pine Road,Pittsburgh,PA,47120,+1-805-824-4322,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"
+BR070,Tampa Branch 70,3562 Birch Court,Tampa,FL,40206,+1-887-965-6319,"Mon-Fri 9AM-5PM, Sat 9AM-1PM","deposits,withdrawals,loans,investments"

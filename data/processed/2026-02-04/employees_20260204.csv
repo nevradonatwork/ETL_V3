@@ -1,0 +1,41 @@
+employee_id,branch_id,name,role,email,phone,hire_date,status
+EMP00291,BR057,Dmitri Khatri,Teller,dmitri.khatri@bank.com,+1-366-600-7272,2023-11-16,terminated
+EMP00292,BR062,Leo Antonov,Financial Advisor,leo.antonov@bank.com,+1-552-587-8024,2026-09-10,active
+EMP00293,BR028,Leo Okafor,Customer Service,leo.okafor@bank.com,+1-449-748-4705,2020-06-26,active
+EMP00294,BR045,Zara Watanabe,Loan Officer,zara.watanabe@bank.com,+1-200-505-4449,2021-07-27,active
+EMP00295,BR070,Felix Tanaka,Customer Service,felix.tanaka@bank.com,+1-668-360-7257,2022-04-29,active
+EMP00296,BR063,Elena Rivera,Customer Service,elena.rivera@bank.com,+1-209-953-9355,2022-12-16,active
+EMP00297,BR041,Ravi Watanabe,Teller,ravi.watanabe@bank.com,+1-358-430-3345,2026-11-08,active
+EMP00298,BR050,Andre Kowalski,Customer Service,andre.kowalski@bank.com,+1-899-314-4513,2021-12-24,active
+EMP00299,BR026,Luna Nilsson,Financial Advisor,luna.nilsson@bank.com,+1-368-763-8887,2024-10-18,active
+EMP00300,BR040,Elena Kozlov,Teller,elena.kozlov@bank.com,+1-301-772-7598,2026-12-09,terminated
+EMP00301,BR013,Mila Yamamoto,Financial Advisor,mila.yamamoto@bank.com,+1-253-356-8060,2021-07-15,active
+EMP00302,BR027,Idris Gupta,Customer Service,idris.gupta@bank.com,+1-854-257-5289,2021-06-03,on_leave
+EMP00303,BR003,Axel Kowalski,Loan Officer,axel.kowalski@bank.com,+1-280-666-7622,2020-05-08,active
+EMP00304,BR016,Mei Mensah,Loan Officer,mei.mensah@bank.com,+1-607-911-4173,2026-06-22,active
+EMP00305,BR022,Anya Kimura,Loan Officer,anya.kimura@bank.com,+1-379-907-7746,2022-11-25,active
+EMP00306,BR065,Liam Tanaka,Teller,liam.tanaka@bank.com,+1-689-870-3474,2020-07-19,active
+EMP00307,BR034,Yara Tanaka,Financial Advisor,yara.tanaka@bank.com,+1-750-126-2106,2020-02-23,active
+EMP00308,BR022,Nora Osei,Customer Service,nora.osei@bank.com,+1-645-536-6196,2024-09-11,active
+EMP00309,BR065,Nadia Sharma,Manager,nadia.sharma@bank.com,+1-432-814-9741,2021-05-24,active
+EMP00310,BR042,Yara Adeyemi,Customer Service,yara.adeyemi@bank.com,+1-337-900-1740,2023-06-15,active
+EMP00311,BR047,Lucia Singh,Customer Service,lucia.singh@bank.com,+1-872-448-1719,2023-12-26,terminated
+EMP00312,BR041,Elias Mensah,Teller,elias.mensah@bank.com,+1-548-449-2159,2025-09-04,terminated
+EMP00313,BR003,Mila Sorokin,Customer Service,mila.sorokin@bank.com,+1-238-199-4108,2023-10-17,active
+EMP00314,BR064,Luna Svensson,Manager,luna.svensson@bank.com,+1-861-555-6123,2024-01-09,active
+EMP00315,BR039,Nora Adeyemi,Manager,nora.adeyemi@bank.com,+1-485-289-9047,2025-05-24,on_leave
+EMP00316,BR051,Dina Tanaka,Loan Officer,dina.tanaka@bank.com,+1-730-823-5734,2020-01-18,active
+EMP00317,BR043,Kira Sorokin,Teller,kira.sorokin@bank.com,+1-961-673-9624,2020-02-19,active
+EMP00318,BR027,Omar Mendoza,Manager,omar.mendoza@bank.com,+1-589-214-4845,2022-11-08,on_leave
+EMP00319,BR009,Omar Takahashi,Customer Service,omar.takahashi@bank.com,+1-937-285-4639,2025-12-15,active
+EMP00320,BR040,Leila Nilsson,Loan Officer,leila.nilsson@bank.com,+1-721-916-8109,2023-07-25,on_leave
+EMP00321,BR067,Aisha Okafor,Manager,aisha.okafor@bank.com,+1-428-999-7824,2025-07-24,active
+EMP00322,BR049,Leo Castellano,Manager,leo.castellano@bank.com,+1-542-518-6443,2026-11-20,active
+EMP00323,BR067,Yuki Castellano,Manager,yuki.castellano@bank.com,+1-258-484-3956,2025-03-23,active
+EMP00324,BR042,Leila Mensah,Manager,leila.mensah@bank.com,+1-879-338-2097,2025-04-04,active
+EMP00325,BR066,Yara Okafor,Manager,yara.okafor@bank.com,+1-499-202-5616,2021-02-20,active
+EMP00326,BR001,Priya Ivanov,Teller,priya.ivanov@bank.com,+1-238-413-3835,2024-11-02,active
+EMP00327,BR036,Andre Antonov,Manager,andre.antonov@bank.com,+1-220-144-1149,2024-04-10,active
+EMP00328,BR007,Mateo Moreau,Financial Advisor,mateo.moreau@bank.com,+1-749-538-2137,2022-12-25,active
+EMP00329,BR057,Anya Singh,Teller,anya.singh@bank.com,+1-629-780-3217,2022-04-30,active
+EMP00330,BR017,Viktor Kimura,Customer Service,viktor.kimura@bank.com,+1-656-117-1773,2024-09-12,active
