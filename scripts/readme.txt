@@ -4,7 +4,10 @@ python scripts/csv_importer.py — import raw CSV data
 python scripts/raw_to_stg.py — transform raw to staging
 python scripts/stg_to_rpt.py — create report tables
 
-streamlit run dashboard/app.py — view the dashboard
+python -m streamlit run dashboard/app.py — view the dashboard
+
+
+https://sianda5j3sfbroenuz8pnf.streamlit.app/
 
 ETL_V2/
 │
