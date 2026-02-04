@@ -4,6 +4,7 @@ python scripts/generate_sample_data.py
 python scripts/generate_new_data.py      -- Generate new data
 python scripts/run_pipeline.py --import raw CSV data, transform raw to staging, create report tables
 
+python scripts/enrich_existing_data.py
 
 python -m streamlit run dashboard/app.py — view the dashboard
 

@@ -1,41 +1,41 @@
 employee_id,branch_id,name,role,email,phone,hire_date,status
-EMP00331,BR055,Penny Ibrahim,Teller,penny.ibrahim@bank.com,+1-889-312-6782,2026-02-27,on_leave
-EMP00332,BR020,Harriet Gupta,Customer Service,harriet.gupta@bank.com,+1-951-298-9777,2021-05-30,active
-EMP00333,BR066,Allison Fujimoto,Loan Officer,allison.fujimoto@bank.com,+1-445-644-4883,2026-05-31,active
-EMP00334,BR005,Bliss Okonkwo,Financial Advisor,bliss.okonkwo@bank.com,+1-289-837-3995,2021-10-27,active
-EMP00335,BR035,Keon Kowalski,Teller,keon.kowalski@bank.com,+1-329-491-8680,2022-04-26,active
-EMP00336,BR007,Burnie Al-Rashid,Customer Service,burnie.al-rashid@bank.com,+1-287-552-3673,2025-03-12,on_leave
-EMP00337,BR067,Nanette Nilsson,Customer Service,nanette.nilsson@bank.com,+1-903-188-1608,2021-01-27,active
-EMP00338,BR040,Federico Bergstrom,Loan Officer,federico.bergstrom@bank.com,+1-569-805-2664,2020-09-27,active
-EMP00339,BR043,Anahi Okonkwo,Manager,anahi.okonkwo@bank.com,+1-445-961-7812,2025-04-14,active
-EMP00340,BR061,Mena Mendoza,Financial Advisor,mena.mendoza@bank.com,+1-904-567-8793,2024-06-02,active
-EMP00341,BR002,Merlene Johansson,Manager,merlene.johansson@bank.com,+1-906-176-8592,2023-10-23,active
-EMP00342,BR026,Marisa Antonov,Teller,marisa.antonov@bank.com,+1-396-711-6508,2025-02-23,active
-EMP00343,BR040,Rachelle Nakamura,Financial Advisor,rachelle.nakamura@bank.com,+1-933-635-5460,2023-08-20,active
-EMP00344,BR034,Jackson Nilsson,Loan Officer,jackson.nilsson@bank.com,+1-244-518-5077,2020-08-14,active
-EMP00345,BR044,Rene Yamamoto,Teller,rene.yamamoto@bank.com,+1-434-798-9295,2020-08-24,active
-EMP00346,BR018,Evalena Osei,Manager,evalena.osei@bank.com,+1-372-469-8523,2026-08-17,on_leave
-EMP00347,BR064,Hanna Diallo,Manager,hanna.diallo@bank.com,+1-284-693-3607,2022-12-15,active
-EMP00348,BR032,Katharina Yamamoto,Financial Advisor,katharina.yamamoto@bank.com,+1-635-608-1823,2023-07-14,active
-EMP00349,BR042,Gilmer Kimura,Customer Service,gilmer.kimura@bank.com,+1-298-439-5815,2025-04-24,active
-EMP00350,BR002,Georgine Tanaka,Manager,georgine.tanaka@bank.com,+1-638-824-9435,2024-11-30,active
-EMP00351,BR032,Antoine Fujimoto,Loan Officer,antoine.fujimoto@bank.com,+1-896-657-7867,2022-10-06,active
-EMP00352,BR039,Darian Bergstrom,Customer Service,darian.bergstrom@bank.com,+1-392-434-7241,2026-12-28,active
-EMP00353,BR002,Maralyn Antonov,Manager,maralyn.antonov@bank.com,+1-376-306-2722,2023-03-08,active
-EMP00354,BR027,Caitlyn Khatri,Customer Service,caitlyn.khatri@bank.com,+1-545-354-8438,2021-06-19,active
-EMP00355,BR058,Pate Sorokin,Customer Service,pate.sorokin@bank.com,+1-257-816-5839,2023-08-08,active
-EMP00356,BR030,Vicie Antonov,Loan Officer,vicie.antonov@bank.com,+1-416-404-7815,2022-05-02,active
-EMP00357,BR074,Will Santos,Customer Service,will.santos@bank.com,+1-684-933-3710,2020-03-22,active
-EMP00358,BR014,Kaiya Sorokin,Teller,kaiya.sorokin@bank.com,+1-369-495-2633,2026-06-15,active
-EMP00359,BR071,Thursa Svensson,Manager,thursa.svensson@bank.com,+1-473-957-3349,2020-12-15,active
-EMP00360,BR016,Anthoney Johansson,Customer Service,anthoney.johansson@bank.com,+1-769-585-4619,2024-01-28,on_leave
-EMP00361,BR050,Earnest Svensson,Teller,earnest.svensson@bank.com,+1-654-581-4986,2020-10-21,active
-EMP00362,BR061,Coralie Rivera,Customer Service,coralie.rivera@bank.com,+1-577-348-2083,2025-12-22,on_leave
-EMP00363,BR005,Laisha Ericsson,Customer Service,laisha.ericsson@bank.com,+1-419-201-2970,2025-03-24,active
-EMP00364,BR019,Denis Takahashi,Manager,denis.takahashi@bank.com,+1-423-517-4443,2025-08-09,active
-EMP00365,BR028,Izola Fernandez,Financial Advisor,izola.fernandez@bank.com,+1-627-680-8911,2020-04-14,active
-EMP00366,BR054,Larkin Yamamoto,Customer Service,larkin.yamamoto@bank.com,+1-478-296-3754,2020-11-06,active
-EMP00367,BR024,Sharman Mensah,Teller,sharman.mensah@bank.com,+1-595-466-9507,2020-04-01,active
-EMP00368,BR046,Katlin Ibrahim,Loan Officer,katlin.ibrahim@bank.com,+1-831-682-2235,2023-06-16,active
-EMP00369,BR041,Marjory Okonkwo,Teller,marjory.okonkwo@bank.com,+1-241-473-8845,2022-02-26,active
-EMP00370,BR057,Corda Sharma,Financial Advisor,corda.sharma@bank.com,+1-323-639-7575,2026-06-12,active
+EMP00451,BR102,Forest Antonov,Financial Advisor,forest.antonov@bank.com,+1-476-972-3361,2025-12-07,active
+EMP00452,BR105,Pernell Khatri,Loan Officer,pernell.khatri@bank.com,+1-318-148-9306,2022-07-07,active
+EMP00453,BR071,Arline Nilsson,Manager,arline.nilsson@bank.com,+1-724-359-5156,2021-08-17,active
+EMP00454,BR105,Ezzard Watanabe,Financial Advisor,ezzard.watanabe@bank.com,+1-202-826-3623,2021-04-05,active
+EMP00455,BR024,Violet Bergstrom,Financial Advisor,violet.bergstrom@bank.com,+1-714-701-7063,2024-08-25,active
+EMP00456,BR076,Genesis Nilsson,Manager,genesis.nilsson@bank.com,+1-235-982-4455,2024-08-08,active
+EMP00457,BR016,Yadira Ivanov,Manager,yadira.ivanov@bank.com,+1-709-407-6429,2024-04-16,on_leave
+EMP00458,BR045,Pricilla Costa,Financial Advisor,pricilla.costa@bank.com,+1-469-969-5619,2020-12-24,terminated
+EMP00459,BR001,Adelyn Tanaka,Loan Officer,adelyn.tanaka@bank.com,+1-715-412-2864,2025-02-07,active
+EMP00460,BR036,Adelaide Lindqvist,Customer Service,adelaide.lindqvist@bank.com,+1-212-713-1252,2023-03-20,active
+EMP00461,BR048,Stephany Ericsson,Manager,stephany.ericsson@bank.com,+1-616-606-9041,2020-08-07,active
+EMP00462,BR036,Kizzy Costa,Loan Officer,kizzy.costa@bank.com,+1-552-825-8020,2026-04-03,active
+EMP00463,BR048,Carlton Okafor,Loan Officer,carlton.okafor@bank.com,+1-844-657-4474,2022-02-06,active
+EMP00464,BR001,Daxton Lindqvist,Manager,daxton.lindqvist@bank.com,+1-888-784-4126,2022-08-01,active
+EMP00465,BR075,Loring Kozlov,Manager,loring.kozlov@bank.com,+1-407-692-7679,2023-06-19,active
+EMP00466,BR016,Mikayla Sorokin,Loan Officer,mikayla.sorokin@bank.com,+1-960-673-4229,2024-09-28,active
+EMP00467,BR017,Elise Castellano,Teller,elise.castellano@bank.com,+1-538-114-7793,2021-08-07,active
+EMP00468,BR054,Pollie Ibrahim,Loan Officer,pollie.ibrahim@bank.com,+1-246-642-4810,2022-04-18,terminated
+EMP00469,BR081,Cooper Gupta,Customer Service,cooper.gupta@bank.com,+1-219-352-5017,2021-01-01,active
+EMP00470,BR075,Orpha Diallo,Financial Advisor,orpha.diallo@bank.com,+1-977-892-8785,2022-11-09,active
+EMP00471,BR016,Latoria Sorokin,Financial Advisor,latoria.sorokin@bank.com,+1-797-434-1390,2025-09-10,active
+EMP00472,BR040,Ethen Kowalski,Customer Service,ethen.kowalski@bank.com,+1-680-636-5974,2023-06-04,active
+EMP00473,BR076,Dirk Antonov,Loan Officer,dirk.antonov@bank.com,+1-579-773-7496,2021-08-16,on_leave
+EMP00474,BR017,Jeramie Diallo,Manager,jeramie.diallo@bank.com,+1-800-530-2811,2021-02-06,active
+EMP00475,BR042,Albertus Ibrahim,Financial Advisor,albertus.ibrahim@bank.com,+1-299-540-5514,2021-10-25,active
+EMP00476,BR024,Shianne Svensson,Financial Advisor,shianne.svensson@bank.com,+1-553-819-8774,2023-12-14,active
+EMP00477,BR028,Jobe Osei,Manager,jobe.osei@bank.com,+1-930-878-8387,2026-01-02,active
+EMP00478,BR064,Issac Okafor,Customer Service,issac.okafor@bank.com,+1-839-160-5933,2023-03-30,active
+EMP00479,BR007,Ever Okonkwo,Teller,ever.okonkwo@bank.com,+1-327-191-3463,2021-10-08,terminated
+EMP00480,BR063,Bryana Lindqvist,Teller,bryana.lindqvist@bank.com,+1-827-233-7608,2020-12-15,active
+EMP00481,BR050,Cristen Tanaka,Teller,cristen.tanaka@bank.com,+1-484-771-9314,2020-11-16,active
+EMP00482,BR033,Brionna Okafor,Teller,brionna.okafor@bank.com,+1-685-162-4264,2020-07-03,active
+EMP00483,BR059,Storm Mensah,Financial Advisor,storm.mensah@bank.com,+1-795-662-8508,2020-07-04,active
+EMP00484,BR083,Nicki Sharma,Manager,nicki.sharma@bank.com,+1-831-336-6191,2026-04-21,active
+EMP00485,BR035,Emilia Mendoza,Customer Service,emilia.mendoza@bank.com,+1-212-832-2441,2022-08-16,active
+EMP00486,BR084,Pam Volkov,Loan Officer,pam.volkov@bank.com,+1-506-118-7655,2025-05-21,active
+EMP00487,BR010,Martine Osei,Loan Officer,martine.osei@bank.com,+1-443-298-5848,2023-04-09,active
+EMP00488,BR016,Crista Adeyemi,Loan Officer,crista.adeyemi@bank.com,+1-850-496-3389,2020-03-10,active
+EMP00489,BR060,Pauletta Kimura,Manager,pauletta.kimura@bank.com,+1-756-337-9142,2025-05-14,active
+EMP00490,BR029,Tameka Antonov,Teller,tameka.antonov@bank.com,+1-997-170-9259,2020-03-03,active
