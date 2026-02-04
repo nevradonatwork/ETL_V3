@@ -50,9 +50,9 @@ def main():
     # Pass --sample flag if provided
     importer_args = ['--sample'] if '--sample' in sys.argv else []
 
-    # stdin_input="no\n" auto-answers the "Move processed files?" prompt
+    # stdin_input="yes\n" auto-answers the "Move processed files?" prompt
     steps = [
-        (1, "Import CSV Data", os.path.join(root, 'scripts', 'csv_importer.py'), importer_args, "no\n"),
+        (1, "Import CSV Data", os.path.join(root, 'scripts', 'csv_importer.py'), importer_args, "yes\n"),
         (2, "Raw to Staging",  os.path.join(root, 'scripts', 'raw_to_stg.py'),   None, None),
         (3, "Staging to Report", os.path.join(root, 'scripts', 'stg_to_rpt.py'), None, None),
     ]

@@ -1,0 +1,21 @@
+atm_id,branch_id,address,city,latitude,longitude,available_24h,withdrawal_fee,deposit_enabled,status
+ATM0121,BR049,5933 Maple Drive,Kansas City,25.894108,-121.423903,0,2.5,0,operational
+ATM0122,BR031,1714 Elm Boulevard,Louisville,39.483648,-89.956189,1,0,0,operational
+ATM0123,BR004,5757 Elm Boulevard,Sacramento,41.356881,-108.619517,1,3.0,0,operational
+ATM0124,BR026,6680 Cypress Path,Cincinnati,45.227843,-114.655743,0,0,0,operational
+ATM0125,BR034,1492 Elm Boulevard,Raleigh,25.145027,-114.29808,1,0,1,operational
+ATM0126,BR033,6406 Hickory Drive,Cincinnati,35.096717,-78.226357,1,3.5,1,operational
+ATM0127,BR060,8904 Oak Avenue,Kansas City,30.37857,-111.96679,0,2.5,0,operational
+ATM0128,BR046,2308 Magnolia Street,Raleigh,47.356396,-106.299963,0,2.5,0,operational
+ATM0129,BR044,4491 Birch Court,Atlanta,40.419691,-109.211553,1,0,0,operational
+ATM0130,BR021,4627 Cypress Path,Minneapolis,27.294999,-73.197013,0,3.5,0,operational
+ATM0131,BR063,1411 Cedar Lane,Las Vegas,41.769342,-111.429483,0,3.0,1,operational
+ATM0132,BR009,2433 Magnolia Street,Milwaukee,33.838291,-92.557827,1,0,0,operational
+ATM0133,BR012,9767 Aspen Circle,Orlando,44.951469,-88.061245,1,0,0,operational
+ATM0134,BR009,8548 Aspen Circle,Pittsburgh,42.83508,-75.301959,0,3.0,0,operational
+ATM0135,BR048,7733 Poplar Road,Pittsburgh,38.237013,-91.102099,0,3.5,1,operational
+ATM0136,BR053,9527 Redwood Place,Atlanta,45.188226,-116.662793,1,3.0,0,maintenance
+ATM0137,BR037,9180 Birch Court,Salt Lake City,33.34634,-104.468179,1,2.5,1,operational
+ATM0138,BR032,8054 Hickory Drive,Cleveland,47.356807,-109.110708,1,0,0,operational
+ATM0139,BR006,5068 Willow Way,Minneapolis,33.753265,-101.235166,0,0,0,operational
+ATM0140,BR062,3967 Hickory Drive,Cleveland,32.325665,-115.867179,0,0,0,operational
