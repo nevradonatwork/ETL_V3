@@ -37,20 +37,35 @@ def load_db_config():
 
 ROOT = get_project_root()
 INCOMING_FOLDER = os.path.normpath(os.path.join(ROOT, 'data', 'incoming'))
+BABY_NAMES_FILE = os.path.normpath(os.path.join(ROOT, 'data', 'Popular_Baby_Names.csv'))
 DATE_STR = datetime.now().strftime("%Y%m%d")
 
+
 # --------------------------------------------------------------------------
-# Name pools — completely different from the original sample data
+# Load first names from Popular_Baby_Names.csv
 # --------------------------------------------------------------------------
-FIRST_NAMES = [
-    'Aisha', 'Yuki', 'Priya', 'Liam', 'Fatima', 'Carlos', 'Mei', 'Andre',
-    'Zara', 'Kenji', 'Ines', 'Omar', 'Svetlana', 'Tariq', 'Chloe',
-    'Dmitri', 'Amara', 'Ravi', 'Elena', 'Hassan', 'Luna', 'Kofi',
-    'Nadia', 'Santiago', 'Yara', 'Viktor', 'Leila', 'Mateo', 'Suki',
-    'Felix', 'Anya', 'Rafael', 'Dina', 'Marco', 'Ayla', 'Nikolai',
-    'Camila', 'Jin', 'Rosa', 'Elias', 'Mila', 'Idris', 'Lucia',
-    'Henrik', 'Kira', 'Dante', 'Amira', 'Leo', 'Nora', 'Axel'
-]
+def load_baby_names():
+    """Load unique first names from the Popular_Baby_Names.csv file."""
+    if not os.path.exists(BABY_NAMES_FILE):
+        print(f"  WARNING: {BABY_NAMES_FILE} not found, using fallback names")
+        return [
+            'Aisha', 'Yuki', 'Priya', 'Liam', 'Fatima', 'Carlos', 'Mei',
+            'Zara', 'Kenji', 'Omar', 'Chloe', 'Elena', 'Luna', 'Mateo',
+            'Felix', 'Anya', 'Rafael', 'Marco', 'Nora', 'Leo'
+        ]
+
+    names = set()
+    with open(BABY_NAMES_FILE, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            name = row.get('name', '').strip()
+            if name and len(name) >= 2:
+                names.add(name)
+
+    return sorted(names)
+
+
+FIRST_NAMES = load_baby_names()
 
 LAST_NAMES = [
     'Nakamura', 'Okafor', 'Petrov', 'Svensson', 'Al-Rashid', 'Moreau',
